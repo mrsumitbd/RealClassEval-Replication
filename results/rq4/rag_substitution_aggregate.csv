@@ -1,0 +1,14 @@
+,Non-RAG_Count,RAG_Count,Absolute_Diff,Non-RAG_Pct,RAG_Pct,Pct_Point_Diff
+AttributeError,639,579,-60,45.97,48.05,2.0799999999999983
+Other,129,76,-53,9.28,6.31,-2.9699999999999998
+AssertionError,233,190,-43,16.76,15.77,-0.990000000000002
+ValueError,46,28,-18,3.31,2.32,-0.9900000000000002
+TypeError,320,304,-16,23.02,25.23,2.210000000000001
+NameError,6,2,-4,0.43,0.17,-0.26
+RuntimeError,2,0,-2,0.14,0.0,-0.14
+IndexError,0,0,0,0.0,0.0,0.0
+ZeroDivisionError,0,0,0,0.0,0.0,0.0
+SyntaxError,0,0,0,0.0,0.0,0.0
+FileNotFoundError,2,3,1,0.14,0.25,0.10999999999999999
+KeyError,11,16,5,0.79,1.33,0.54
+ImportError,2,7,5,0.14,0.58,0.43999999999999995
