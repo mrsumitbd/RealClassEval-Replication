@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_373.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_373,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_373.py,,,failed,"AssertionError: assert '/Users/musfiqurrahman/Documents/PhD/Replication_Packages_Backup/OpenClassGen/src' is None
- +  where '/Users/musfiqurrahman/Documents/PhD/Replication_Packages_Backup/OpenClassGen/src' = <snippet_373._TPCDataGenerator object at 0x10e9f7280>.target_mount_folder_path",0.000640968995867297

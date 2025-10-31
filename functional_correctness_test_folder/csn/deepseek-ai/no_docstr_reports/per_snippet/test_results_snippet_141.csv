@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_141.py,,,passed,,8.791699656285346e-05
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'builtins.function' == 'functools.partial'
-  
-  - functools.partial
-  + builtins.function",0.00022633298067376018

@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_140.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_140,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_140.py,,,failed,TypeError: expected string or bytes-like object,0.00023312499979510903

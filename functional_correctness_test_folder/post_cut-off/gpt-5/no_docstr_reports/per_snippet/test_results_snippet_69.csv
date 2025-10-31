@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_69.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_69,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_69.py,,xfail,xfailed,,0.0002902739797718823
-functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_69.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_69,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_69.py,,,failed,AttributeError: 'CompositeCallbackHandler' object has no attribute 'handlers'. Did you mean: '_handlers'?,0.00025578198255971074

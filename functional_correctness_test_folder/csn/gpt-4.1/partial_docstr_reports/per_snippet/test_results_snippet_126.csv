@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_126.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_126,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_126.py,,xfail,xfailed,,9.970797691494226e-05
-functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_126.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_126,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_126.py,,,failed,IndexError: tuple index out of range,0.0001026670215651393

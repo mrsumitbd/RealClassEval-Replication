@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_72.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_72,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_72.py,,,failed,"AssertionError: assert '(|fr|Rb|R|Br...R|bR|BR|U|rb)' == '(|rf|rb|B|f|...fr|U|br|b|FR)'
-  
-  - (|rf|rb|B|f|R|Br|BR|fR|rF|Rb|rB|r|F|u|RB|Fr|bR|RF|Rf|fr|U|br|b|FR)
-  + (|fr|Rb|R|Br|rB|F|B|Fr|b|u|FR|f|r|br|RF|rf|RB|Rf|rF|fR|bR|BR|U|rb)",0.0015097300056368113
-functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_72.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_72,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_72.py,,,failed,AttributeError: 'SessionAgent' object has no attribute 'agent_id',0.0003726969880517572

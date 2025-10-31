@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_43.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.partial_docstr.test_snippet_43,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_43.py,,,failed,"AssertionError: assert 'EST' == 'America/Toronto'
-  
-  - America/Toronto
-  + EST",0.0005692659760825336
-functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_43.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.partial_docstr.test_snippet_43,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_43.py,,xfail,failed,[XPASS(strict)] ,0.0016896830056793988

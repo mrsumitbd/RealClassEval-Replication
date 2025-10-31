@@ -1,4 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_74.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_74,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_74.py,,,passed,,9.420800051884726e-05
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_74.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_74,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_74.py,,,failed,Failed: DID NOT RAISE <class 'AssertionError'>,9.88750034593977e-05
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_74.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_74,test_case_2,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_74.py,,,passed,,7.791700045345351e-05

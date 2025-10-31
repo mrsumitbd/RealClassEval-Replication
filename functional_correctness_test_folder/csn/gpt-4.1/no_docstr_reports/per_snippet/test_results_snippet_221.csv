@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_221.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_221,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_221.py,,xfail,xfailed,,8.604201138950884e-05
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_221.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_221,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_221.py,,,failed,AttributeError: 'Attachment' object has no attribute 'file_name'. Did you mean: 'filename'?,7.858299068175256e-05

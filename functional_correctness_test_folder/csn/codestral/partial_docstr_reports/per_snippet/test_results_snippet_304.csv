@@ -1,8 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_304.py::test_case_0,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_304,test_case_0,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_304.py,,xfail,xfailed,,9.445799514651299e-05
-functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_304.py::test_case_1,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_304,test_case_1,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_304.py,,xfail,xfailed,,0.0001568750012665987
-functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_304.py::test_case_2,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_304,test_case_2,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_304.py,,,failed,"AssertionError: assert 'builtins.NoneType' == 'snippet_304....andDispatcher'
-  
-  - snippet_304.CommandDispatcher
-  + builtins.NoneType",0.0001504159881733358
-functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_304.py::test_case_3,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_304,test_case_3,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_304.py,,xfail,xfailed,,6.166700040921569e-05

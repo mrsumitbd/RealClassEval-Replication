@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_145.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_145,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_145.py,,xfail,xfailed,,8.779100608080626e-05
-functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_145.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_145,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_145.py,,,failed,AttributeError: '_MethodDocDescriptor' object has no attribute 'ref',8.241599425673485e-05

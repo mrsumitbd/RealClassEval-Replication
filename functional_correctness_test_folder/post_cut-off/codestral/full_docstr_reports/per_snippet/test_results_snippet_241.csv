@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_241.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_241,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_241.py,,,failed,AttributeError: 'Configuration' object has no attribute 'api_key',0.0021986339997965842

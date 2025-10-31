@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_87.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_87,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_87.py,,,failed,KeyError: 'texts',0.00032132898923009634
-functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_87.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_87,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_87.py,,,passed,,0.0008612039964646101

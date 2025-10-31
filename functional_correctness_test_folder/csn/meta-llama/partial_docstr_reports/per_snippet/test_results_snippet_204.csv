@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_204.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_204,test_case_0,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_204.py,,xfail,xfailed,,9.683400276117027e-05
-functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_204.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_204,test_case_1,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_204.py,,,passed,,9.633300942368805e-05

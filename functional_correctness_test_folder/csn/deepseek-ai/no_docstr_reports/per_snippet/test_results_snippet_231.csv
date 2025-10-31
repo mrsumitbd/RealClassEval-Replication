@@ -1,7 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_231.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_231,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_231.py,,,passed,,7.641597767360508e-05
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_231.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_231,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_231.py,,,failed,"assert 17 == 8.5 ± 0.085
-  
-  comparison failed
-  Obtained: 17
-  Expected: 8.5 ± 0.085",0.00023187501938082278

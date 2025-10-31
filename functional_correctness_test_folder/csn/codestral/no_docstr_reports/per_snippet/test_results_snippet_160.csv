@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_160.py::test_case_0,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_160,test_case_0,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_160.py,,,failed,AttributeError: type object 'SBVCueBlock' has no attribute 'CUE_TIMINGS_PATTERN',0.0005140409921295941

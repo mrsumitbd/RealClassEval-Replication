@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_159.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_159,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_159.py,,,failed,AttributeError: 'Style' object has no attribute 'lines',8.312499267049134e-05
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_159.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_159,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_159.py,,,failed,TypeError: Text must be a string or a list of strings,0.00033412501215934753

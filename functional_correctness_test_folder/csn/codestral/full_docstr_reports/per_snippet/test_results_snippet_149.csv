@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_149.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_149,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_149.py,,,passed,,0.00014612499944632873
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_149.py::test_case_1,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_149,test_case_1,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_149.py,,,failed,ValueError: (865-3827.936j) must be a string,7.991700113052502e-05

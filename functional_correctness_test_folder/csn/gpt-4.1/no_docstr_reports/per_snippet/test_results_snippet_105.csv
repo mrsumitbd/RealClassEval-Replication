@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_105.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_105,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_105.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.0001637499954085797
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_105.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_105,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_105.py,,,failed,"TypeError: list indices must be integers or slices, not NoneType",0.000154208013555035

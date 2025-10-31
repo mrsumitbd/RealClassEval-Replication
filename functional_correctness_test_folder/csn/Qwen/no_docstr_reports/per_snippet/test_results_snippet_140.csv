@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_140.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_140,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_140.py,,,failed,"TypeError: Incoming markup is of an invalid type: <snippet_140.AbstractHtmlConverter object at 0x1037055d0>. Markup must be a string, a bytestring, or an open filehandle.",0.06941699999151751

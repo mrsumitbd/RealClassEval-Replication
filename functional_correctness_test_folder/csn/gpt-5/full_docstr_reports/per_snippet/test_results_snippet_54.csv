@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_54.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_54,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_54.py,,,failed,AttributeError: 'Enum' object has no attribute 'val_map',7.90410049376078e-05
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_54.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_54,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_54.py,,,failed,AttributeError: 'Enum' object has no attribute 'val_map',8.070799958659336e-05

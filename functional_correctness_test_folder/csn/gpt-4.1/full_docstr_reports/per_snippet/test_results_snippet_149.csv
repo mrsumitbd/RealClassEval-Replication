@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_149.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_149,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_149.py,,,passed,,0.0002822500027832575
-functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_149.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_149,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_149.py,,,failed,"ValueError: Value for (865-3827.936j) must be a string, got TorConfigType",7.966699922690168e-05

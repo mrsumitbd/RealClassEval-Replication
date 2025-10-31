@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_314.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_314,test_case_0,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_314.py,,xfail,failed,[XPASS(strict)] ,0.000265335023868829
-functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_314.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_314,test_case_1,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_314.py,,,failed,Failed: DID NOT RAISE <class 'bedrock_server_manager.error.MissingArgumentError'>,0.0002885430003516376

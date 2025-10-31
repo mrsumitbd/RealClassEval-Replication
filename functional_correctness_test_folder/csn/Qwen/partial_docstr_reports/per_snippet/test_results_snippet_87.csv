@@ -1,4 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_87.py::test_case_0,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_87,test_case_0,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_87.py,,,failed,Failed: DID NOT RAISE <class 'ValueError'>,9.866600157693028e-05
-functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_87.py::test_case_1,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_87,test_case_1,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_87.py,,,passed,,0.0001848330139182508
-functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_87.py::test_case_2,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_87,test_case_2,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_87.py,,,passed,,0.00015695899492129683

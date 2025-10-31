@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_164.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_164,test_case_0,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_164.py,,,failed,"assert 0 is None
- +  where 0 = <snippet_164.patch_obj object at 0x1082e3190>.start1",0.00014129202463664114

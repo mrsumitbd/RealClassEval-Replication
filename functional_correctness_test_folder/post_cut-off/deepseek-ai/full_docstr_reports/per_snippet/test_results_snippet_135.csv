@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_135.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_135,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_135.py,,,failed,pynvml.NVMLError_LibraryNotFound: NVML Shared Library Not Found,0.0031225450002239086
-functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_135.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_135,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_135.py,,,passed,,0.0002397580028627999

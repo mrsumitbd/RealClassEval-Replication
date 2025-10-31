@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_120.py::test_case_0,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_120,test_case_0,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_120.py,,,passed,,7.450001430697739e-05

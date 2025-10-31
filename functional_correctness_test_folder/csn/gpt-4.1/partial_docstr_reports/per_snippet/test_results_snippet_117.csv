@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_117.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_117,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_117.py,,,passed,,7.175002247095108e-05
-functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_117.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_117,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_117.py,,xfail,xfailed,,7.029101834632456e-05

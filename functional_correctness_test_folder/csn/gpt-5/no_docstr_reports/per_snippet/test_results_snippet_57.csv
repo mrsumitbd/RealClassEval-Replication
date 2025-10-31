@@ -1,5 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_57.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_57,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_57.py,,,passed,,9.812501957640052e-05
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_57.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_57,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_57.py,,xfail,xfailed,,6.779201794415712e-05
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_57.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_57,test_case_2,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_57.py,,,passed,,8.233397966250777e-05
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_57.py::test_case_3,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_57,test_case_3,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_57.py,,,passed,,5.666702054440975e-05

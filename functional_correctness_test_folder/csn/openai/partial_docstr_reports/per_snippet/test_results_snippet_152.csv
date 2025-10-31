@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_152.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_152,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_152.py,,,passed,,0.0008965839806478471
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_152.py::test_case_1,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_152,test_case_1,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_152.py,,,failed,TypeError: element must be a bs4.Tag instance,7.54169886931777e-05

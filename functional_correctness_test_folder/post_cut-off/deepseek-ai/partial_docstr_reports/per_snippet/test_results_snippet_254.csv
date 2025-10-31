@@ -1,7 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_254.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_254,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_254.py,,,passed,,0.000458806985989213
-functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_254.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_254,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_254.py,,,failed,"AssertionError: assert '首次对话' == ''
-  
-  + 首次对话",0.0012448639899957925
-functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_254.py::test_case_2,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_254,test_case_2,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_254.py,,xfail,xfailed,,0.0002684979990590364
-functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_254.py::test_case_3,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_254,test_case_3,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_254.py,,,failed,"TypeError: expected str, bytes or os.PathLike object, not NoneType",0.0006609430129174143

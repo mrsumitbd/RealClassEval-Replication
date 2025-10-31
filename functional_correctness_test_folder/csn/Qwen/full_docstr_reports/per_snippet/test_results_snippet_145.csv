@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_145.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_145,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_145.py,,xfail,xfailed,,8.037500083446503e-05
-functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_145.py::test_case_1,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_145,test_case_1,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_145.py,,,failed,TypeError: cannot create weak reference to 'int' object,7.775000267429277e-05

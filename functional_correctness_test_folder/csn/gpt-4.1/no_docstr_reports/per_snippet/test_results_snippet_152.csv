@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_152.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_152,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_152.py,,,passed,,0.0003917499852832407
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_152.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_152,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_152.py,,,failed,AttributeError: 'NoneType' object has no attribute 'contents',8.13750084489584e-05

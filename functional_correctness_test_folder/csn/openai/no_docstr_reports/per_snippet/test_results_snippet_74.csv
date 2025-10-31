@@ -1,4 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_74.py::test_case_0,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_74,test_case_0,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_74.py,,,passed,,9.43340128287673e-05
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_74.py::test_case_1,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_74,test_case_1,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_74.py,,,failed,TypeError: getattr(): attribute name must be string,0.00011195798288099468
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_74.py::test_case_2,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_74,test_case_2,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_74.py,,,passed,,8.129101479426026e-05

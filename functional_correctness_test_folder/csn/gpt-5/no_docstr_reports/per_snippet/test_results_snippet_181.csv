@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_181.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_181,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_181.py,,xfail,xfailed,,0.00013295799726620317
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_181.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_181,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_181.py,,,failed,AttributeError: module 'snippet_181' has no attribute 'qType',0.00011250001261942089

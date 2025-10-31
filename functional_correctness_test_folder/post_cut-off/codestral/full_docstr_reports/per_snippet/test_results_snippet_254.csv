@@ -1,7 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_254.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_254,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_254.py,,,passed,,0.000471744999231305
-functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_254.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_254,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_254.py,,,failed,"AssertionError: assert '距上次对话这是第一次对话' == ''
-  
-  + 距上次对话这是第一次对话",0.001217879995238036
-functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_254.py::test_case_2,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_254,test_case_2,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_254.py,,xfail,xfailed,,0.0004390130052343011
-functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_254.py::test_case_3,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_254,test_case_3,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_254.py,,,failed,"TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType",0.000361127000360284

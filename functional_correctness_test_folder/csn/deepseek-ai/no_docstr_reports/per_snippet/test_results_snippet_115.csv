@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_115.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_115,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_115.py,,,failed,"assert ""Variable('False')"" is False",0.000162499985890463

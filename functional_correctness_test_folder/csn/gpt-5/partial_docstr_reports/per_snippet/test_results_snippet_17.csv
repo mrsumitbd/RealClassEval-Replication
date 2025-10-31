@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_17.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_17,test_case_0,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_17.py,,,failed,TypeError: Unsupported type specification,9.833299554884434e-05
-functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_17.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_17,test_case_1,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_17.py,,,failed,TypeError: Unsupported type specification,7.499998901039362e-05

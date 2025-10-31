@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_209.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_209,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_209.py,,xfail,failed,[XPASS(strict)] ,7.29160092305392e-05

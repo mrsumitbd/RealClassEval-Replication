@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_103.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_103,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_103.py,,,failed,AttributeError: 'Reader' object has no attribute 's',8.72919918037951e-05
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_103.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_103,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_103.py,,xfail,xfailed,,7.054200978018343e-05

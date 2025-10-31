@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_17.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_17,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_17.py,,,failed,AttributeError: 'Variable' object has no attribute 'type'. Did you mean: '_type'?,7.737500709481537e-05
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_17.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_17,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_17.py,,,failed,AttributeError: 'Variable' object has no attribute 'type'. Did you mean: '_type'?,7.795801502652466e-05

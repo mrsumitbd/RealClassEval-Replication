@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_110.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_110,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_110.py,,,passed,,0.0002498099929653108

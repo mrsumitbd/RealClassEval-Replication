@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_135.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_135,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_135.py,,,failed,AttributeError: 'NoOpTraceId' object has no attribute 'start_time',7.866699888836592e-05
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_135.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_135,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_135.py,,,failed,AttributeError: 'NoOpTraceId' object has no attribute 'start_time',9.829200280364603e-05

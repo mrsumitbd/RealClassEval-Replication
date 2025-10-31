@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_241.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_241,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_241.py,,xfail,xfailed,,0.00010883298818953335
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_241.py::test_case_1,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_241,test_case_1,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_241.py,,,failed,TypeError: issue_type must be a string,7.966699195094407e-05

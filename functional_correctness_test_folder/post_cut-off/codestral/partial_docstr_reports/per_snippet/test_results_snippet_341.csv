@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_341.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_341,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_341.py,,,failed,"AssertionError: assert 'Free(guess=False)' == 'Free(False)'
-  
-  - Free(False)
-  + Free(guess=False)
-  ?      ++++++",0.0006965610082261264

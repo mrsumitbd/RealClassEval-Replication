@@ -1,7 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_231.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_231,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_231.py,,,failed,TypeError: cannot convert 'NoneType' object to bytes,8.73749959282577e-05
-functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_231.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_231,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_231.py,,,failed,"assert 8 == 8.5 ± 0.085
-  
-  comparison failed
-  Obtained: 8
-  Expected: 8.5 ± 0.085",0.00140958400152158

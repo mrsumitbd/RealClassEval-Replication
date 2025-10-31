@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_259.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_259,test_case_0,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_259.py,,xfail,xfailed,,9.175000013783574e-05
-functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_259.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_259,test_case_1,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_259.py,,,failed,TypeError: WCxf.__init__() missing 1 required positional argument: 'data',9.07079956959933e-05

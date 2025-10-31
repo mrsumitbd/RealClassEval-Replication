@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_152.py::test_case_0,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_152,test_case_0,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_152.py,,,passed,,0.0005899579846300185
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_152.py::test_case_1,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_152,test_case_1,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_152.py,,,failed,TypeError: object of type 'NoneType' has no len(),0.00021470800857059658

@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_72.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_72,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_72.py,,,failed,"AssertionError: assert '(|Fr|R|RB|rF...|fr|rf|rb|Br)' == '(|rf|rb|B|f|...fr|U|br|b|FR)'
-  
-  - (|rf|rb|B|f|R|Br|BR|fR|rF|Rb|rB|r|F|u|RB|Fr|bR|RF|Rf|fr|U|br|b|FR)
-  + (|Fr|R|RB|rF|Rf|FR|Rb|fR|B|BR|RF|bR|rB|br|f|F|u|r|b|U|fr|rf|rb|Br)",0.0010757419950095937
-functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_72.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_72,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_72.py,,,failed,TypeError: SessionAgent.__init__() takes 3 positional arguments but 5 were given,0.00025778999406611547

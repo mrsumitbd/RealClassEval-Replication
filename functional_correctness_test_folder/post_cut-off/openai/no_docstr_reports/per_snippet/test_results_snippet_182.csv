@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_182.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_182,test_case_0,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_182.py,,,failed,"TypeError: write() argument must be str, not None",0.0005130299832671881
-functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_182.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_182,test_case_1,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_182.py,,,passed,,0.00026195700047537684

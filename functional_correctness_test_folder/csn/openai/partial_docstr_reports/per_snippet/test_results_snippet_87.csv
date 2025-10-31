@@ -1,4 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_87.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_87,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_87.py,,,failed,Failed: DID NOT RAISE <class 'ValueError'>,0.000530249992152676
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_87.py::test_case_1,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_87,test_case_1,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_87.py,,,passed,,7.591699250042439e-05
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_87.py::test_case_2,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_87,test_case_2,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_87.py,,,passed,,6.283301627263427e-05

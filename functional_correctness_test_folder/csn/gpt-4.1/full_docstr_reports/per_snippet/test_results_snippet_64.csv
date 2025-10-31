@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_64.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_64,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_64.py,,xfail,xfailed,,0.00017683300393400714

@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_51.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_51,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_51.py,,xfail,xfailed,,9.14169941097498e-05
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_51.py::test_case_1,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_51,test_case_1,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_51.py,,,failed,ZeroDivisionError: integer division or modulo by zero,8.658302249386907e-05

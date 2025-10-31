@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_371.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_371,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_371.py,,xfail,failed,[XPASS(strict)] ,0.000304490007692948
-functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_371.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_371,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_371.py,,,failed,"TypeError: expected str, bytes or os.PathLike object, not dict",0.0004313200188335031

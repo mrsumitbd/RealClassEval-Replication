@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_230.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_230,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_230.py,,,failed,tavily.errors.MissingAPIKeyError: No API key provided. Please provide the api_key attribute or set the TAVILY_API_KEY environment variable.,0.00032524499692954123

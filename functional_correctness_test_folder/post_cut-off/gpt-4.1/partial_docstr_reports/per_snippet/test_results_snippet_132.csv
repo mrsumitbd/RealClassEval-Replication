@@ -1,5 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_132.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_132,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_132.py,,,failed,"assert 1 == 0
- +  where 1 = <snippet_132.Text_background object at 0x11cc2af20>.style",0.0005419839872047305
-functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_132.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_132,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_132.py,,,failed,"assert 1 == 0
- +  where 1 = <snippet_132.Text_background object at 0x11cc438b0>.style",0.00039085501339286566

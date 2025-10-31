@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_15.py::test_case_0,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_15,test_case_0,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_15.py,,xfail,xfailed,,0.0001017920149024576

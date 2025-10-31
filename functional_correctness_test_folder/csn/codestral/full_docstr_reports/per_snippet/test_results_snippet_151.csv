@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_151.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_151,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_151.py,,,failed,AttributeError: 'AdaptiveCardComponent' object has no attribute 'Q',9.091600077226758e-05
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_151.py::test_case_1,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_151,test_case_1,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_151.py,,,passed,,7.566600106656551e-05

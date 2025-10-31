@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_159.py::test_case_0,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_159,test_case_0,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_159.py,,,failed,AttributeError: 'Style' object has no attribute 'lines',7.720800931565464e-05
-functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_159.py::test_case_1,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_159,test_case_1,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_159.py,,,failed,AttributeError: 'Style' object has no attribute 'lines',7.383298361673951e-05

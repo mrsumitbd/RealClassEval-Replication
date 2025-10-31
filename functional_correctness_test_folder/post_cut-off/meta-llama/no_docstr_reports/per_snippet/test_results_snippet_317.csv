@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_317.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_317,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_317.py,,xfail,failed,[XPASS(strict)] ,0.0002908470050897449
-functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_317.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_317,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_317.py,,xfail,failed,[XPASS(strict)] ,0.0003077489964198321

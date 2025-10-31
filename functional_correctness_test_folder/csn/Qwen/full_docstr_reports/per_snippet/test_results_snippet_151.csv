@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_151.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_151,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_151.py,,,passed,,7.812499825377017e-05
-functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_151.py::test_case_1,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_151,test_case_1,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_151.py,,,passed,,6.562499766005203e-05

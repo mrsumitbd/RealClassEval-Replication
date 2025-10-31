@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_170.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_170,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_170.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.00010679202387109399
-functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_170.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_170,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_170.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.00013745800242759287

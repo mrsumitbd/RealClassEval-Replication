@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_275.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_275,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_275.py,,,failed,"TypeError: key: expected bytes or bytearray, but got 'bool'",0.00011279198224656284
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_275.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_275,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_275.py,,,failed,"TypeError: key: expected bytes or bytearray, but got 'bool'",9.950000094249845e-05

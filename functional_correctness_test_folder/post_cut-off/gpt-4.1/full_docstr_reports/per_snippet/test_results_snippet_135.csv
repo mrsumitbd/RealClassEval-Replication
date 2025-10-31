@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_135.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_135,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_135.py,,,failed,RuntimeError: pynvml is not initialized. Use manage_resources context manager.,0.013587430003099144
-functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_135.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_135,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_135.py,,,passed,,0.0002255729996250011

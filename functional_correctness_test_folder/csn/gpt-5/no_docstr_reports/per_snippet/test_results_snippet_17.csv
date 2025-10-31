@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_17.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_17,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_17.py,,,failed,TypeError: Type must be a type object or a supported type string,9.445799514651299e-05
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_17.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_17,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_17.py,,,failed,TypeError: Type must be a type object or a supported type string,8.12079815659672e-05

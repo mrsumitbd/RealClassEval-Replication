@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_207.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_207,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_207.py,,,failed,OSError: pytest: reading from stdin while output is captured!  Consider using `-s`.,0.00010837500303750858
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_207.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_207,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_207.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.00011983299918938428

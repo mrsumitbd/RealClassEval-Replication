@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_212.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_212,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_212.py,,xfail,xfailed,,8.600000001024455e-05
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_212.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_212,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_212.py,,,failed,RuntimeError: lunar-python package is required for ThreeNineUtils,8.920899563236162e-05

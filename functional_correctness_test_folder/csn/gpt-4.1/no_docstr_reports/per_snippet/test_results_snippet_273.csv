@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_273.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_273,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_273.py,,,failed,AttributeError: 'int' object has no attribute 'get',0.00010299999848939478
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_273.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_273,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_273.py,,,failed,TypeError: object of type 'complex' has no len(),0.00010279199341312051

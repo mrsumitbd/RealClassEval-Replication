@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_84.py::test_case_0,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_84,test_case_0,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_84.py,,,failed,"assert False is True
- +  where False = <snippet_84.Scheme object at 0x104038b50>.use_external_validation",0.00017137499526143074
-functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_84.py::test_case_1,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_84,test_case_1,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_84.py,,xfail,xfailed,,0.00012929199147038162
-functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_84.py::test_case_2,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_84,test_case_2,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_84.py,,,failed,"assert False is True
- +  where False = <snippet_84.Scheme object at 0x1016afe20>.use_external_validation",0.000250459008384496

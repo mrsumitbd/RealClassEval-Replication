@@ -1,8 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_162.py::test_case_0,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_162,test_case_0,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_162.py,,,failed,AttributeError: type object 'WebVTTCommentBlock' has no attribute 'COMMENT_PATTERN',0.00012695800978690386
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_162.py::test_case_1,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_162,test_case_1,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_162.py,,,failed,AttributeError: 'NoneType' object has no attribute 'strip',8.62079905346036e-05
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_162.py::test_case_2,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_162,test_case_2,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_162.py,,,failed,"AssertionError: assert '(`' == '(`\n'
-  
-  - (`
-  ?   -
-  + (`",0.00019170797895640135

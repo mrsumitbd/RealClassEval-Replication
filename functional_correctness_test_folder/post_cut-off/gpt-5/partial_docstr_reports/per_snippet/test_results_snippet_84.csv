@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_84.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_84,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_84.py,,,passed,,0.0002497240202501416
-functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_84.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_84,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_84.py,,,failed,"ValueError: invalid literal for int() with base 10: ""o&aCUf73-*?'P@kN""",0.00027457199757918715

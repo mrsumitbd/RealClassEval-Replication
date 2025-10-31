@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_133.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_133,test_case_0,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_133.py,,,failed,AttributeError: 'DependenciesConfiguration' object has no attribute 'tool_dependency_dir',9.720801608636975e-05

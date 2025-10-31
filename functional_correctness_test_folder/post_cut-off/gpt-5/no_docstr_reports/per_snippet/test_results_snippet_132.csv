@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_132.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_132,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_132.py,,,failed,ValueError: color must be a non-empty string,0.00047121301759034395
-functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_132.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_132,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_132.py,,,failed,ValueError: width must be > 0.0,0.0002677080046851188

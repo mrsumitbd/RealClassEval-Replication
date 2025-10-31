@@ -1,4 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_53.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_53,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_53.py,,,passed,,0.00015500000154133886
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_53.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_53,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_53.py,,,failed,ValueError: num_bits must be a positive integer,7.958299829624593e-05
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_53.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_53,test_case_2,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_53.py,,,passed,,7.079199713189155e-05

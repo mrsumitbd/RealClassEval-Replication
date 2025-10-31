@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_204.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_204,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_204.py,,,failed,snippet_204.InvalidWheelFilename: Invalid wheel filename (missing .whl): v;QwTiwhpM5O11]Ei~=(,0.0003249000001233071

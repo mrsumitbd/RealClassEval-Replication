@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_161.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_161,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_161.py,,,failed,AttributeError: type object 'SRTCueBlock' has no attribute 'CUE_TIMINGS_PATTERN',8.312499994644895e-05

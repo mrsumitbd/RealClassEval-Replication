@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_160.py::test_case_0,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_160,test_case_0,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_160.py,,,failed,"assert ['U', ""'"", '\x0c', '_', 'i', '*', ...] == ""U'\x0c_i*$v/nEjKI'""
- +  where ['U', ""'"", '\x0c', '_', 'i', '*', ...] = SBVCueBlock(start=""U'\x0c_i*$v/nEjKI'"", end=""U'\x0c_i*$v/nEjKI'"", payload=[""U\\n'\\n\x0c\\n_\\ni\\n*\\n$\\nv\\n/\\nn\\nE\\nj\\nK\\nI\\n'""]).payload",0.00016804199549369514

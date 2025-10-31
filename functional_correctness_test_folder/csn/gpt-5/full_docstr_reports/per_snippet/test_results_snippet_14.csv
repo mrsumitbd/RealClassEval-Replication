@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_14.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_14,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_14.py,,xfail,failed,[XPASS(strict)] ,9.587499516783282e-05

@@ -1,9 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_217.py::test_case_0,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_217,test_case_0,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_217.py,,,failed,"AssertionError: assert 'FilteredValu...ator instance' == '[Filtered]'
-  
-  - [Filtered]
-  + FilteredValueIndicator instance",0.0002792919985949993
-functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_217.py::test_case_1,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_217,test_case_1,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_217.py,,,failed,"AssertionError: assert 'FilteredValu...ator instance' == '[Filtered]'
-  
-  - [Filtered]
-  + FilteredValueIndicator instance",0.00016737499390728772

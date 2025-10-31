@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_21.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.partial_docstr.test_snippet_21,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_21.py,,,failed,TypeError: MCPTool.__init__() takes 1 positional argument but 4 were given,0.00028047204250469804

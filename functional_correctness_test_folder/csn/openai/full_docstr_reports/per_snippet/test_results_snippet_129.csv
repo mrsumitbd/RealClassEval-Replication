@@ -1,9 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_129.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_129,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_129.py,,xfail,xfailed,,9.325000428361818e-05
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_129.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_129,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_129.py,,,failed,"assert [] is None
- +  where [] = <snippet_129.FenwickNode object at 0x100d685e0>.children",0.00017466700228396803
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_129.py::test_case_2,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_129,test_case_2,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_129.py,,,failed,"assert [] is None
- +  where [] = <snippet_129.FenwickNode object at 0x100d26fe0>.children",0.00014883399853715673
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_129.py::test_case_3,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_129,test_case_3,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_129.py,,xfail,xfailed,,8.316700404975563e-05
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_129.py::test_case_4,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_129,test_case_4,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_129.py,,,failed,"assert [] is None
- +  where [] = <snippet_129.FenwickNode object at 0x100d268c0>.children",0.00014716699661221355

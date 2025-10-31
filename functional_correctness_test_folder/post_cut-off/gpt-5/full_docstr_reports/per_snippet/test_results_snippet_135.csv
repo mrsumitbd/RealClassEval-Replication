@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_135.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_135,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_135.py,,,failed,pynvml.NVMLError_LibraryNotFound: NVML Shared Library Not Found,0.013962058001197875
-functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_135.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_135,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_135.py,,,passed,,0.00022001600154908374

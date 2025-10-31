@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_134.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_134,test_case_0,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_134.py,,,passed,,0.0007639440009370446

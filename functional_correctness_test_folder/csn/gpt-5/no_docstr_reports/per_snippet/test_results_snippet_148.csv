@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_148.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_148,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_148.py,,,failed,"assert {} is False
- +  where {} = <snippet_148.Addr object at 0x10522f8b0>.map",0.0002575419784989208
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_148.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_148,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_148.py,,xfail,xfailed,,0.00010666699381545186
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_148.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_148,test_case_2,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_148.py,,xfail,xfailed,,0.00012612499995157123
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_148.py::test_case_3,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_148,test_case_3,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_148.py,,xfail,xfailed,,0.00017508299788460135

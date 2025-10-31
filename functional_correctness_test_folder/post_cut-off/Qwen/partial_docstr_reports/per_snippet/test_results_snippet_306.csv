@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_306.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_306,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_306.py,,,failed,AttributeError: 'str' object has no attribute 'get',0.0002992009976878762
-functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_306.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_306,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_306.py,,,passed,,0.00022388302022591233

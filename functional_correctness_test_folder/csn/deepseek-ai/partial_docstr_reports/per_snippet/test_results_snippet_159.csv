@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_159.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_159,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_159.py,,,failed,AttributeError: 'Style' object has no attribute 'lines',8.804199751466513e-05
-functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_159.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_159,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_159.py,,,failed,TypeError: 'int' object is not iterable,8.74590186867863e-05

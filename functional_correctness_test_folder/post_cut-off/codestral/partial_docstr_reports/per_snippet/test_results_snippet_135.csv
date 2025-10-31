@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_135.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_135,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_135.py,,,failed,Failed: DID NOT RAISE <class 'ValueError'>,0.0003463460016064346
-functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_135.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_135,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_135.py,,,passed,,0.00023606501054018736

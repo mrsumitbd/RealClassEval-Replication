@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_50.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_50,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_50.py,,,failed,AttributeError: type object 'MetPyChecker' has no attribute 'name',9.841599967330694e-05
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_50.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_50,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_50.py,,xfail,xfailed,,9.520800085738301e-05

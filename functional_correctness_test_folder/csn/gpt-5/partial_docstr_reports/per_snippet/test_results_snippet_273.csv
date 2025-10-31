@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_273.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_273,test_case_0,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_273.py,,,failed,AttributeError: 'int' object has no attribute 'count',0.00010400000610388815
-functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_273.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_273,test_case_1,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_273.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.0001680420245975256

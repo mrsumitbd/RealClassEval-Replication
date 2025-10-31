@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_180.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_180,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_180.py,,xfail,failed,[XPASS(strict)] ,0.00022070799604989588
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_180.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_180,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_180.py,,,failed,AttributeError: module 'snippet_180' has no attribute 'AnyStr',8.412500028498471e-05

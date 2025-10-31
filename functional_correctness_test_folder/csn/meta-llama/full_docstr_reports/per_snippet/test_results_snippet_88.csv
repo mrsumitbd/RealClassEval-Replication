@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_88.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_88,test_case_0,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_88.py,,xfail,xfailed,,8.691700350027531e-05
-functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_88.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_88,test_case_1,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_88.py,,,failed,AttributeError: module 'snippet_88' has no attribute 'config',7.512500451412052e-05

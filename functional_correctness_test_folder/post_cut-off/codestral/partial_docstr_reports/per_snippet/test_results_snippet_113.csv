@@ -1,4 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_113.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_113,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_113.py,,,failed,"AssertionError: assert 300 == 600
- +  where 300 = BiomniConfig(llm='gpt-3.5-turbo', timeout_seconds=300, path='./data', api_key=None).timeout_seconds",0.0006578099855687469
-functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_113.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_113,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_113.py,,,failed,TypeError: BiomniConfig.__init__() got an unexpected keyword argument 'base_url',0.00042552000377327204

@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_290.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_290,test_case_0,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_290.py,,,failed,ImportError: google-auth is required for default credentials.,0.00027618795866146684

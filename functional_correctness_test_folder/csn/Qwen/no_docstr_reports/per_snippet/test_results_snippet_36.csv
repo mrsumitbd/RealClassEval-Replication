@@ -1,4 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_36.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_36,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_36.py,,,failed,TypeError: Sentence.__init__() takes from 1 to 2 positional arguments but 6 were given,9.64159844443202e-05
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_36.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_36,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_36.py,,xfail,xfailed,,9.070802479982376e-05
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_36.py::test_case_2,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_36,test_case_2,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_36.py,,xfail,xfailed,,9.64159844443202e-05

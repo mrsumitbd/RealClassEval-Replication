@@ -1,9 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_73.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_73,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_73.py,,,failed,AttributeError: 'SentinelHubRateLimit' object has no attribute 'next_download_time',0.00017166600446216762
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_73.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_73,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_73.py,,,failed,AttributeError: 'SentinelHubRateLimit' object has no attribute 'next_download_time',0.00036583299515768886
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_73.py::test_case_2,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_73,test_case_2,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_73.py,,,failed,AttributeError: 'SentinelHubRateLimit' object has no attribute 'next_download_time',9.229101124219596e-05
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_73.py::test_case_3,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_73,test_case_3,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_73.py,,,failed,"assert 0.05 == 1.4000000000000001 ± 0.014
-  
-  comparison failed
-  Obtained: 0.05
-  Expected: 1.4000000000000001 ± 0.014",0.0003203750238753855

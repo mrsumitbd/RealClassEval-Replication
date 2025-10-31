@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_279.py::test_case_0,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_279,test_case_0,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_279.py,,,failed,AttributeError: 'SearchDumperExt' object has no attribute 'id',0.0001142919936683029
-functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_279.py::test_case_1,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_279,test_case_1,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_279.py,,,failed,TypeError: 'int' object is not subscriptable,7.237499812617898e-05

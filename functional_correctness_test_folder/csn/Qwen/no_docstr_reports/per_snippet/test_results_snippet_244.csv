@@ -1,7 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_244.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_244,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_244.py,,xfail,xfailed,,8.483300916850567e-05
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_244.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_244,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_244.py,,,passed,,6.604200461879373e-05
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_244.py::test_case_2,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_244,test_case_2,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_244.py,,xfail,xfailed,,6.320801912806928e-05
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_244.py::test_case_3,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_244,test_case_3,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_244.py,,xfail,xfailed,,6.845800089649856e-05
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_244.py::test_case_4,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_244,test_case_4,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_244.py,,,failed,"AssertionError: assert {} == '{}'
- +  where {} = <snippet_244.Element object at 0x1070ab2e0>.name",0.00012029099161736667

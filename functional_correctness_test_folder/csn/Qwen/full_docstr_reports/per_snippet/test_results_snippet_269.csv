@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_269.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_269,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_269.py,,,failed,TypeError: _TaskConfig.__init__() missing 2 required positional arguments: 'schedule' and 'archive',0.00018008299957728013

@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_309.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_309,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_309.py,,xfail,xfailed,,0.0002949639965663664
-functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_309.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_309,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_309.py,,xfail,failed,[XPASS(strict)] ,0.0007039180054562166

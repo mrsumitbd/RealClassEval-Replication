@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_279.py::test_case_0,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_279,test_case_0,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_279.py,,,failed,AttributeError: 'SearchDumperExt' object has no attribute 'id',9.008299093693495e-05
-functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_279.py::test_case_1,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_279,test_case_1,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_279.py,,,failed,TypeError: 'int' object is not callable,8.804199751466513e-05

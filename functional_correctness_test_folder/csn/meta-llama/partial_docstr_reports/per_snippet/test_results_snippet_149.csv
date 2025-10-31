@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_149.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_149,test_case_0,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_149.py,,,failed,NotImplementedError: Subclasses must implement parse,8.833300671540201e-05
-functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_149.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_149,test_case_1,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_149.py,,,failed,NotImplementedError: Subclasses must implement parse,7.537502096965909e-05

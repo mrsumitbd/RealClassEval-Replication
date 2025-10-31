@@ -1,4 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_53.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_53,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_53.py,,,passed,,0.00018479199934517965
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_53.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_53,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_53.py,,,failed,TypeError: val must be an integer,8.308300311909989e-05
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_53.py::test_case_2,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_53,test_case_2,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_53.py,,,passed,,7.245899905683473e-05

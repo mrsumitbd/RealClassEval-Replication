@@ -1,9 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_129.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_129,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_129.py,,xfail,xfailed,,8.866700227372348e-05
-functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_129.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_129,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_129.py,,,failed,"assert [] is None
- +  where [] = <snippet_129.FenwickNode object at 0x102a1f310>.children",0.00014558399561792612
-functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_129.py::test_case_2,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_129,test_case_2,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_129.py,,,failed,"assert [] is None
- +  where [] = <snippet_129.FenwickNode object at 0x100c60ca0>.children",0.0001340000017080456
-functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_129.py::test_case_3,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_129,test_case_3,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_129.py,,xfail,xfailed,,7.941699004732072e-05
-functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_129.py::test_case_4,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_129,test_case_4,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_129.py,,,failed,"assert [] is None
- +  where [] = <snippet_129.FenwickNode object at 0x10118bc40>.children",0.00012770801549777389

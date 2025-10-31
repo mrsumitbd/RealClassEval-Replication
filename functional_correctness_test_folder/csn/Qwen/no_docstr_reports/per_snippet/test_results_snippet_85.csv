@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_85.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_85,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_85.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.00014874999760650098
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_85.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_85,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_85.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.0001714999962132424

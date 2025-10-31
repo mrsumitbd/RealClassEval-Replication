@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_257.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_257,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_257.py,,xfail,failed,[XPASS(strict)] ,7.51249972381629e-05
-functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_257.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_257,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_257.py,,,failed,AttributeError: 'list' object has no attribute 'get',7.566699787275866e-05

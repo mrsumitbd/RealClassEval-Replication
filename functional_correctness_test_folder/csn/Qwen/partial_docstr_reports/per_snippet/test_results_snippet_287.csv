@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_287.py::test_case_0,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_287,test_case_0,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_287.py,,,failed,TypeError: Role.__init__() got an unexpected keyword argument 'title',7.975002517923713e-05
-functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_287.py::test_case_1,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_287,test_case_1,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_287.py,,,failed,TypeError: Role.__init__() got an unexpected keyword argument 'description',6.9500005338341e-05

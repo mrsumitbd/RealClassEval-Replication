@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_316.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_316,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_316.py,,xfail,failed,[XPASS(strict)] ,0.0008570240024710074
-functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_316.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_316,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_316.py,,,passed,,0.000407610998081509

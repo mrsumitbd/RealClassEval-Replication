@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_257.py::test_case_0,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_257,test_case_0,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_257.py,,xfail,xfailed,,9.245899855159223e-05
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_257.py::test_case_1,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_257,test_case_1,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_257.py,,,failed,TypeError: user_profile must be a dict,9.616700117476285e-05

@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_279.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_279,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_279.py,,,passed,,8.012499893084168e-05
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_279.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_279,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_279.py,,,failed,TypeError: 'int' object is not callable,8.108300971798599e-05

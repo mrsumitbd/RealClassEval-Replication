@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_161.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_161,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_161.py,,,failed,TypeError: 'NoneType' object is not iterable,8.445899584330618e-05

@@ -1,5 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_208.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_208,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_208.py,,,failed,"AssertionError: assert 'rb+' == 'w'
-  
-  - w
-  + rb+",0.0002650420065037906

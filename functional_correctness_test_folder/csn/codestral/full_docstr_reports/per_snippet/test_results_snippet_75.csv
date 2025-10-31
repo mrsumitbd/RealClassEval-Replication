@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_75.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_75,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_75.py,,,failed,NameError: name 'json' is not defined,0.0001105839983210899
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_75.py::test_case_1,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_75,test_case_1,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_75.py,,,passed,,9.095800487557426e-05

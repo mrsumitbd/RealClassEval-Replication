@@ -1,9 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_36.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.partial_docstr.test_snippet_36,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_36.py,,,failed,"AssertionError: assert 'rich.panel.Panel' == 'rich.console.Group'
-  
-  - rich.console.Group
-  + rich.panel.Panel",0.04663363000145182
-functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_36.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.partial_docstr.test_snippet_36,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_36.py,,,failed,"AssertionError: assert 'rich.panel.Panel' == 'rich.console.Group'
-  
-  - rich.console.Group
-  + rich.panel.Panel",0.0008791239815764129

@@ -1,4 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_224.py::test_case_0,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_224,test_case_0,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_224.py,,xfail,failed,[XPASS(strict)] ,7.154099876061082e-05
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_224.py::test_case_1,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_224,test_case_1,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_224.py,,xfail,xfailed,,7.658399408683181e-05
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_224.py::test_case_2,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_224,test_case_2,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_224.py,,xfail,xfailed,,8.520801202394068e-05

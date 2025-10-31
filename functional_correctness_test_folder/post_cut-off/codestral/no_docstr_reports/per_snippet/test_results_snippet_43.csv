@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_43.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_43,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_43.py,,,failed,"AssertionError: assert 'EDT' == 'America/Toronto'
-  
-  - America/Toronto
-  + EDT",0.001171211013570428
-functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_43.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_43,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_43.py,,xfail,failed,[XPASS(strict)] ,0.0002377319906372577

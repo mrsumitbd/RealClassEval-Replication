@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_246.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_246,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_246.py,,,failed,ValueError: Config must contain a 'template' key,0.00010179200035054237
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_246.py::test_case_1,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_246,test_case_1,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_246.py,,,passed,,0.00010533399472478777

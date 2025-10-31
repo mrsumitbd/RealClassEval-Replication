@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_126.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_126,test_case_0,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_126.py,,xfail,xfailed,,7.979200017871335e-05
-functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_126.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_126,test_case_1,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_126.py,,,failed,IndexError: tuple index out of range,8.320799679495394e-05

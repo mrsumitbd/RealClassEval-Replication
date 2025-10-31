@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_126.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_126,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_126.py,,xfail,failed,[XPASS(strict)] ,9.316700015915558e-05
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_126.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_126,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_126.py,,,failed,AttributeError: 'LowestCommonAncestorRMQ' object has no attribute 'last',7.97079992480576e-05

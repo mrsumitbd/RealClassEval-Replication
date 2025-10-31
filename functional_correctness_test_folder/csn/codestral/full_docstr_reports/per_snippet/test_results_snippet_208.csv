@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_208.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_208,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_208.py,,,failed,AttributeError: 'NullFile' object has no attribute 'mode',9.929200314218178e-05

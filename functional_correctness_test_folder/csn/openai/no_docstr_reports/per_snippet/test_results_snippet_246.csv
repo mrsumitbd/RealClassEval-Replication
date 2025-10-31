@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_246.py::test_case_0,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_246,test_case_0,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_246.py,,,failed,"KeyError: ""config missing required 'template' key""",8.512500789947808e-05
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_246.py::test_case_1,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_246,test_case_1,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_246.py,,,passed,,8.6499989265576e-05

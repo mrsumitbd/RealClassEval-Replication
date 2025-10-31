@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_33.py::test_case_0,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_33,test_case_0,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_33.py,,,failed,assert False is True,0.00036662499769590795
-functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_33.py::test_case_1,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_33,test_case_1,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_33.py,,,failed,AttributeError: 'ExceptionHandler' object has no attribute '__traceback__',9.866699110716581e-05

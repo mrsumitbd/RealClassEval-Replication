@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_221.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_221,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_221.py,,xfail,xfailed,,7.562500104540959e-05
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_221.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_221,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_221.py,,,failed,AttributeError: 'Attachment' object has no attribute 'file_name',7.691700011491776e-05

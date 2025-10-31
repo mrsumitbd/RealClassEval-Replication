@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_72.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_72,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_72.py,,,failed,"AssertionError: assert '(|f|U|r|F|rf...b|B|Br|fR|Rf)' == '(|rf|rb|B|f|...fr|U|br|b|FR)'
-  
-  - (|rf|rb|B|f|R|Br|BR|fR|rF|Rb|rB|r|F|u|RB|Fr|bR|RF|Rf|fr|U|br|b|FR)
-  + (|f|U|r|F|rf|bR|Fr|RF|FR|rb|rB|BR|R|rF|u|b|RB|br|fr|Rb|B|Br|fR|Rf)",0.0013343490136321634
-functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_72.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_72,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_72.py,,,failed,TypeError: SessionAgent.__init__() takes 1 positional argument but 5 were given,0.00039257999742403626

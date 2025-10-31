@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_221.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_221,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_221.py,,xfail,failed,[XPASS(strict)] ,0.00026173000514972955
-functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_221.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_221,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_221.py,,,failed,Failed: DID NOT RAISE <class 'ValueError'>,0.000314614997478202

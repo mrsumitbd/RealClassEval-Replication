@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_98.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_98,test_case_0,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_98.py,,,failed,TypeError: 'bool' object is not iterable,0.0001573750050738454
-functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_98.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_98,test_case_1,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_98.py,,,failed,"ValueError: all the input arrays must have same number of dimensions, but the array at index 0 has 1 dimension(s) and the array at index 1 has 2 dimension(s)",0.0003770830007852055
-functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_98.py::test_case_2,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_98,test_case_2,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_98.py,,,failed,"ValueError: Expected 2D array, got 1D array instead:
-array=[-1679].
-Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.",0.0005149170028744265

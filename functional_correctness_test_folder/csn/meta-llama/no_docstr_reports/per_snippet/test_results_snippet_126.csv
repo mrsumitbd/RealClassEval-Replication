@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_126.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_126,test_case_0,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_126.py,,xfail,failed,[XPASS(strict)] ,0.0001230830093845725
-functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_126.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_126,test_case_1,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_126.py,,,failed,AttributeError: 'LowestCommonAncestorRMQ' object has no attribute 'last',7.916698814369738e-05

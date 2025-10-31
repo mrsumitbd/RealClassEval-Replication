@@ -1,7 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_231.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_231,test_case_0,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_231.py,,,failed,TypeError: bytes must be a bytes-like object,8.39160056784749e-05
-functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_231.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_231,test_case_1,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_231.py,,,failed,"assert 8 == 8.5 ± 0.085
-  
-  comparison failed
-  Obtained: 8
-  Expected: 8.5 ± 0.085",0.002813958009937778

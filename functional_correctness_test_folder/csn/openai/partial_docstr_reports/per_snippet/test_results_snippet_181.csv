@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_181.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_181,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_181.py,,xfail,xfailed,,8.150000940077007e-05
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_181.py::test_case_1,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_181,test_case_1,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_181.py,,,failed,TypeError: BaseLoader.__init__() missing 1 required positional argument: 'source_dir',8.016699575819075e-05

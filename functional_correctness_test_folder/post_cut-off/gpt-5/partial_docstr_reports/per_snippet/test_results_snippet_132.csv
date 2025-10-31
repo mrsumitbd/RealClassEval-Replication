@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_132.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_132,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_132.py,,,failed,TypeError: color must be a string,0.0002752769796643406
-functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_132.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_132,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_132.py,,,failed,ValueError: color must be in format '#RRGGBB',0.0004201760166324675

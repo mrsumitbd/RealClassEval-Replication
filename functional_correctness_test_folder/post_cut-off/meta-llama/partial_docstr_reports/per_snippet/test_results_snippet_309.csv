@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_309.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.partial_docstr.test_snippet_309,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_309.py,,xfail,xfailed,,0.0002876949729397893
-functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_309.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.partial_docstr.test_snippet_309,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_309.py,,xfail,failed,[XPASS(strict)] ,0.00047554197954013944

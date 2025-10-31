@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_51.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_51,test_case_0,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_51.py,,xfail,xfailed,,0.0006327909941319376
-functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_51.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_51,test_case_1,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_51.py,,,failed,ZeroDivisionError: integer division or modulo by zero,0.0002771250146906823

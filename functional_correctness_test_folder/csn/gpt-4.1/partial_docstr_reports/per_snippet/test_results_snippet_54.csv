@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_54.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_54,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_54.py,,,failed,AttributeError: 'Enum' object has no attribute 'val_map',0.00010245901648886502
-functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_54.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_54,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_54.py,,,failed,AttributeError: 'Enum' object has no attribute 'val_map',9.216598118655384e-05

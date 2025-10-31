@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_75.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_75,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_75.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.00010687499889172614
-functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_75.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_75,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_75.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.00010479200136614963

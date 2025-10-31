@@ -1,4 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_87.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_87,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_87.py,,,failed,Failed: DID NOT RAISE <class 'ValueError'>,0.00011579200509004295
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_87.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_87,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_87.py,,,passed,,8.929197792895138e-05
-functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_87.py::test_case_2,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_87,test_case_2,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_87.py,,,passed,,6.558297900483012e-05

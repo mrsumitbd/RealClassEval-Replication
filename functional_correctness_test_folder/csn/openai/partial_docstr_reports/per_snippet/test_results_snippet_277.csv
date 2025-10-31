@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_277.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_277,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_277.py,,xfail,failed,[XPASS(strict)] ,7.62919953558594e-05
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_277.py::test_case_1,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_277,test_case_1,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_277.py,,,failed,AttributeError: module 'snippet_277' has no attribute 'AnyStr',8.841601083986461e-05

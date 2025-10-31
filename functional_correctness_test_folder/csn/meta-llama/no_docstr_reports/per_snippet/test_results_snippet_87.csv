@@ -1,4 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_87.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_87,test_case_0,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_87.py,,,failed,Failed: DID NOT RAISE <class 'ValueError'>,0.00010362500324845314
-functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_87.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_87,test_case_1,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_87.py,,,passed,,7.404197822324932e-05
-functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_87.py::test_case_2,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_87,test_case_2,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_87.py,,,passed,,6.454199319705367e-05

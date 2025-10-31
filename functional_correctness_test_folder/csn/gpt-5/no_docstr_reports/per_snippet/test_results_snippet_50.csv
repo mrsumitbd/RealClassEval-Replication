@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_50.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_50,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_50.py,,,failed,"AssertionError: assert 'metpy-checker' == 'snippet_50'
-  
-  - snippet_50
-  + metpy-checker",0.0002634999982547015
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_50.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_50,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_50.py,,xfail,xfailed,,0.0002238329907413572

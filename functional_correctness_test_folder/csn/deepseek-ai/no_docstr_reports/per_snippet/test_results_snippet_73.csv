@@ -1,9 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_73.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_73,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_73.py,,,failed,AttributeError: 'SentinelHubRateLimit' object has no attribute 'next_download_time',0.00019033299759030342
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_73.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_73,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_73.py,,,failed,AttributeError: 'SentinelHubRateLimit' object has no attribute 'next_download_time',9.50000248849392e-05
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_73.py::test_case_2,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_73,test_case_2,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_73.py,,,failed,AttributeError: 'SentinelHubRateLimit' object has no attribute 'next_download_time',0.00010570898302830756
-functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_73.py::test_case_3,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_73,test_case_3,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_73.py,,,failed,"assert 0.05 == 1.4000000000000001 ± 0.014
-  
-  comparison failed
-  Obtained: 0.05
-  Expected: 1.4000000000000001 ± 0.014",0.00024470899370498955

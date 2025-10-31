@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_313.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_313,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_313.py,,xfail,failed,[XPASS(strict)] ,0.0007142949907574803
-functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_313.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_313,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_313.py,,xfail,failed,[XPASS(strict)] ,0.0004927970003336668

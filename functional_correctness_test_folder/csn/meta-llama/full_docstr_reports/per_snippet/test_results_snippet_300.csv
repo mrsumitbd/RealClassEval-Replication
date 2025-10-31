@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_300.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_300,test_case_0,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_300.py,,,failed,"assert [] is None
- +  where [] = <snippet_300.ComputeBackendValidatorBase object at 0x106f90070>.workflow_steps",0.0004117499993299134
-functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_300.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_300,test_case_1,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_300.py,,,failed,"assert [] is None
- +  where [] = <snippet_300.ComputeBackendValidatorBase object at 0x106f92860>.workflow_steps",0.0004893330042250454
-functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_300.py::test_case_2,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_300,test_case_2,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_300.py,,xfail,xfailed,,0.0001384169954690151

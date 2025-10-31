@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_105.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_105,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_105.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,8.958299440564588e-05
-functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_105.py::test_case_1,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_105,test_case_1,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_105.py,,,failed,TypeError: '<' not supported between instances of 'NoneType' and 'int',0.0001467080001020804

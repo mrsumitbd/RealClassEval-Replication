@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_84.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_84,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_84.py,,,failed,"AssertionError: assert '' is None
- +  where '' = <snippet_84.Scheme object at 0x10117ba30>.description",0.00013929099804954603
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_84.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_84,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_84.py,,xfail,xfailed,,0.00012212500587338582
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_84.py::test_case_2,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_84,test_case_2,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_84.py,,,failed,"AssertionError: assert '' is None
- +  where '' = <snippet_84.Scheme object at 0x100d90820>.description",0.00010199999815085903

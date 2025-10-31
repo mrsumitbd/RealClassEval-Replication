@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_121.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_121,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_121.py,,,passed,,8.829199941828847e-05

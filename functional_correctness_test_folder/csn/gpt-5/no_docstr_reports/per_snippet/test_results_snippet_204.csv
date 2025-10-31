@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_204.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_204,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_204.py,,xfail,xfailed,,8.754199370741844e-05
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_204.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_204,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_204.py,,,failed,"TypeError: Can't instantiate abstract class AuthenticationBase with abstract methods authenticate_request, get_request_credentials",8.524997974745929e-05

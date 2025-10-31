@@ -1,4 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_178.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_178,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_178.py,,,passed,,0.0005415000196080655
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_178.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_178,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_178.py,,,failed,"ValueError: Invalid alignment: 'oAgDUE'. Expected one of '<', '>', '^'.",0.00015683300443924963
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_178.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_178,test_case_2,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_178.py,,,passed,,0.00013129098806530237

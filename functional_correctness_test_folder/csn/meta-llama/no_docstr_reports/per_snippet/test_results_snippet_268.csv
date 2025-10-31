@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_268.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_268,test_case_0,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_268.py,,,failed,AttributeError: 'MonzoAPI' object has no attribute 'session',8.716701995581388e-05
-functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_268.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_268,test_case_1,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_268.py,,,failed,Failed: DID NOT RAISE <class 'pymonzo.exceptions.NoSettingsFile'>,9.458299609832466e-05

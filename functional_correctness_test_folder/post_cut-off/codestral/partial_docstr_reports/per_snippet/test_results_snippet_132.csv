@@ -1,5 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_132.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_132,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_132.py,,,failed,"assert 1 == 0
- +  where 1 = <snippet_132.Text_background object at 0x11b28a470>.style",0.000531928992131725
-functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_132.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_132,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_132.py,,,failed,"assert 1 == 0
- +  where 1 = <snippet_132.Text_background object at 0x11b29f8b0>.style",0.00038832900463603437

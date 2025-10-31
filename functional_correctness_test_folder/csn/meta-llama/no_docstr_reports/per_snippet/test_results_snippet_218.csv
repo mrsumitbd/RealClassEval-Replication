@@ -1,7 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_218.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_218,test_case_0,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_218.py,,,passed,,9.312501060776412e-05
-functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_218.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_218,test_case_1,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_218.py,,,failed,"assert 'RepeatValueI...peat_count=0)' == ""<same as pri...Crq(\\r^Nh>'>""
-  
-  - <same as prior '!\tbF8GB8ICrq(\r^Nh>'>
-  + RepeatValueIndicator(key='!	bF8GB8ICrq(
-  + ^Nh>', last_value=None, repeat_count=0)",0.0002401249948889017

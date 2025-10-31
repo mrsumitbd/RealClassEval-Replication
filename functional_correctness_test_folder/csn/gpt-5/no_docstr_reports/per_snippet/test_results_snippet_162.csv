@@ -1,5 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_162.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_162,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_162.py,,,failed,AttributeError: type object 'WebVTTCommentBlock' has no attribute 'COMMENT_PATTERN',8.054097997955978e-05
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_162.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_162,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_162.py,,,failed,"AssertionError: assert '' is None
- +  where '' = <snippet_162.WebVTTCommentBlock object at 0x111037160>.text",0.00014012499013915658
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_162.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_162,test_case_2,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_162.py,,,failed,AttributeError: type object 'WebVTTCommentBlock' has no attribute 'COMMENT_PATTERN',7.2750000981614e-05

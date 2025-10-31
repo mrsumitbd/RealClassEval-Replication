@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_288.py::test_case_0,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_288,test_case_0,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_288.py,,,failed,TypeError: Aspect.__init__() missing 1 required positional argument: 'aspect_id',0.00022120799985714257

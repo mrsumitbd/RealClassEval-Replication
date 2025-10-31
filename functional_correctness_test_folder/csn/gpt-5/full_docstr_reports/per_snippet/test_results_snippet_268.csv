@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_268.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_268,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'requests.sessions.Session' == 'authlib.inte....OAuth2Client'
-  
-  - authlib.integrations.httpx_client.oauth2_client.OAuth2Client
-  + requests.sessions.Session",0.00040270799945574254
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_268.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_268,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_268.py,,,failed,snippet_268.NoSettingsFile: Settings file not found: /Users/umroot/.pymonzo.json,0.0005470420001074672

@@ -1,8 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_290.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_290,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_290.py,,xfail,xfailed,,0.000809583994850982
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_290.py::test_case_1,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_290,test_case_1,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_290.py,,xfail,xfailed,,0.0002547920012148097
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_290.py::test_case_2,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_290,test_case_2,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_290.py,,,failed,"assert False is True
- +  where False = <snippet_290.ZMQNameServer object at 0x10459a0e0>.running",0.00028604199906112626
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_290.py::test_case_3,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_290,test_case_3,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_290.py,,,failed,"assert False is True
- +  where False = <snippet_290.ZMQNameServer object at 0x1046319f0>.running",0.0002104579980368726
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_290.py::test_case_4,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_290,test_case_4,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_290.py,,xfail,xfailed,,0.00017495799693278968

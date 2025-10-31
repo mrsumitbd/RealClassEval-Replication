@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_246.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_246,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_246.py,,,failed,"KeyError: ""Config must contain the following keys: {'port', 'host', 'use_ssl'}""",8.15410166978836e-05
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_246.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_246,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_246.py,,,passed,,8.22500151116401e-05

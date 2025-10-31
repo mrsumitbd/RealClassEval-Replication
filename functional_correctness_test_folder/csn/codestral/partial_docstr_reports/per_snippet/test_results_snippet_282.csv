@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_282.py::test_case_0,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_282,test_case_0,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_282.py,,xfail,xfailed,,8.520798292011023e-05
-functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_282.py::test_case_1,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_282,test_case_1,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_282.py,,,failed,AttributeError: type object 'Transcript' has no attribute 'SRT',8.875000639818609e-05

@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_168.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_168,test_case_0,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_168.py,,,passed,,0.00011741701746359468

@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_207.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_207,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_207.py,,,failed,ValueError: No input stream provided,0.00010412499977974221
-functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_207.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_207,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_207.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.00011187500058440492

@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_105.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_105,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_105.py,,,failed,AttributeError: 'BufferWithSegmentsCollection' object has no attribute 'segments',0.00011591700604185462
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_105.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_105,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_105.py,,,failed,AttributeError: 'BufferWithSegmentsCollection' object has no attribute 'segments',0.0001215000229422003

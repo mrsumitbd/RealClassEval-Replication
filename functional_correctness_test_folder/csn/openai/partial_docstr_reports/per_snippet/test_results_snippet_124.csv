@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_124.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_124,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_124.py,,,failed,"assert 0.0 is False
- +  where 0.0 = <snippet_124.DelayTimer object at 0x102dbcd30>.delay",0.00015333399642258883
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_124.py::test_case_1,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_124,test_case_1,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_124.py,,,failed,"assert 1.0 is True
- +  where 1.0 = <snippet_124.DelayTimer object at 0x102dbfdc0>.delay",0.00023312499979510903
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_124.py::test_case_2,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_124,test_case_2,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_124.py,,,failed,ValueError: could not convert string to float: b'\xb4h6\x12\x08\xe8\x9e\xd8',9.89580003079027e-05

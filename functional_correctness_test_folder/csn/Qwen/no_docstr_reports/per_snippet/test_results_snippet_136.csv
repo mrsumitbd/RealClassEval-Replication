@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_136.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_136,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_136.py,,,failed,AttributeError: 'TraceId' object has no attribute 'start_time',9.583402425050735e-05
-functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_136.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_136,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_136.py,,,failed,AttributeError: 'TraceId' object has no attribute 'start_time',8.31669894978404e-05

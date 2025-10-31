@@ -1,7 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_254.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_254,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_254.py,,,passed,,0.0002961590071208775
-functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_254.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_254,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_254.py,,,failed,"AssertionError: assert 'N/A' == ''
-  
-  + N/A",0.0006173129950184375
-functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_254.py::test_case_2,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_254,test_case_2,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_254.py,,xfail,xfailed,,0.0005551820213440806
-functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_254.py::test_case_3,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_254,test_case_3,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_254.py,,,passed,,0.00032537998049519956

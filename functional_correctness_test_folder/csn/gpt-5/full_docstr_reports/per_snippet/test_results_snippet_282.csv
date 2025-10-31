@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_282.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_282,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_282.py,,xfail,xfailed,,7.958299829624593e-05
-functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_282.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_282,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_282.py,,,failed,AttributeError: type object 'Transcript' has no attribute 'SRT',9.904200123855844e-05

@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_180.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_180,test_case_0,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_180.py,,xfail,failed,[XPASS(strict)] ,8.762499783188105e-05
-functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_180.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_180,test_case_1,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_180.py,,,failed,AttributeError: module 'snippet_180' has no attribute 'AnyStr',8.258299203589559e-05

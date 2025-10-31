@@ -1,5 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_60.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_60,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_60.py,,,failed,"assert {} == -1077
- +  where {} = <snippet_60.CodePageManager object at 0x10443a320>.data",0.0001584579877089709
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_60.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_60,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_60.py,,xfail,xfailed,,0.0002844159898813814
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_60.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_60,test_case_2,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_60.py,,xfail,xfailed,,0.000137541996082291

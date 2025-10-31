@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_35.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_35,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_35.py,,,failed,NameError: name 'timezone' is not defined,0.0003145380178466439
-functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_35.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_35,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_35.py,,xfail,xfailed,,0.00040272600017488003

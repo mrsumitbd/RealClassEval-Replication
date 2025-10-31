@@ -1,8 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_37.py,,,passed,,0.00027007199969375506
-functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🚗' == '🚀'
-  
-  - 🚀
-  + 🚗",0.0005634550034301355
-functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_37.py,,xfail,xfailed,,0.0002449930034345016
-functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_37.py,,,passed,,0.000251049998041708

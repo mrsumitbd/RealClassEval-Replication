@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_160.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_160,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_160.py,,,failed,"assert ['U', ""'"", '\x0c', '_', 'i', '*', ...] == ""U'\x0c_i*$v/nEjKI'""
- +  where ['U', ""'"", '\x0c', '_', 'i', '*', ...] = <snippet_160.SBVCueBlock object at 0x106c792d0>.payload",0.0001704170135781169

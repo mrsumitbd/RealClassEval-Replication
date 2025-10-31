@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_93.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_93,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_93.py,,,failed,AttributeError: type object 'PipelineInfo' has no attribute 'is_loader_cascading',9.479199070483446e-05
-functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_93.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_93,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_93.py,,,failed,AttributeError: type object 'PipelineInfo' has no attribute 'is_loader_cascading',9.345801663585007e-05

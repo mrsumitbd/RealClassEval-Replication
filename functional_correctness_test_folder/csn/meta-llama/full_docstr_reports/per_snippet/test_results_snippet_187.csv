@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_187.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_187,test_case_0,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_187.py,,,passed,,0.0003962909977417439

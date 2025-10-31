@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_105.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_105,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_105.py,,,failed,ValueError: At least one BufferWithSegments instance is required,8.316599996760488e-05
-functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_105.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_105,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_105.py,,,failed,ValueError: At least one BufferWithSegments instance is required,8.091700146906078e-05

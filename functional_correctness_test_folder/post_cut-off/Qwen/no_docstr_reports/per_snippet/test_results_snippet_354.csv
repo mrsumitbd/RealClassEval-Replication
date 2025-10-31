@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_354.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_354,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_354.py,,,failed,AttributeError: 'EventRenderer' object has no attribute 'pending_function_call'. Did you mean: 'pending_function_calls'?,0.0002845679991878569

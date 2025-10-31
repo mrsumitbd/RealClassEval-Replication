@@ -1,2 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_160.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_160,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_160.py,,,failed,AttributeError: type object 'SBVCueBlock' has no attribute 'CUE_TIMINGS_PATTERN',8.016700303414837e-05

@@ -1,5 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_132.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_132,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_132.py,,,failed,"assert 1 == 0
- +  where 1 = <snippet_132.Text_background object at 0x1123d6470>.style",0.0005473750061355531
-functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_132.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_132,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_132.py,,,failed,"assert 1 == 0
- +  where 1 = <snippet_132.Text_background object at 0x1123eb8b0>.style",0.00040039699524641037

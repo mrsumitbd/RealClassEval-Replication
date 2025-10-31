@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_181.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_181,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_181.py,,xfail,xfailed,,7.9624995123595e-05
-functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_181.py::test_case_1,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_181,test_case_1,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_181.py,,,failed,AttributeError: module 'snippet_181' has no attribute 'qType',7.479199848603457e-05

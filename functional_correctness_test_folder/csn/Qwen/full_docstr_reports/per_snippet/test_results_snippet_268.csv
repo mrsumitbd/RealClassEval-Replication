@@ -1,3 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_268.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_268,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_268.py,,,failed,AttributeError: 'MonzoAPI' object has no attribute 'session',9.10419985302724e-05
-functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_268.py::test_case_1,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_268,test_case_1,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_268.py,,,failed,FileNotFoundError: NoSettingsFile: Settings file not found and no access token provided.,0.0001222909995703958

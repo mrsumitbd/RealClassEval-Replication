@@ -1,6 +1,0 @@
-id,module,name,file,doc,markers,status,message,duration
-functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_17.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_17,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_17.py,,,passed,,7.666699821129441e-05
-functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_17.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_17,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_17.py,,,failed,"AssertionError: assert 'Variable(val...{}), type={})' == '{}'
-  
-  - {}
-  + Variable(value=Variable(value={}, type={}), type={})",0.0003554580034688115
