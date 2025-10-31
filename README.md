@@ -1,9 +1,9 @@
-# 📑 Replication Package for [RealClassEval]
+# 📑 Replication Package for RealClassEval
 
 This repository contains the replication package for the paper:  
-**[Beyond Synthetic Benchmarks: Evaluating LLM Performance on Real-World Class-Level Code Generation]**  
+**[Beyond Synthetic Benchmarks: Evaluating LLM Performance on Real-World Class-Level Code Generation](https://arxiv.org/abs/2510.26130)**
 Authors: [Musfiqur Rahman, SayedHassan Khatoonabadi, Emad Shihab]  
-Published at: [Conference/Journal, Year]  
+Published at: arXiv.com, 2025  
 
 The goal of this repository is to ensure reproducibility of all experiments, figures, and results presented in the paper.
 
@@ -130,14 +130,13 @@ cloc --version
 
 ## 📊 Datasets
 
-Datasets are not included in this repository due to size and licensing restrictions.
-Please follow the instructions in data/README.md to download and prepare the required datasets.
+Datasets are included in the `data/` folder.
 
 ---
 
 ## 📈 Results
 
-All results (figures, logs, tables) will be stored in the results/ directory.
+All results (figures, tables) are stored in the `results/` directory.
 Pre-generated results are provided for reference where possible.
 
 ## 📜 License
@@ -148,10 +147,13 @@ This project is licensed under the MIT License.
 
 If you use this replication package, please cite our paper:
 ```bib
-@inproceedings{yourbibkey,
-  author    = {Your Name and Co-authors},
-  title     = {Paper Title},
-  booktitle = {Conference/Journal},
-  year      = {2025}
+@misc{rahman2025syntheticbenchmarksevaluatingllm,
+      title={Beyond Synthetic Benchmarks: Evaluating LLM Performance on Real-World Class-Level Code Generation}, 
+      author={Musfiqur Rahman and SayedHassan Khatoonabadi and Emad Shihab},
+      year={2025},
+      eprint={2510.26130},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2510.26130}, 
 }
 ```
