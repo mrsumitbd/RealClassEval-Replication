@@ -21,6 +21,7 @@ transformers==4.56.1
 torch==2.8.0
 tqdm==4.67.1
 scikit-learn==1.7.2
+pynguin==0.40.0
 
 #notebook specifics
 jupyterlab==4.3.5
