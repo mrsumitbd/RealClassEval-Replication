@@ -2,8 +2,8 @@
 
 This repository contains the replication package for the paper:  
 **[Beyond Synthetic Benchmarks: Evaluating LLM Performance on Real-World Class-Level Code Generation](https://arxiv.org/abs/2510.26130)**
-Authors: [Musfiqur Rahman, SayedHassan Khatoonabadi, Emad Shihab]  
-Published at: arXiv.com, 2025  
+Authors: [Musfiqur Rahman](https://das.encs.concordia.ca/members/musfiqur-rahman), [SayedHassan Khatoonabadi](https://das.encs.concordia.ca/members/hassan-khatoonabadi), [Emad Shihab](https://das.encs.concordia.ca/members/emad-shihab)
+Published at: arXiv.org, 2025  
 
 The goal of this repository is to ensure reproducibility of all experiments, figures, and results presented in the paper.
 
