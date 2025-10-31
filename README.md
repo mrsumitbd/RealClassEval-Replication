@@ -19,21 +19,26 @@ cd RealClassEval-Replication
 ```text
 RealClassEval-Replication/
 ├── notebooks/         # Jupyter notebooks for experiments, analysis, figures
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_training.ipynb
-│   └── 03_results.ipynb
+│   └── plot_generator.ipynb
 │
 ├── src/               # Python source code (modules, utilities, pipelines)
 │   ├── __init__.py
-│   ├── data_loader.py
-│   ├── model.py
+│   ├── rag/
+│   ├── ...
 │   └── utils.py
 │
-├── data/              # Placeholder for datasets (not stored in repo)
-│   └── README.md
+├── data/              # Placeholder for datasets and metadata
+│   ├── functional_correctness_data/
+│   └── generated_code/
 │
-├── results/           # Output results (figures, logs, metrics, tables)
-│   └── README.md
+├── results/           # Output results (figures, metrics, etc.)
+│   ├── rq1/
+│   ├── ...
+│   └── rq4/
+│
+├── rag_experiments/ # Stores all files generated during running rag
+│
+├── functional_correctness_test_folder/ # This is where the functional correctness test happened. Kept is separate for easier access and organization
 │
 ├── setup.sh           # Setup script for Linux/macOS
 ├── .gitignore         # Ignore unnecessary files
