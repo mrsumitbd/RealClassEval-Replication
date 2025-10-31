@@ -1,0 +1,13 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_227.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_227,test_case_0,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_227.py,,,failed,"AssertionError: assert {'/Users/umro...ons.abc', ...} == {'/Users/umro...ons.abc', ...}
+  
+  Omitting 381 identical items, use -vv to show
+  Left contains 152 more items:
+  {'/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/gpt-5/partial_docstr/snippet_227.py': 'snippet_227',
+   '/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_227.py': 'test_snippet_227',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/asyncio/__init__.py': 'asyncio',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/asyncio/base_events.py': 'asyncio.base_events',...
+  
+  ...Full output truncated (999 lines hidden), use '-vv' to show",0.026481542008696124
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_227.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_227,test_case_1,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_227.py,,xfail,xfailed,,0.00019358299323357642
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_227.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_227,test_case_2,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_227.py,,,failed,TypeError: TemplateFile.__init__() takes from 1 to 2 positional arguments but 9 were given,0.0001603339915163815

@@ -1,0 +1,14 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '⚠️ Very Low ...1 tokens/min)' == '🐌 Slow'
+  
+  - 🐌 Slow
+  + ⚠️ Very Low (-833.21 tokens/min)",0.0009124319985858165
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🔥 (166.00 tokens/min)' == '🚀'
+  
+  - 🚀
+  + 🔥 (166.00 tokens/min)",0.0005148049967829138
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_37.py,,xfail,xfailed,,0.00024221799685619771
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_37.py,,,failed,"AssertionError: assert 'Moderate' == 'Slow'
+  
+  - Slow
+  + Moderate",0.00045670299732591957

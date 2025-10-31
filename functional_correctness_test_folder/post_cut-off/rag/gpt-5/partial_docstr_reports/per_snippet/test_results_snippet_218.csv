@@ -1,0 +1,13 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_218,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py,,,passed,,9.462505113333464e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_218,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py,,,passed,,6.13329466432333e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_218,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py,,,passed,,6.516696885228157e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_218,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py,,,passed,,6.04171073064208e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_218,test_case_4,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py,,,passed,,0.0001028749393299222
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_218,test_case_5,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py,,,passed,,0.0001466670073568821
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_218,test_case_6,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_218.py,,,failed,"assert ""CBlock('(o\\...]@i_1eEmY>'})"" == ""CBlock((o\tt...]@i_1eEmY>'})""
+  
+  - CBlock((o	tk[, {'(o\ttk[': '(o\ttk[', ']@i_1eEmY>': '(o\ttk[', '\t\t^\rX': ']@i_1eEmY>'})
+  ?          ^
+  + CBlock('(o\ttk[', {'(o\ttk[': '(o\ttk[', ']@i_1eEmY>': '(o\ttk[', '\t\t^\rX': ']@i_1eEmY>'})
+  ?        +  ^^   +",0.0012153750285506248

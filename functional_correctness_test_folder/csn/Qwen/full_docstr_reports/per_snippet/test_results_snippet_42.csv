@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_42.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_42,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_42.py,,,failed,"AssertionError: assert 1 == 0
+ +  where 1 = <class 'snippet_42.WifiManager'>.WIFI_STATE_DISABLING
+ +    where <class 'snippet_42.WifiManager'> = module_0.WifiManager",0.00015800000255694613

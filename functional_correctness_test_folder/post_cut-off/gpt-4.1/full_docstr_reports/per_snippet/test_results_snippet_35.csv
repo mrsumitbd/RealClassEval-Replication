@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_35.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_35,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_35.py,,,passed,,0.00026543800049694255
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_35.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_35,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_35.py,,xfail,failed,[XPASS(strict)] ,0.00024533700343454257

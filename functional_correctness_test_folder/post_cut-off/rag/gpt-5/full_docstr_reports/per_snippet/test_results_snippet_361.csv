@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_361.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_361,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_361.py,,,passed,,9.225006215274334e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_361.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_361,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_361.py,,xfail,xfailed,,7.712503429502249e-05

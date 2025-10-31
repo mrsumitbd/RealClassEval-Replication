@@ -1,0 +1,13 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🐢 Slow' == '🐌 Slow'
+  
+  - 🐌 Slow
+  ? ^
+  + 🐢 Slow
+  ? ^",0.00068001399631612
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_37.py,,,passed,,0.00023454200709238648
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_37.py,,xfail,xfailed,,0.00023812198196537793
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_37.py,,,failed,"AssertionError: assert 'Moderate' == 'Slow'
+  
+  - Slow
+  + Moderate",0.0005172989913262427

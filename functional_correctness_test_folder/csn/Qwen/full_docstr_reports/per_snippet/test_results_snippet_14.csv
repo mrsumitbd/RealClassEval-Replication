@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_14.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_14,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_14.py,,xfail,xfailed,,7.954100146889687e-05

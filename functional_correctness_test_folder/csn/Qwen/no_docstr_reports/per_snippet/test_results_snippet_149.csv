@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_149.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_149,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_149.py,,,failed,ValueError: Input must be a string,9.166600648313761e-05
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_149.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_149,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_149.py,,,failed,ValueError: Input must be a string,0.00012599999899975955

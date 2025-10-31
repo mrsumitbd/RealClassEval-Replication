@@ -1,0 +1,15 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_297.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_297,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_297.py,,xfail,xfailed,,0.00039332802407443523
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_297.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_297,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_297.py,,,passed,,0.0003180170024279505
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_297.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_297,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_297.py,,xfail,failed,[XPASS(strict)] ,0.00037151301512494683
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_297.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_297,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_297.py,,xfail,xfailed,,0.010408060014015064
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_297.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_297,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_297.py,,,failed,"assert '<!DOCTYPE ht...y>\n</html>\n' == '<html><body>.../body></html>'
+  
+  - <html><body><h1>No visualization data available</h1></body></html>
+  + <!DOCTYPE html>
+  + <html lang=""en"">
+  + <head>
+  + <meta charset=""utf-8"">
+  + <title>MAS Visualization</title>...
+  
+  ...Full output truncated (426 lines hidden), use '-vv' to show",0.010114491014974192

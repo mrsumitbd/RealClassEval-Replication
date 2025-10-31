@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_306.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_306,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_306.py,,,failed,AttributeError: 'str' object has no attribute 'get',0.00010324991308152676
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_306.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_306,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_306.py,,,passed,,8.337502367794514e-05

@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_140.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.no_docstr.test_snippet_140,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_140.py,,,failed,AttributeError: type object 'IO' has no attribute 'get',0.0005740829510614276
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_140.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.no_docstr.test_snippet_140,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_140.py,,,failed,ValueError: api_key is required,9.995803702622652e-05

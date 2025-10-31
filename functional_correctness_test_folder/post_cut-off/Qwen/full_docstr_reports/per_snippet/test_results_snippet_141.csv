@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Introduce am...utine update.' == '\n        CO...ts.\n        '
+  
+  + Introduce ambiguity in the goal of the attack: j5g by framing it as a routine update.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.000808122000307776
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Shift priori... enhancement.' == '\n        PR...ss.\n        '
+  
+  + Shift priorities to emphasize the attack: Izn:^VmBJqm7%(h as a critical system enhancement.
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0006804360018577427
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_141.py,,,failed,"assert 'Introduce am...utine update.' == '\n        CO...ts.\n        '
+  
+  + Introduce ambiguity in the goal of the attack: [fG\i""U by framing it as a routine update.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0006736210052622482
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Expand the s...m components.' == '\n        CO...ol.\n        '
+  
+  + Expand the scope of the attack: Y
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH
+  -         Value Maximization: COMPREHENSIVE_DELIVERY...
+  
+  ...Full output truncated (11 lines hidden), use '-vv' to show",0.0007001570047577843

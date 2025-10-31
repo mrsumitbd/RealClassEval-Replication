@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_316.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_316,test_case_0,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_316.py,,xfail,failed,[XPASS(strict)] ,0.00016416702419519424
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_316.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_316,test_case_1,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_316.py,,,passed,,0.00011420901864767075

@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_72.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_72,test_case_0,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_72.py,,,failed,"AssertionError: assert '(|FR|b|B|bR|...|BR|rf|RF|rF)' == '(|rf|rb|B|f|...fr|U|br|b|FR)'
+  
+  - (|rf|rb|B|f|R|Br|BR|fR|rF|Rb|rB|r|F|u|RB|Fr|bR|RF|Rf|fr|U|br|b|FR)
+  + (|FR|b|B|bR|fR|R|u|Fr|rB|rb|br|r|Rb|Rf|Br|RB|F|f|fr|U|BR|rf|RF|rF)",0.0013567630012403242
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_72.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_72,test_case_1,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_72.py,,,failed,TypeError: SessionAgent.__init__() takes from 1 to 2 positional arguments but 5 were given,0.00025106500106630847

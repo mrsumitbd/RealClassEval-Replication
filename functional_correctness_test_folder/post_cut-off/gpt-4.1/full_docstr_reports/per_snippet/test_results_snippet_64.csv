@@ -1,0 +1,13 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_64.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_64,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_64.py,,,failed,"assert {} is None
+ +  where {} = <snippet_64.BaseTool object at 0x116f84c70>.input_types",0.00044366600195644423
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_64.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_64,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_64.py,,,failed,"assert {} is None
+ +  where {} = <snippet_64.BaseTool object at 0x117067880>.input_types",0.0003873659952660091
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_64.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_64,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_64.py,,,failed,"assert {} is None
+ +  where {} = <snippet_64.BaseTool object at 0x116f85ab0>.input_types",0.00036486000317381695
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_64.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_64,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_64.py,,,failed,"assert {} is None
+ +  where {} = <snippet_64.BaseTool object at 0x117067100>.input_types",0.0003613039953052066
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_64.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_64,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_64.py,,,failed,"assert {} is None
+ +  where {} = <snippet_64.BaseTool object at 0x116f85bd0>.input_types",0.00036166700010653585
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_64.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_64,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_64.py,,,failed,"assert {} is None
+ +  where {} = <snippet_64.BaseTool object at 0x117065a50>.input_types",0.00035707599454326555

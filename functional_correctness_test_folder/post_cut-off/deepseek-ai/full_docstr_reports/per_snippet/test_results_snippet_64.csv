@@ -1,0 +1,13 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_64.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_64,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_64.py,,,failed,"assert {} is None
+ +  where {} = <snippet_64.BaseTool object at 0x11577ba90>.input_types",0.0004392549963085912
+functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_64.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_64,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_64.py,,,failed,"assert {} is None
+ +  where {} = <snippet_64.BaseTool object at 0x1159ea1a0>.input_types",0.00038846700044814497
+functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_64.py::test_case_2,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_64,test_case_2,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_64.py,,,failed,"assert {} is None
+ +  where {} = <snippet_64.BaseTool object at 0x115771e70>.input_types",0.000361517995770555
+functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_64.py::test_case_3,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_64,test_case_3,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_64.py,,,failed,"assert {} is None
+ +  where {} = <snippet_64.BaseTool object at 0x1159f5d20>.input_types",0.0003665190015453845
+functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_64.py::test_case_4,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_64,test_case_4,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_64.py,,,failed,"assert {} is None
+ +  where {} = <snippet_64.BaseTool object at 0x1157725f0>.input_types",0.00035521000245353207
+functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_64.py::test_case_5,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_64,test_case_5,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_64.py,,,failed,"assert {} is None
+ +  where {} = <snippet_64.BaseTool object at 0x1159f7820>.input_types",0.00036212499981047586

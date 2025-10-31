@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_149.py::test_case_0,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_149,test_case_0,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_149.py,,,failed,"TypeError: Expected a string for parsing, got float",9.791599586606026e-05
+functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_149.py::test_case_1,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_149,test_case_1,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_149.py,,,failed,"TypeError: Expected a string for parsing, got TorConfigType",9.233399759978056e-05

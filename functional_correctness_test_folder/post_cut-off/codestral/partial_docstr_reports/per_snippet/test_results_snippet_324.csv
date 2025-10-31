@@ -1,0 +1,20 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_324,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py,,,failed,"assert 0 == 1
+ +  where 0 = len([])
+ +    where [] = <snippet_324.CommandRateLimiter object at 0x1127a01c0>.calls",0.0009084040066227317
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_324,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py,,,failed,"assert 0 == 1
+ +  where 0 = len([])
+ +    where [] = <snippet_324.CommandRateLimiter object at 0x112a33c40>.calls",0.000871917000040412
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py::test_case_2,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_324,test_case_2,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py,,,failed,"assert 0 == 1
+ +  where 0 = len([])
+ +    where [] = <snippet_324.CommandRateLimiter object at 0x1127a21d0>.calls",0.000791103026131168
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py::test_case_3,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_324,test_case_3,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py,,,failed,"assert 0 == 1
+ +  where 0 = len([])
+ +    where [] = <snippet_324.CommandRateLimiter object at 0x112a330d0>.calls",0.0004563189868349582
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py::test_case_4,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_324,test_case_4,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py,,,failed,"assert 0 == 1
+ +  where 0 = len([])
+ +    where [] = <snippet_324.CommandRateLimiter object at 0x11287fcd0>.calls",0.0004301199805922806
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py::test_case_5,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_324,test_case_5,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py,,,passed,,0.000266040995484218
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py::test_case_6,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_324,test_case_6,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_324.py,,,failed,"assert 0 == 1
+ +  where 0 = len([])
+ +    where [] = <snippet_324.CommandRateLimiter object at 0x112a33f40>.calls",0.0005474989884532988

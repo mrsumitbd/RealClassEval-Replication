@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_275.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_275,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_275.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.00035600000410340726
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_275.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_275,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_275.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,9.108299855142832e-05

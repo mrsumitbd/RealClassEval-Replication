@@ -1,0 +1,22 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_184,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00022058399918023497
+functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_184,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.0002580840009613894
+functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py::test_case_2,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_184,test_case_2,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00026004200481111184
+functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py::test_case_3,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_184,test_case_3,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00019141699885949492
+functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py::test_case_4,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_184,test_case_4,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.0001770410017343238
+functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py::test_case_5,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_184,test_case_5,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00016216600488405675
+functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py::test_case_6,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_184,test_case_6,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.0001592920016264543

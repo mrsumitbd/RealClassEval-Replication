@@ -1,0 +1,42 @@
+
+import numpy as np
+from scipy import signal
+
+
+class Convolve2DFullFill:
+    '''
+    Initial implementation of convolve2d_full_fill task.
+    This will be evolved by OpenEvolve to improve performance and correctness.
+    '''
+
+    def __init__(self):
+        '''Initialize the Convolve2DFullFill.'''
+        pass
+
+    def solve(self, problem):
+        '''
+        Solve the convolve2d_full_fill problem.
+        Args:
+            problem: Dictionary containing problem data specific to convolve2d_full_fill
+        Returns:
+            The solution in the format expected by the task
+        '''
+        image = np.array(problem['image'])
+        kernel = np.array(problem['kernel'])
+        solution = signal.convolve2d(image, kernel, mode='full')
+        return solution.tolist()
+
+    def is_solution(self, problem, solution):
+        '''
+        Check if the provided solution is valid.
+        Args:
+            problem: The original problem
+            solution = The proposed solution
+        Returns:
+            True if the solution is valid, False otherwise
+        '''
+        image = np.array(problem['image'])
+        kernel = np.array(problem['kernel'])
+        expected_solution = signal.convolve2d(image, kernel, mode='full')
+        solution_array = np.array(solution)
+        return np.allclose(expected_solution, solution_array)

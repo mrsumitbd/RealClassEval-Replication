@@ -1,0 +1,50 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestAddUser::test_add_user,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_add_user,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,0.00011437496868893504
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestAddUser::test_add_user_2,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_add_user_2,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,0.00010737503180280328
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestAddUser::test_add_user_3,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_add_user_3,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,7.883401121944189e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestAddUser::test_add_user_4,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_add_user_4,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,7.820798782631755e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestAddUser::test_add_user_5,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_add_user_5,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,8.341699140146375e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestRemoveUser::test_remove_user,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_remove_user,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,7.212505443021655e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestRemoveUser::test_remove_user_2,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_remove_user_2,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,0.00017600000137463212
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestRemoveUser::test_remove_user_3,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_remove_user_3,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,0.0003363339928910136
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestRemoveUser::test_remove_user_4,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_remove_user_4,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,0.00012737500946968794
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestRemoveUser::test_remove_user_5,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_remove_user_5,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,7.691601058468223e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestSendMessage::test_send_message,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_send_message,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,failed,"AssertionError: {'John': [], 'Mary': [{'sender': 'John', 'receiver'[62 chars]9'}]} != {'John': [{'sender': 'John', 'receiver': 'Mary', 'm[156 chars]9'}]}
+- {'John': [],
++ {'John': [{'message': 'Hello',
++            'receiver': 'Mary',
++            'sender': 'John',
++            'timestamp': '2025-10-10 23:55:59'}],
+   'Mary': [{'message': 'Hello',
+             'receiver': 'Mary',
+             'sender': 'John',
+             'timestamp': '2025-10-10 23:55:59'}]}",0.00047733401879668236
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestSendMessage::test_send_message_2,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_send_message_2,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,0.00011533399811014533
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestSendMessage::test_send_message_3,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_send_message_3,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,7.895799353718758e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestSendMessage::test_send_message_4,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_send_message_4,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,7.999996887519956e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestSendMessage::test_send_message_5,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_send_message_5,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,0.0002566250041127205
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestGetMessages::test_get_messages,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_get_messages,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,0.00042037497041746974
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestGetMessages::test_get_messages_2,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_get_messages_2,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,0.00010166701395064592
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestGetMessages::test_get_messages_3,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_get_messages_3,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,7.229100447148085e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestGetMessages::test_get_messages_4,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_get_messages_4,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,9.937502909451723e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestGetMessages::test_get_messages_5,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_get_messages_5,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,passed,,0.0010693339863792062
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestMain::test_main,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_main,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,failed,"AssertionError: {'John': [], 'Mary': [{'sender': 'John', 'receiver'[62 chars]9'}]} != {'John': [{'sender': 'John', 'receiver': 'Mary', 'm[156 chars]9'}]}
+- {'John': [],
++ {'John': [{'message': 'Hello',
++            'receiver': 'Mary',
++            'sender': 'John',
++            'timestamp': '2025-10-10 23:55:59'}],
+   'Mary': [{'message': 'Hello',
+             'receiver': 'Mary',
+             'sender': 'John',
+             'timestamp': '2025-10-10 23:55:59'}]}",0.00034254201455041766
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py::ChatTestMain::test_main_2,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_21,test_main_2,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_21.py,,,failed,"AssertionError: {'John': [], 'Mary': [{'sender': 'John', 'receiver'[62 chars]9'}]} != {'John': [{'sender': 'John', 'receiver': 'Mary', 'm[156 chars]9'}]}
+- {'John': [],
++ {'John': [{'message': 'Hello',
++            'receiver': 'Mary',
++            'sender': 'John',
++            'timestamp': '2025-10-10 23:55:59'}],
+   'Mary': [{'message': 'Hello',
+             'receiver': 'Mary',
+             'sender': 'John',
+             'timestamp': '2025-10-10 23:55:59'}]}",0.0003914170083589852

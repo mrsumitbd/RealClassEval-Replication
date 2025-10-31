@@ -1,0 +1,21 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_83.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_83,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'string' == 'STRING'
+  
+  - STRING
+  + string",0.00021187500533415005
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_83.py::test_case_1,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_83,test_case_1,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'string' == 'STRING'
+  
+  - STRING
+  + string",0.0004930840004817583
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_83.py::test_case_2,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_83,test_case_2,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'string' == 'STRING'
+  
+  - STRING
+  + string",0.00021800000104121864
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_83.py::test_case_3,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_83,test_case_3,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'string' == 'STRING'
+  
+  - STRING
+  + string",0.00020374999439809471
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_83.py::test_case_4,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_83,test_case_4,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'boolean' == 'BOOLEAN'
+  
+  - BOOLEAN
+  + boolean",0.00021629099501296878

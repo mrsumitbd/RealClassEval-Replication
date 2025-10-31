@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_164.py::test_case_0,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_164,test_case_0,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_164.py,,,failed,AttributeError: 'patch_obj' object has no attribute 'diffs',8.533400250598788e-05

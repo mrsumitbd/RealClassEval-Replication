@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_38.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_38,test_case_0,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_38.py,,,failed,"AssertionError: assert 'ellipsis' == 'visible'
+  
+  - visible
+  + ellipsis",0.0004863329231739044
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_38.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_38,test_case_1,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_38.py,,,failed,"AssertionError: assert 'ellipsis' == 'visible'
+  
+  - visible
+  + ellipsis",0.00030745903495699167
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_38.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_38,test_case_2,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_38.py,,,passed,,0.0004724579630419612

@@ -1,0 +1,240 @@
+
+import numpy as np
+from scipy.linalg import cholesky, solve_triangular
+
+
+class KalmanFilterXYAH:
+    '''
+    A KalmanFilterXYAH class for tracking bounding boxes in image space using a Kalman filter.
+    Implements a simple Kalman filter for tracking bounding boxes in image space. The 8-dimensional state space
+    (x, y, a, h, vx, vy, va, vh) contains the bounding box center position (x, y), aspect ratio a, height h, and their
+    respective velocities. Object motion follows a constant velocity model, and bounding box location (x, y, a, h) is
+    taken as a direct observation of the state space (linear observation model).
+    Attributes:
+        _motion_mat (np.ndarray): The motion matrix for the Kalman filter.
+        _update_mat (np.ndarray): The update matrix for the Kalman filter.
+        _std_weight_position (float): Standard deviation weight for position.
+        _std_weight_velocity (float): Standard deviation weight for velocity.
+    Methods:
+        initiate: Creates a track from an unassociated measurement.
+        predict: Runs the Kalman filter prediction step.
+        project: Projects the state distribution to measurement space.
+        multi_predict: Runs the Kalman filter prediction step (vectorized version).
+        update: Runs the Kalman filter correction step.
+        gating_distance: Computes the gating distance between state distribution and measurements.
+    Examples:
+        Initialize the Kalman filter and create a track from a measurement
+        >>> kf = KalmanFilterXYAH()
+        >>> measurement = np.array([100, 200, 1.5, 50])
+        >>> mean, covariance = kf.initiate(measurement)
+        >>> print(mean)
+        >>> print(covariance)
+    '''
+
+    def __init__(self):
+        '''
+        Initialize Kalman filter model matrices with motion and observation uncertainty weights.
+        The Kalman filter is initialized with an 8-dimensional state space (x, y, a, h, vx, vy, va, vh), where (x, y)
+        represents the bounding box center position, 'a' is the aspect ratio, 'h' is the height, and their respective
+        velocities are (vx, vy, va, vh). The filter uses a constant velocity model for object motion and a linear
+        observation model for bounding box location.
+        Examples:
+            Initialize a Kalman filter for tracking:
+            >>> kf = KalmanFilterXYAH()
+        '''
+        ndim, dt = 4, 1.
+        self._ndim = ndim
+        self._dt = dt
+        self._motion_mat = np.eye(2 * ndim, dtype=np.float32)
+        for i in range(ndim):
+            self._motion_mat[i, ndim + i] = dt
+        self._update_mat = np.eye(ndim, 2 * ndim, dtype=np.float32)
+        self._std_weight_position = 1. / 20
+        self._std_weight_velocity = 1. / 160
+
+    def initiate(self, measurement: np.ndarray) -> tuple:
+        '''
+        Create a track from an unassociated measurement.
+        Args:
+            measurement (ndarray): Bounding box coordinates (x, y, a, h) with center position (x, y), aspect ratio a,
+                and height h.
+        Returns:
+            (tuple[ndarray, ndarray]): Returns the mean vector (8-dimensional) and covariance matrix (8x8 dimensional)
+                of the new track. Unobserved velocities are initialized to 0 mean.
+        Examples:
+            >>> kf = KalmanFilterXYAH()
+            >>> measurement = np.array([100, 50, 1.5, 200])
+            >>> mean, covariance = kf.initiate(measurement)
+        '''
+        mean = np.zeros(8, dtype=np.float32)
+        mean[:4] = measurement
+
+        std = [
+            2 * self._std_weight_position * measurement[3],  # x
+            2 * self._std_weight_position * measurement[3],  # y
+            1e-2,                                            # a
+            2 * self._std_weight_position * measurement[3],  # h
+            10 * self._std_weight_velocity * measurement[3],  # vx
+            10 * self._std_weight_velocity * measurement[3],  # vy
+            1e-5,                                            # va
+            10 * self._std_weight_velocity * measurement[3],  # vh
+        ]
+        covariance = np.diag(np.square(std)).astype(np.float32)
+        return mean, covariance
+
+    def predict(self, mean: np.ndarray, covariance: np.ndarray) -> tuple:
+        '''
+        Run Kalman filter prediction step.
+        Args:
+            mean (ndarray): The 8-dimensional mean vector of the object state at the previous time step.
+            covariance (ndarray): The 8x8-dimensional covariance matrix of the object state at the previous time step.
+        Returns:
+            (tuple[ndarray, ndarray]): Returns the mean vector and covariance matrix of the predicted state. Unobserved
+                velocities are initialized to 0 mean.
+        Examples:
+            >>> kf = KalmanFilterXYAH()
+            >>> mean = np.array([0, 0, 1, 1, 0, 0, 0, 0])
+            >>> covariance = np.eye(8)
+            >>> predicted_mean, predicted_covariance = kf.predict(mean, covariance)
+        '''
+        std_pos = self._std_weight_position * mean[3]
+        std_vel = self._std_weight_velocity * mean[3]
+        motion_cov = np.diag([
+            std_pos**2, std_pos**2, 1e-4, std_pos**2,
+            std_vel**2, std_vel**2, 1e-6, std_vel**2
+        ]).astype(np.float32)
+        mean = np.dot(self._motion_mat, mean)
+        covariance = np.dot(np.dot(self._motion_mat, covariance),
+                            self._motion_mat.T) + motion_cov
+        return mean, covariance
+
+    def project(self, mean: np.ndarray, covariance: np.ndarray) -> tuple:
+        '''
+        Project state distribution to measurement space.
+        Args:
+            mean (ndarray): The state's mean vector (8 dimensional array).
+            covariance (ndarray): The state's covariance matrix (8x8 dimensional).
+        Returns:
+            (tuple[ndarray, ndarray]): Returns the projected mean and covariance matrix of the given state estimate.
+        Examples:
+            >>> kf = KalmanFilterXYAH()
+            >>> mean = np.array([0, 0, 1, 1, 0, 0, 0, 0])
+            >>> covariance = np.eye(8)
+            >>> projected_mean, projected_covariance = kf.project(mean, covariance)
+        '''
+        std = [
+            self._std_weight_position * mean[3],
+            self._std_weight_position * mean[3],
+            1e-1,
+            self._std_weight_position * mean[3]
+        ]
+        innovation_cov = np.diag(np.square(std)).astype(np.float32)
+        mean_proj = np.dot(self._update_mat, mean)
+        covariance_proj = np.dot(
+            np.dot(self._update_mat, covariance), self._update_mat.T) + innovation_cov
+        return mean_proj, covariance_proj
+
+    def multi_predict(self, mean: np.ndarray, covariance: np.ndarray) -> tuple:
+        '''
+        Run Kalman filter prediction step for multiple object states (Vectorized version).
+        Args:
+            mean (ndarray): The Nx8 dimensional mean matrix of the object states at the previous time step.
+            covariance (ndarray): The Nx8x8 covariance matrix of the object states at the previous time step.
+        Returns:
+            (tuple[ndarray, ndarray]): Returns the mean matrix and covariance matrix of the predicted states.
+                The mean matrix has shape (N, 8) and the covariance matrix has shape (N, 8, 8). Unobserved velocities
+                are initialized to 0 mean.
+        Examples:
+            >>> mean = np.random.rand(10, 8)  # 10 object states
+            >>> covariance = np.random.rand(10, 8, 8)  # Covariance matrices for 10 object states
+            >>> predicted_mean, predicted_covariance = kalman_filter.multi_predict(mean, covariance)
+        '''
+        N = mean.shape[0]
+        means = np.dot(mean, self._motion_mat.T)
+        covariances = np.empty((N, 8, 8), dtype=np.float32)
+        for i in range(N):
+            std_pos = self._std_weight_position * mean[i, 3]
+            std_vel = self._std_weight_velocity * mean[i, 3]
+            motion_cov = np.diag([
+                std_pos**2, std_pos**2, 1e-4, std_pos**2,
+                std_vel**2, std_vel**2, 1e-6, std_vel**2
+            ]).astype(np.float32)
+            covariances[i] = np.dot(
+                np.dot(self._motion_mat, covariance[i]), self._motion_mat.T) + motion_cov
+        return means, covariances
+
+    def update(self, mean: np.ndarray, covariance: np.ndarray, measurement: np.ndarray) -> tuple:
+        '''
+        Run Kalman filter correction step.
+        Args:
+            mean (ndarray): The predicted state's mean vector (8 dimensional).
+            covariance (ndarray): The state's covariance matrix (8x8 dimensional).
+            measurement (ndarray): The 4 dimensional measurement vector (x, y, a, h), where (x, y) is the center
+                position, a the aspect ratio, and h the height of the bounding box.
+        Returns:
+            (tuple[ndarray, ndarray]): Returns the measurement-corrected state distribution.
+        Examples:
+            >>> kf = KalmanFilterXYAH()
+            >>> mean = np.array([0, 0, 1, 1, 0, 0, 0, 0])
+            >>> covariance = np.eye(8)
+            >>> measurement = np.array([1, 1, 1, 1])
+            >>> new_mean, new_covariance = kf.update(mean, covariance, measurement)
+        '''
+        projected_mean, projected_cov = self.project(mean, covariance)
+        chol_factor = cholesky(projected_cov, lower=True)
+        kalman_gain = solve_triangular(
+            chol_factor, np.dot(covariance, self._update_mat.T).T, lower=True
+        ).T
+        kalman_gain = solve_triangular(
+            chol_factor.T, kalman_gain.T, lower=False
+        ).T
+        innovation = measurement - projected_mean
+        new_mean = mean + np.dot(kalman_gain, innovation)
+        new_covariance = covariance - \
+            np.dot(kalman_gain, np.dot(projected_cov, kalman_gain.T))
+        return new_mean, new_covariance
+
+    def gating_distance(self, mean: np.ndarray, covariance: np.ndarray, measurements: np.ndarray, only_position: bool = False, metric: str = 'maha') -> np.ndarray:
+        '''
+        Compute gating distance between state distribution and measurements.
+        A suitable distance threshold can be obtained from `chi2inv95`. If `only_position` is False, the chi-square
+        distribution has 4 degrees of freedom, otherwise 2.
+        Args:
+            mean (ndarray): Mean vector over the state distribution (8 dimensional).
+            covariance (ndarray): Covariance of the state distribution (8x8 dimensional).
+            measurements (ndarray): An (N, 4) matrix of N measurements, each in format (x, y, a, h) where (x, y) is the
+                bounding box center position, a the aspect ratio, and h the height.
+            only_position (bool): If True, distance computation is done with respect to box center position only.
+            metric (str): The metric to use for calculating the distance. Options are 'gaussian' for the squared
+                Euclidean distance and 'maha' for the squared Mahalanobis distance.
+        Returns:
+            (np.ndarray): Returns an array of length N, where the i-th element contains the squared distance between
+                (mean, covariance) and `measurements[i]`.
+        Examples:
+            Compute gating distance using Mahalanobis metric:
+            >>> kf = KalmanFilterXYAH()
+            >>> mean = np.array([0, 0, 1, 1, 0, 0, 0, 0])
+            >>> covariance = np.eye(8)
+            >>> measurements = np.array([[1, 1, 1, 1], [2, 2, 1, 1]])
+            >>> distances = kf.gating_distance(mean, covariance, measurements, only_position=False, metric="maha")
+        '''
+        mean_proj, cov_proj = self.project(mean, covariance)
+        if only_position:
+            mean_proj = mean_proj[:2]
+            cov_proj = cov_proj[:2, :2]
+            measurements = measurements[:, :2]
+        else:
+            mean_proj = mean_proj[:4]
+            cov_proj = cov_proj[:4, :4]
+            measurements = measurements[:, :4]
+        d = measurements - mean_proj
+        if metric == 'maha':
+            cholesky_factor = cholesky(cov_proj, lower=True)
+            z = solve_triangular(cholesky_factor, d.T, lower=True)
+            squared_maha = np.sum(z * z, axis=0)
+            return squared_maha
+        elif metric == 'gaussian':
+            # Squared Euclidean distance
+            return np.sum(d * d, axis=1)
+        else:
+            raise ValueError("Invalid metric: {}".format(metric))

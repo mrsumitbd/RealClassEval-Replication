@@ -1,0 +1,19 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_263,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py,,xfail,xfailed,,0.0005291669949656352
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_263,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py,,,failed,AttributeError: 'Import_Data' object has no attribute 'endswith',0.00014375000318977982
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py::test_case_2,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_263,test_case_2,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py,,,passed,,8.062499546213076e-05
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py::test_case_3,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_263,test_case_3,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py,,,failed,"TypeError: expected str, bytes or os.PathLike object, not Import_Data",9.454200335312635e-05
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py::test_case_4,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_263,test_case_4,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py,,,failed,"AssertionError: assert {'/Users/umro...ons.abc', ...} == {}
+  
+  Left contains 880 more items:
+  {'/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/openai/full_docstr/snippet_263.py': 'snippet_263',
+   '/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py': 'test_snippet_263',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/__future__.py': '__future__',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_collections_abc.py': 'collections.abc',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_compat_pickle.py': '_compat_pickle',...
+  
+  ...Full output truncated (876 lines hidden), use '-vv' to show",0.018811375004588626
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py::test_case_5,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_263,test_case_5,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py,,xfail,xfailed,,0.00010145800479222089
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py::test_case_6,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_263,test_case_6,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py,,xfail,xfailed,,0.0005529589980142191
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py::test_case_7,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_263,test_case_7,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py,,xfail,xfailed,,0.00010270799975842237
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py::test_case_8,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_263,test_case_8,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_263.py,,xfail,xfailed,,9.300000237999484e-05

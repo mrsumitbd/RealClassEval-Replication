@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_339.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_339,test_case_0,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_339.py,,xfail,xfailed,,0.0007151010213419795
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_339.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_339,test_case_1,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_339.py,,,failed,"AssertionError: assert '/Users/musfi...nClassGen/src' == '/Users/musfi.../pynguin_expt'
+  
+  - /Users/musfiqurrahman/Documents/MISC/pynguin_expt
+  + /Users/musfiqurrahman/Documents/PhD/Replication_Packages_Backup/OpenClassGen/src",0.000629825983196497

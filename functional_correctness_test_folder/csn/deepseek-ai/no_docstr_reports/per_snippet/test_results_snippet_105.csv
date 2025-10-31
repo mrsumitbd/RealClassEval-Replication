@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_105.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_105,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_105.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.00010295899119228125
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_105.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_105,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_105.py,,,failed,IndexError: Index out of range,0.00010595799540169537

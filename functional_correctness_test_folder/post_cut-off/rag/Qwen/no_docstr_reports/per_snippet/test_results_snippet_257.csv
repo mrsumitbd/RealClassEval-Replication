@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_257.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_257,test_case_0,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_257.py,,xfail,failed,[XPASS(strict)] ,9.187497198581696e-05
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_257.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_257,test_case_1,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_257.py,,xfail,xfailed,,8.566700853407383e-05

@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_249.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_249,test_case_0,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_249.py,,,failed,TypeError: Template.__init__() missing 1 required positional argument: 'template_str',8.087497553788126e-05

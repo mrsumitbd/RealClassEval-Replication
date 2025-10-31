@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_87.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_87,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_87.py,,,failed,KeyError: 'texts',0.12811137503013015
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_87.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_87,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_87.py,,,passed,,0.0002639999147504568

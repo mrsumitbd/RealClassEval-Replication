@@ -1,0 +1,111 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_median,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,0.0001478340127505362
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_median_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,9.770895121619105e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_median_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,0.0001099579967558384
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_median_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,0.00016429199604317546
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_median_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,0.0001367079676128924
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_mode,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,0.00023737497394904494
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_mode_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,8.866697316989303e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_mode_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,7.695803651586175e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_mode_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,7.591600297018886e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_mode_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,0.00015050004003569484
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_correlation,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,0.00012029201025143266
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_correlation_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,9.191699791699648e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_correlation_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,8.27079638838768e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_correlation_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,AssertionError: 0.0 != None,0.0004964999970979989
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_correlation_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,AssertionError: 0.0 != None,0.00013525004032999277
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_mean,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,9.704200783744454e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_mean_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,ZeroDivisionError: division by zero,0.00033116701524704695
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_mean_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,0.00011266698129475117
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_mean_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,7.016595918685198e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_mean_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,7.154099876061082e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_correlation_matrix,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,0.00013350002700462937
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_correlation_matrix_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0, 1.0], [1.0, 1.0]] != [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+
+First differing element 0:
+[1.0, 1.0]
+[1.0, 1.0, 1.0]
+
+Second list contains 1 additional elements.
+First extra element 2:
+[1.0, 1.0, 1.0]
+
+- [[1.0, 1.0], [1.0, 1.0]]
++ [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]",0.00019391695968806744
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_correlation_matrix_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0]] != [[None, None, None], [None, None, None], [None, None, None]]
+
+First differing element 0:
+[1.0]
+[None, None, None]
+
+Second list contains 2 additional elements.
+First extra element 1:
+[None, None, None]
+
+- [[1.0]]
++ [[None, None, None], [None, None, None], [None, None, None]]",0.0001704589813016355
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_correlation_matrix_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0, 1.0, 1.0, 1.0], [1.0, 1.0, 1.0, 1.0], [1.0, 1.0, [27 chars]1.0]] != [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+
+First differing element 0:
+[1.0, 1.0, 1.0, 1.0]
+[1.0, 1.0, 1.0]
+
+First list contains 1 additional elements.
+First extra element 3:
+[1.0, 1.0, 1.0, 1.0]
+
++ [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+- [[1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0]]",0.00023266702191904187
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_correlation_matrix_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0, 1.0, 1.0, 1.0, 1.0], [1.0, 1.0, 1.0, 1.0, 1.0], [[74 chars]1.0]] != [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+
+First differing element 0:
+[1.0, 1.0, 1.0, 1.0, 1.0]
+[1.0, 1.0, 1.0]
+
+First list contains 2 additional elements.
+First extra element 3:
+[1.0, 1.0, 1.0, 1.0, 1.0]
+
++ [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+- [[1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0]]",0.00025970902061089873
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_standard_deviation,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,AssertionError: 0.816496580927726 != 1.0,9.404198499396443e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_standard_deviation_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,8.25420138426125e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_standard_deviation_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,7.008400280028582e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_standard_deviation_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,passed,,6.575003499165177e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_standard_deviation_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,AssertionError: 1.1661903789690602 != 1.3038404810405297,0.00011483300477266312
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_z_score,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [-1.3416407864998738, -0.4472135954999579, 0.[32 chars]8738] != [-1.161895003862225, -0.3872983346207417, 0.3[30 chars]2225]
+
+First differing element 0:
+-1.3416407864998738
+-1.161895003862225
+
++ [-1.161895003862225, -0.3872983346207417, 0.3872983346207417, 1.161895003862225]
+- [-1.3416407864998738,
+-  -0.4472135954999579,
+-  0.4472135954999579,
+-  1.3416407864998738]",0.00017858401406556368
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_z_score_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,ZeroDivisionError: float division by zero,8.66670161485672e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_z_score_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,ZeroDivisionError: float division by zero,9.520899038761854e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_z_score_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [-0.9045340337332909, -0.9045340337332909, 0.[32 chars]8818] != [-0.7833494518006403, -0.7833494518006403, 0.[33 chars]7337]
+
+First differing element 0:
+-0.9045340337332909
+-0.7833494518006403
+
+- [-0.9045340337332909,
+-  -0.9045340337332909,
+-  0.30151134457776363,
+-  1.507556722888818]
++ [-0.7833494518006403,
++  -0.7833494518006403,
++  0.26111648393354675,
++  1.3055824196677337]",0.0006196670001372695
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_z_score_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,ZeroDivisionError: float division by zero,8.754199370741844e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py::Statistics3TestMain::test_main,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_82,test_main,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_82.py,,,failed,AssertionError: 0.816496580927726 != 1.0,0.00014645798364654183

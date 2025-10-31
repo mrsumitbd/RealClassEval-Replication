@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_124.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_124,test_case_0,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_124.py,,,failed,"assert 0.0 is False
+ +  where 0.0 = <snippet_124.DelayTimer object at 0x104ed6980>.delay",0.00013866598601453006
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_124.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_124,test_case_1,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_124.py,,,failed,"assert 1.0 is True
+ +  where 1.0 = <snippet_124.DelayTimer object at 0x104ed5600>.delay",0.00013199998647905886
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_124.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_124,test_case_2,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_124.py,,,failed,ValueError: could not convert string to float: b'\xb4h6\x12\x08\xe8\x9e\xd8',7.416601874865592e-05

@@ -1,0 +1,53 @@
+from typing import Optional
+import torch
+
+
+class ResidualConnection:
+    '''
+    A utility class for applying residual connections in neural networks.
+    '''
+
+    def __init__(self, use_residual: bool = False):
+        '''
+        Initialize the ResidualConnection.
+        Args:
+            use_residual (bool): If True, apply residual connection.
+        '''
+        self.use_residual = bool(use_residual)
+        self._residual: Optional[torch.Tensor] = None
+
+    def register(self, x: torch.Tensor):
+        '''
+        Register the input tensor for residual connection.
+        Args:
+            x (torch.Tensor): The input tensor to be registered.
+        '''
+        if not self.use_residual:
+            return
+        if not isinstance(x, torch.Tensor):
+            raise TypeError("x must be a torch.Tensor")
+        self._residual = x
+
+    def apply(self, y: torch.Tensor) -> torch.Tensor:
+        '''
+        Apply the residual connection.
+        The residual connection is only applied if it was instantiated with `use_residual=True`.
+        Args:
+            y (torch.Tensor): The output tensor to which the residual connection is applied.
+        Returns:
+            torch.Tensor: The output tensor after applying the residual connection.
+        '''
+        if not self.use_residual:
+            return y
+        if self._residual is None:
+            raise RuntimeError(
+                "Residual tensor not registered. Call register(x) before apply(y).")
+        try:
+            out = y + self._residual
+        except RuntimeError as e:
+            raise ValueError(
+                f"Residual shape mismatch: residual shape {tuple(self._residual.shape)} incompatible with output shape {tuple(y.shape)}"
+            ) from e
+        finally:
+            self._residual = None
+        return out

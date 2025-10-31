@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_269.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_269,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_269.py,,,failed,AttributeError: type object '_TaskConfig' has no attribute 'KW_ARGS_ERROR_REGEX',9.47499938774854e-05

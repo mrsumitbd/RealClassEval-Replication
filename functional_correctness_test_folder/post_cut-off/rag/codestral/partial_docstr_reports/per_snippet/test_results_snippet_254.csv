@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_254.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_254,test_case_0,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_254.py,,,passed,,0.00017574999947100878
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_254.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_254,test_case_1,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_254.py,,,failed,"AssertionError: assert '这是第一次对话' == ''
+  
+  + 这是第一次对话",0.0004640000406652689
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_254.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_254,test_case_2,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_254.py,,xfail,xfailed,,8.429097943007946e-05
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_254.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_254,test_case_3,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_254.py,,,failed,"TypeError: expected str, bytes or os.PathLike object, not NoneType",8.320808410644531e-05

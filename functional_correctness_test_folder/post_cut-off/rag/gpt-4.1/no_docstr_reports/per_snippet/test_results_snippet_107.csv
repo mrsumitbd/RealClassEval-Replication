@@ -1,0 +1,19 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_107,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py,,,failed,"AssertionError: assert 'Context(text..._count=False)' == 'Context(text..._index=False)'
+  
+  - Context(text='d%M@`Y8X35', token_count=False, start_index=False, end_index=False)
+  ?                            -------------------
+  + Context(text='d%M@`Y8X35', start_index=False, end_index=False, token_count=False)
+  ?                                                              +++++++++++++++++++",0.0013927079271525145
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_107,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py,,xfail,xfailed,,0.0003498750738799572
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_107,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py,,,failed,"AssertionError: assert 'Context(text..._count=False)' == 'd%M@`Y8X35'
+  
+  - d%M@`Y8X35
+  + Context(text='d%M@`Y8X35', start_index=False, end_index=False, token_count=False)",0.00017283298075199127
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_107,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py,,xfail,xfailed,,7.399998139590025e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_107,test_case_4,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py,,xfail,failed,[XPASS(strict)] ,6.24160747975111e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_107,test_case_5,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py,,,passed,,6.262504030019045e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_107,test_case_6,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py,,,passed,,6.533297710120678e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py::test_case_7,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_107,test_case_7,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py,,xfail,failed,[XPASS(strict)] ,6.095797289162874e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py::test_case_8,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_107,test_case_8,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py,,xfail,xfailed,,6.42499653622508e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py::test_case_9,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_107,test_case_9,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_107.py,,xfail,xfailed,,0.0002971249632537365

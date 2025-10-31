@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_351.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.partial_docstr.test_snippet_351,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_351.py,,,failed,ValueError: Exactly one of 'module' or 'yaml_document' must be provided,0.0002957890392281115

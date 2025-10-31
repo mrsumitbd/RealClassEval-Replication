@@ -1,0 +1,49 @@
+from typing import List
+import os
+
+
+class ContentMixin:
+    '''
+    Mixin class for BedrockServerManager that handles global content management.
+    '''
+
+    def _list_content_files(self, sub_folder: str, extensions: List[str]) -> List[str]:
+        '''
+        Internal helper to list files with specified extensions from a sub-folder
+        within the global content directory.
+        '''
+        # Check if _content_dir is set and is a directory
+        content_dir = getattr(self, '_content_dir', None)
+        if not content_dir or not isinstance(content_dir, str):
+            raise AppFileNotFoundError(
+                "Global content directory is not configured.")
+        if not os.path.isdir(content_dir):
+            raise AppFileNotFoundError(
+                f"Global content directory '{content_dir}' does not exist or is not a directory.")
+
+        target_dir = os.path.join(content_dir, sub_folder)
+        if not os.path.isdir(target_dir):
+            # If the subfolder doesn't exist, return empty list
+            return []
+
+        try:
+            files = []
+            for entry in os.listdir(target_dir):
+                full_path = os.path.join(target_dir, entry)
+                if os.path.isfile(full_path):
+                    for ext in extensions:
+                        if entry.lower().endswith(ext.lower()):
+                            files.append(os.path.abspath(full_path))
+                            break
+            return sorted(files)
+        except OSError as e:
+            raise FileOperationError(
+                f"Error scanning directory '{target_dir}': {e}")
+
+    def list_available_worlds(self) -> List[str]:
+        '''Lists available ``.mcworld`` template files from the global content directory.'''
+        return self._list_content_files("worlds", [".mcworld"])
+
+    def list_available_addons(self) -> List[str]:
+        '''Lists available addon files (``.mcpack``, ``.mcaddon``) from the global content directory.'''
+        return self._list_content_files("addons", [".mcpack", ".mcaddon"])

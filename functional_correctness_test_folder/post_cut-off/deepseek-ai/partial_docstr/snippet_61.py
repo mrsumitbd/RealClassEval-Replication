@@ -1,0 +1,16 @@
+
+from dataclasses import dataclass
+from typing import Dict, Any
+
+
+@dataclass
+class Program:
+    '''Represents a program in the database'''
+
+    def to_dict(self) -> Dict[str, Any]:
+        return self.__dict__
+
+    @classmethod
+    def from_dict(cls, data: Dict[str, Any]) -> 'Program':
+        '''Create from dictionary representation'''
+        return cls(**data)

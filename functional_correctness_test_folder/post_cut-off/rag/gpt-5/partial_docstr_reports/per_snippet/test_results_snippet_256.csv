@@ -1,0 +1,31 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_256.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_256,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'api_call': ...RECASE)], ...} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 22 more items:
+  {'api_call': [re.compile('\\b(call|hit|request|invoke|fetch)\\b.*\\b(api|endpoint|http)\\b', re.IGNORECASE),
+                re.compile('\\bGET|POST|PUT|PATCH|DELETE\\b', re.IGNORECASE)],
+   'bug_fix': [re.compile('\\b(fix|debug|resolve|diagnose)\\b.*\\b(bug|error|issue|exception|traceback)\\b', re.IGNORECASE)],
+   'code_generation': [re.compile('\\b(write|generate|implement|create|produce)\\b.*\\b(code|function|class|script|module|program)\\b', re.IGNORECASE|re.DOTALL),
+                       re.compile('```', re.IGNORECASE)],...
+  
+  ...Full output truncated (45 lines hidden), use '-vv' to show",0.004240749985910952
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_256.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_256,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'api_call': ...RECASE)], ...} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 22 more items:
+  {'api_call': [re.compile('\\b(call|hit|request|invoke|fetch)\\b.*\\b(api|endpoint|http)\\b', re.IGNORECASE),
+                re.compile('\\bGET|POST|PUT|PATCH|DELETE\\b', re.IGNORECASE)],
+   'bug_fix': [re.compile('\\b(fix|debug|resolve|diagnose)\\b.*\\b(bug|error|issue|exception|traceback)\\b', re.IGNORECASE)],
+   'code_generation': [re.compile('\\b(write|generate|implement|create|produce)\\b.*\\b(code|function|class|script|module|program)\\b', re.IGNORECASE|re.DOTALL),
+                       re.compile('```', re.IGNORECASE)],...
+  
+  ...Full output truncated (45 lines hidden), use '-vv' to show",0.0006075829733163118
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_256.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_256,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'api_call': ...RECASE)], ...} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 22 more items:
+  {'api_call': [re.compile('\\b(call|hit|request|invoke|fetch)\\b.*\\b(api|endpoint|http)\\b', re.IGNORECASE),
+                re.compile('\\bGET|POST|PUT|PATCH|DELETE\\b', re.IGNORECASE)],
+   'bug_fix': [re.compile('\\b(fix|debug|resolve|diagnose)\\b.*\\b(bug|error|issue|exception|traceback)\\b', re.IGNORECASE)],
+   'code_generation': [re.compile('\\b(write|generate|implement|create|produce)\\b.*\\b(code|function|class|script|module|program)\\b', re.IGNORECASE|re.DOTALL),
+                       re.compile('```', re.IGNORECASE)],...
+  
+  ...Full output truncated (45 lines hidden), use '-vv' to show",0.0005463330307975411

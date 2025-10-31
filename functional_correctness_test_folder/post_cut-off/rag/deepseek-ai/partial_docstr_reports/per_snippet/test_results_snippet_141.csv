@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.partial_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert '[Ambiguous F...terpretation)' == '\n        CO...ts.\n        '
+  
+  + [Ambiguous Framing] j5g (context-dependent interpretation)
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0003177500329911709
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.partial_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert '[Priority Sh...igh-priority)' == '\n        PR...ss.\n        '
+  
+  + [Priority Shift] Izn:^VmBJqm7%(h (now marked as high-priority)
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0002824160037562251
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.partial_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_141.py,,,failed,"assert '[Ambiguous F...terpretation)' == '\n        CO...ts.\n        '
+  
+  + [Ambiguous Framing] [fG\i""U (context-dependent interpretation)
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0002456249203532934
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.partial_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert '[Scope Expan...ader context)' == '\n        CO...ol.\n        '
+  
+  + [Scope Expansion] Y
+  
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH...
+  
+  ...Full output truncated (14 lines hidden), use '-vv' to show",0.00022587506100535393

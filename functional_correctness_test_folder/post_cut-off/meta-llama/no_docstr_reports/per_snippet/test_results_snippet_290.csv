@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_290.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_290,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_290.py,,,failed,"ValueError: Either credentials, service_account_path, or service_account_info must be provided",0.0002673359995242208

@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_297.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_297,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_297.py,,xfail,xfailed,,0.0002933340147137642
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_297.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_297,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_297.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0002090419875457883
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_297.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_297,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_297.py,,xfail,xfailed,,0.00017250003293156624
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_297.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_297,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_297.py,,xfail,xfailed,,0.000584959052503109
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_297.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_297,test_case_4,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_297.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0002025420544669032

@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_205.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_205,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_205.py,,,passed,,8.604200411355123e-05
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_205.py::test_case_1,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_205,test_case_1,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_205.py,,,passed,,7.049999840091914e-05

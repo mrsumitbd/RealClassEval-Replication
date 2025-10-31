@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_212.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_212,test_case_0,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_212.py,,xfail,xfailed,,8.233400876633823e-05
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_212.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_212,test_case_1,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_212.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.OrderedDict'
+  
+  - collections.OrderedDict
+  + builtins.dict",0.0006691250018775463

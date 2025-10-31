@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/Qwen/partial_docstr/test_snippet_297.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.Qwen.partial_docstr.test_snippet_297,test_case_0,functional_correctness_test_folder/post_cut-off/rag/Qwen/partial_docstr/test_snippet_297.py,,xfail,xfailed,,0.0002893749624490738
+functional_correctness_test_folder/post_cut-off/rag/Qwen/partial_docstr/test_snippet_297.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.Qwen.partial_docstr.test_snippet_297,test_case_1,functional_correctness_test_folder/post_cut-off/rag/Qwen/partial_docstr/test_snippet_297.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.00018870900385081768
+functional_correctness_test_folder/post_cut-off/rag/Qwen/partial_docstr/test_snippet_297.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.Qwen.partial_docstr.test_snippet_297,test_case_2,functional_correctness_test_folder/post_cut-off/rag/Qwen/partial_docstr/test_snippet_297.py,,xfail,xfailed,,0.0001602090196684003
+functional_correctness_test_folder/post_cut-off/rag/Qwen/partial_docstr/test_snippet_297.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.Qwen.partial_docstr.test_snippet_297,test_case_3,functional_correctness_test_folder/post_cut-off/rag/Qwen/partial_docstr/test_snippet_297.py,,xfail,xfailed,,0.0001451659481972456
+functional_correctness_test_folder/post_cut-off/rag/Qwen/partial_docstr/test_snippet_297.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.Qwen.partial_docstr.test_snippet_297,test_case_4,functional_correctness_test_folder/post_cut-off/rag/Qwen/partial_docstr/test_snippet_297.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.000145082944072783

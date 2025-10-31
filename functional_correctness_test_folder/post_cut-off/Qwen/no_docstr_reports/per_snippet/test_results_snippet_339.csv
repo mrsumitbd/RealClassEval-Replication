@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_339.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_339,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_339.py,,xfail,failed,[XPASS(strict)] ,0.00025521800853312016
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_339.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_339,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_339.py,,,failed,"AssertionError: assert None == '/Users/musfiqurrahman/Documents/MISC/pynguin_expt'
+ +  where None = <snippet_339.MCPConfigGenerator object at 0x116f1bfa0>.base_dir",0.0006108840461820364

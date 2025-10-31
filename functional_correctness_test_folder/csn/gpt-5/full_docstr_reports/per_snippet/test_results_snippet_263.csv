@@ -1,0 +1,19 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_263,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py,,xfail,xfailed,,0.0012436660035746172
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_263,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py,,,failed,TypeError: argument of type 'Import_Data' is not iterable,0.00011987500329269096
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_263,test_case_2,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py,,,passed,,0.00011749999976018444
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py::test_case_3,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_263,test_case_3,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py,,,failed,"TypeError: expected str, bytes or os.PathLike object, not Import_Data",0.0002380840014666319
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py::test_case_4,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_263,test_case_4,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py,,,failed,"AssertionError: assert {'/Users/umro...ons.abc', ...} == {}
+  
+  Left contains 880 more items:
+  {'/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/gpt-5/full_docstr/snippet_263.py': 'snippet_263',
+   '/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py': 'test_snippet_263',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/__future__.py': '__future__',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_collections_abc.py': 'collections.abc',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_compat_pickle.py': '_compat_pickle',...
+  
+  ...Full output truncated (876 lines hidden), use '-vv' to show",0.00893066699791234
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py::test_case_5,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_263,test_case_5,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py,,xfail,xfailed,,0.00010533299791859463
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py::test_case_6,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_263,test_case_6,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py,,xfail,xfailed,,0.00020245800260454416
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py::test_case_7,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_263,test_case_7,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py,,xfail,xfailed,,8.275000436697155e-05
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py::test_case_8,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_263,test_case_8,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_263.py,,xfail,xfailed,,7.683400326641276e-05

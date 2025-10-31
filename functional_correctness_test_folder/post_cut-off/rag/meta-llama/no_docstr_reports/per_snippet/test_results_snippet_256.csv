@@ -1,0 +1,31 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_256.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_256,test_case_0,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'code_contex...|stacktrace)'} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 3 more items:
+  {'code_context': '(code|snippet|function|method|class)',
+   'conversation_context': '(conversation|dialogue|chat)',
+   'error_context': '(error|exception|stacktrace)'}
+  Right contains 5 more items:
+  {'compliance': ['(?i)\\b(compliance|audit|policy|regulation)\\b',...
+  
+  ...Full output truncated (20 lines hidden), use '-vv' to show",0.0005890830652788281
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_256.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_256,test_case_1,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'code_contex...|stacktrace)'} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 3 more items:
+  {'code_context': '(code|snippet|function|method|class)',
+   'conversation_context': '(conversation|dialogue|chat)',
+   'error_context': '(error|exception|stacktrace)'}
+  Right contains 5 more items:
+  {'compliance': ['(?i)\\b(compliance|audit|policy|regulation)\\b',...
+  
+  ...Full output truncated (20 lines hidden), use '-vv' to show",0.00038291700184345245
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_256.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_256,test_case_2,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'code_contex...|stacktrace)'} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 3 more items:
+  {'code_context': '(code|snippet|function|method|class)',
+   'conversation_context': '(conversation|dialogue|chat)',
+   'error_context': '(error|exception|stacktrace)'}
+  Right contains 5 more items:
+  {'compliance': ['(?i)\\b(compliance|audit|policy|regulation)\\b',...
+  
+  ...Full output truncated (20 lines hidden), use '-vv' to show",0.00031987507827579975

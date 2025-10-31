@@ -1,0 +1,19 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_263,test_case_0,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py,,xfail,failed,[XPASS(strict)] ,0.010443250008393079
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_263,test_case_1,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py,,,failed,"TypeError: join() argument must be str, bytes, or os.PathLike object, not 'Import_Data'",0.00029195897514000535
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py::test_case_2,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_263,test_case_2,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py,,,passed,,0.00013579201186075807
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py::test_case_3,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_263,test_case_3,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py,,,failed,"TypeError: expected str, bytes or os.PathLike object, not Import_Data",0.00011387502308934927
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py::test_case_4,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_263,test_case_4,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py,,,failed,"AssertionError: assert {'/Users/umro...ons.abc', ...} == {}
+  
+  Left contains 880 more items:
+  {'/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/meta-llama/no_docstr/snippet_263.py': 'snippet_263',
+   '/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py': 'test_snippet_263',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/__future__.py': '__future__',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_collections_abc.py': 'collections.abc',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_compat_pickle.py': '_compat_pickle',...
+  
+  ...Full output truncated (876 lines hidden), use '-vv' to show",0.007073249988025054
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py::test_case_5,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_263,test_case_5,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py,,xfail,failed,[XPASS(strict)] ,0.00017087499145418406
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py::test_case_6,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_263,test_case_6,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py,,xfail,xfailed,,0.00037241700920276344
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py::test_case_7,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_263,test_case_7,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py,,xfail,failed,[XPASS(strict)] ,0.0002124170132447034
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py::test_case_8,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_263,test_case_8,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_263.py,,xfail,xfailed,,7.375000859610736e-05

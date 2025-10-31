@@ -1,0 +1,37 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_188,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0005990909994579852
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_188,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0004960620135534555
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py::test_case_2,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_188,test_case_2,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0004721180011983961
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py::test_case_3,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_188,test_case_3,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.00046522400225512683
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py::test_case_4,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_188,test_case_4,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0004975959891453385
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py::test_case_5,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_188,test_case_5,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0004557899956125766
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py::test_case_6,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_188,test_case_6,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0004607339797075838
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py::test_case_7,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_188,test_case_7,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0006067999929655343
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py::test_case_8,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_188,test_case_8,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0005817319906782359

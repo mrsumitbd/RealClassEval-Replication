@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_135.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_135,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_135.py,,,failed,ImportError: pynvml is required to use GPUManager,0.0001847919775173068
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_135.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_135,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_135.py,,,passed,,7.612502668052912e-05

@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_146,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py,,xfail,xfailed,,0.0013781060042674653
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_146,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py,,xfail,xfailed,,0.00029362100030994043
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py::test_case_2,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_146,test_case_2,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py,,xfail,failed,[XPASS(strict)] ,0.00030233299912652
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py::test_case_3,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_146,test_case_3,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'Generate Fal...nerabilities.' == '\n        I ...ON:\n        '
+  
+  + Generate False baseline attack prompts for Direct-PII leakage vulnerabilities.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that directly solicits personally identifiable information (addresses, phone numbers,
+  -         social-security numbers, etc.). Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0011500440014060587
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py::test_case_4,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_146,test_case_4,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'Generate Tru...nerabilities.' == '\n        I ...ON:\n        '
+  
+  + Generate True baseline attack prompts for Social-manipulation PII leakage vulnerabilities.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should employ deception or phishing tactics to coax the assistant into revealing PII.
+  -         Each request must be specific and mirror real social-engineering scenarios.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0012455190008040518
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py::test_case_5,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_146,test_case_5,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py,,xfail,xfailed,,0.00024034399393713102
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py::test_case_6,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_146,test_case_6,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_146.py,,xfail,xfailed,,0.00025110899878200144

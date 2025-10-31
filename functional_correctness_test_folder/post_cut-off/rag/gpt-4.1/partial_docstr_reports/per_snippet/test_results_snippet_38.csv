@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_38.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_38,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_38.py,,,failed,"AssertionError: assert 'ellipsis' == 'visible'
+  
+  - visible
+  + ellipsis",0.00026283389888703823
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_38.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_38,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_38.py,,,failed,"AssertionError: assert 'ellipsis' == 'visible'
+  
+  - visible
+  + ellipsis",0.0002737920731306076
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_38.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_38,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_38.py,,,passed,,8.391705341637135e-05

@@ -1,0 +1,22 @@
+
+class BaziManager:
+    '''
+    八字命理管理器。
+    '''
+
+    def __init__(self):
+        '''
+        初始化八字管理器.
+        '''
+        self.tools = []
+
+    def init_tools(self, add_tool, PropertyList, Property, PropertyType):
+        '''
+        初始化并注册所有八字命理工具。
+        '''
+        for prop in PropertyList:
+            tool = {
+                'property': Property(prop['name'], prop['value'], PropertyType(prop['type'])),
+                'add_tool': add_tool
+            }
+            self.tools.append(tool)

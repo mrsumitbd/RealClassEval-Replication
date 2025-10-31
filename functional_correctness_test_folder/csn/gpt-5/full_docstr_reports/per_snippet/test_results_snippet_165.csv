@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_165.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_165,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_165.py,,,failed,AttributeError: 'Inputs' object has no attribute 'inputs',8.24999951873906e-05
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_165.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_165,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_165.py,,xfail,xfailed,,9.987500379793346e-05
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_165.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_165,test_case_2,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_165.py,,xfail,xfailed,,0.00022229200112633407

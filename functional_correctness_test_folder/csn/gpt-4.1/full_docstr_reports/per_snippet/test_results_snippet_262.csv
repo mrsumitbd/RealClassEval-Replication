@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_262.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_262,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_262.py,,,failed,"AssertionError: assert 0 == 1
+ +  where 0 = <class 'snippet_262.Plot_Data'>.count
+ +    where <class 'snippet_262.Plot_Data'> = module_0.Plot_Data",0.00016079199849627912

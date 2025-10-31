@@ -1,0 +1,22 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_184,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.0002334589953534305
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py::test_case_1,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_184,test_case_1,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00018450000061420724
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py::test_case_2,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_184,test_case_2,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00016537500050617382
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py::test_case_3,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_184,test_case_3,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00016812499961815774
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py::test_case_4,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_184,test_case_4,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00015304100088542327
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py::test_case_5,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_184,test_case_5,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.0001488330017309636
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py::test_case_6,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_184,test_case_6,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00018008299957728013

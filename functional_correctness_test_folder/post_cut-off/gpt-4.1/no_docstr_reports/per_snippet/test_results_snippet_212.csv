@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_212.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_212,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_212.py,,xfail,xfailed,,0.00029953100602142513
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_212.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_212,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_212.py,,xfail,xfailed,,0.0002649879897944629
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_212.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_212,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_212.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0005587509949691594
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_212.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_212,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_212.py,,xfail,xfailed,,0.0004784339980687946
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_212.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_212,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_212.py,,xfail,xfailed,,0.0007107419951353222

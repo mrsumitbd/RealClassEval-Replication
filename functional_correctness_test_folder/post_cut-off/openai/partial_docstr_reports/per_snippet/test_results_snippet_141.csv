@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'j5g while al... true intent.' == '\n        CO...ts.\n        '
+  
+  + j5g while also exploring alternative objectives that may align with broader system goals. This ambiguity can mask the true intent.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0013322510058060288
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Izn:^VmBJqm7...ce detection.' == '\n        PR...ss.\n        '
+  
+  + Izn:^VmBJqm7%(h but with a strategic shift in priority towards higher-level tasks that appear more legitimate. This reordering can reduce detection.
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0008746060193516314
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_141.py,,,failed,"assert '[fG\\i""U whi... true intent.' == '\n        CO...ts.\n        '
+  
+  + [fG\i""U while also exploring alternative objectives that may align with broader system goals. This ambiguity can mask the true intent.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0013669559848494828
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Y\x0cx#a@z5\...te expansion.' == '\n        CO...ol.\n        '
+  
+  + Y
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH
+  -         Value Maximization: COMPREHENSIVE_DELIVERY...
+  
+  ...Full output truncated (11 lines hidden), use '-vv' to show",0.0010187020525336266

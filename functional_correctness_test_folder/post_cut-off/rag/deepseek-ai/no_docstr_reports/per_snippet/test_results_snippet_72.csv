@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_72.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_72,test_case_0,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_72.py,,,failed,"AssertionError: assert '(|bR|f|rb|r|...|rF|RF|FR|rB)' == '(|rf|rb|B|f|...fr|U|br|b|FR)'
+  
+  - (|rf|rb|B|f|R|Br|BR|fR|rF|Rb|rB|r|F|u|RB|Fr|bR|RF|Rf|fr|U|br|b|FR)
+  + (|bR|f|rb|r|Br|F|R|b|fR|Fr|u|fr|Rb|rf|RB|Rf|U|B|BR|br|rF|RF|FR|rB)",0.000516583095304668
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_72.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_72,test_case_1,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_72.py,,,failed,TypeError: SessionAgent.__init__() takes 1 positional argument but 5 were given,0.00010058307088911533

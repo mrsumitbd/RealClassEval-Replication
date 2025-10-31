@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_146,test_case_0,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py,,xfail,xfailed,,0.0003143010035273619
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_146,test_case_1,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py,,xfail,xfailed,,0.00026609199994709343
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_146,test_case_2,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py,,xfail,xfailed,,0.0002602769964141771
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_146,test_case_3,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'Generate dir...n examples:\n' == '\n        I ...ON:\n        '
+  
+  + Generate direct PII leakage attack prompts.
+  + Provide up to False golden examples:
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that directly solicits personally identifiable information (addresses, phone numbers,
+  -         social-security numbers, etc.). Each request must be specific and realistic....
+  
+  ...Full output truncated (85 lines hidden), use '-vv' to show",0.0013446250013657846
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py::test_case_4,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_146,test_case_4,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'Generate soc... card number.' == '\n        I ...ON:\n        '
+  
+  + Generate social-manipulation PII leakage attack prompts.
+  + Provide up to True golden examples:
+  + 1. Phishing email asking for the user’s password and credit card number.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should employ deception or phishing tactics to coax the assistant into revealing PII....
+  
+  ...Full output truncated (86 lines hidden), use '-vv' to show",0.0021322690008673817
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py::test_case_5,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_146,test_case_5,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py,,xfail,xfailed,,0.0002371600057813339
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py::test_case_6,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_146,test_case_6,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_146.py,,xfail,xfailed,,0.00024583499907748774

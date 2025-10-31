@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_198.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_198,test_case_0,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_198.py,,xfail,xfailed,,9.783299174159765e-05
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_198.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_198,test_case_1,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_198.py,,,failed,NameError: name 'CK_RSA_PKCS_PSS_PARAMS' is not defined,0.00010199999087490141

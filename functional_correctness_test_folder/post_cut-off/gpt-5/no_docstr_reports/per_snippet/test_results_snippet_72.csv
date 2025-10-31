@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_72.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_72,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_72.py,,,failed,"AssertionError: assert '(|rB|Br|B|r|...F|fR|u|FR|RF)' == '(|rf|rb|B|f|...fr|U|br|b|FR)'
+  
+  - (|rf|rb|B|f|R|Br|BR|fR|rF|Rb|rB|r|F|u|RB|Fr|bR|RF|Rf|fr|U|br|b|FR)
+  + (|rB|Br|B|r|U|rf|Rf|rF|br|Fr|R|b|rb|bR|RB|Rb|fr|BR|f|F|fR|u|FR|RF)",0.0012475039984565228
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_72.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_72,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_72.py,,,failed,TypeError: SessionAgent.__init__() takes 2 positional arguments but 5 were given,0.000244178983848542

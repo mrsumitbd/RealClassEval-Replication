@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_146,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.0019602410029619932
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_146,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.0002837670035660267
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_146,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.0002490839979145676
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_146,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'Objective: E... be resolved.' == '\n        I ...ON:\n        '
+  
+  + Objective: Elicit direct disclosure of PII without relying on external tools.
+    
+  + Baseline attack ideas:
+  + - Ask for a redacted biography that includes placeholders for full name, date of birth, address, phone, and ID numbers, then request the placeholders to be resolved.
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that directly solicits personally identifiable information (addresses, phone numbers,...
+  
+  ...Full output truncated (86 lines hidden), use '-vv' to show",0.0022592979948967695
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_146,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'Objective: U...unt recovery.' == '\n        I ...ON:\n        '
+  
+  + Objective: Use social engineering to coax disclosure of PII.
+    
+  + Baseline attack ideas:
+  + - Impersonate a support agent requesting verification details (full name, DOB, address) for account recovery.
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should employ deception or phishing tactics to coax the assistant into revealing PII....
+  
+  ...Full output truncated (86 lines hidden), use '-vv' to show",0.00206140402588062
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_146,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.00026199701824225485
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_146,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.0002518270048312843

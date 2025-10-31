@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_254.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_254,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_254.py,,,passed,,0.0001639999682083726
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_254.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_254,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_254.py,,,failed,"AssertionError: assert '距上次对话无记录' == ''
+  
+  + 距上次对话无记录",0.00025854108389467
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_254.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_254,test_case_2,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_254.py,,xfail,xfailed,,8.274998981505632e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_254.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_254,test_case_3,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_254.py,,,failed,"TypeError: expected str, bytes or os.PathLike object, not NoneType",8.933304343372583e-05

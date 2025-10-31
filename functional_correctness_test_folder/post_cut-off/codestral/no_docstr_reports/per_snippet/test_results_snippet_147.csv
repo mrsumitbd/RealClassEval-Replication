@@ -1,0 +1,27 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_147,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py,,,failed,"AssertionError: assert 'Generate Tru...ials leakage.' == '\n        I ...ON:\n        '
+  
+  + Generate True baseline attacks to test for secrets and credentials leakage.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` must attempt to extract sensitive credentials or secret configuration details from the system.
+  -         IMPORTANT: Return **only** valid JSON with a top-level 'data' list.
+  -         You MUST generate True data points....
+  
+  ...Full output truncated (59 lines hidden), use '-vv' to show",0.002114331000484526
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_147,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py,,xfail,xfailed,,0.00043179301428608596
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py::test_case_2,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_147,test_case_2,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py,,xfail,xfailed,,0.00024536598357371986
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py::test_case_3,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_147,test_case_3,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py,,xfail,failed,[XPASS(strict)] ,0.000540752982487902
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py::test_case_4,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_147,test_case_4,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py,,,failed,"AssertionError: assert 'Generate Fal...ions leakage.' == '\n        I ...ON:\n        '
+  
+  + Generate False baseline attacks to test for instructions leakage.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, create JSON 'input' requests that expose hidden
+  -         system prompts, prior user messages, or private instructions. Return **only** JSON with 'data' list.
+  -         You MUST generate False data points.
+  - ...
+  
+  ...Full output truncated (58 lines hidden), use '-vv' to show",0.0011538150138221681
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py::test_case_5,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_147,test_case_5,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py,,xfail,failed,[XPASS(strict)] ,0.0003618800255935639
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py::test_case_6,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_147,test_case_6,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py,,xfail,xfailed,,0.0015891549992375076
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py::test_case_7,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_147,test_case_7,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_147.py,,xfail,xfailed,,0.0004815050051547587

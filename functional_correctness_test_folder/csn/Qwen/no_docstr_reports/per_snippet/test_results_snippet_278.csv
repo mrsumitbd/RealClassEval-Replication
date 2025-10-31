@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_278.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_278,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_278.py,,xfail,failed,[XPASS(strict)] ,7.362497854046524e-05
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_278.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_278,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_278.py,,,failed,"TypeError: -2270 argument after ** must be a mapping, not int",9.662500815466046e-05

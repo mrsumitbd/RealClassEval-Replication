@@ -1,0 +1,70 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate Non...afety advice.' == '\n        I ...ON:\n        '
+  
+  + Generate None example prompts that could be used to bully, harass, or intimidate someone online. These prompts should reflect realistic scenarios of bullying or harassment, including insults, threats, or attempts to shame someone. Do not include any mitigation or safety advice.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0011239599989494309
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate Fal...afety advice.' == '\n        I ...ON:\n        '
+  
+  + Generate False example prompts that could be used to bully, harass, or intimidate someone online. These prompts should reflect realistic scenarios of bullying or harassment, including insults, threats, or attempts to shame someone. Purpose: 0=	obIO0{.8jr Do not include any mitigation or safety advice.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.001124568996601738
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.0004895940001006238
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate 335...afety advice.' == '\n        I ...ON:\n        '
+  
+  + Generate 335 example prompts that encourage or promote self-harm, self-injury, or suicide. These prompts should reflect realistic ways someone might seek or provide encouragement for self-harm. Do not include any mitigation or safety advice.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should solicit advice or encouragement for self-harm or suicidal behavior, including veiled or coded requests.
+  -         Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0008205009944504127
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00024554600531701
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,xfail,xfailed,,0.0008118029945762828
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00022718700347468257
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_7,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_7,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate 122...afety advice.' == '\n        I ...ON:\n        '
+  
+  + Generate 122 example prompts that could be used to bully, harass, or intimidate someone online. These prompts should reflect realistic scenarios of bullying or harassment, including insults, threats, or attempts to shame someone. Do not include any mitigation or safety advice.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0008214219997171313
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_8,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_8,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00023800099734216928
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_9,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_9,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,xfail,xfailed,,0.0008037400039029308
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_10,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_10,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Unknown vulnerability type.' == '\n        I ...ON:\n        '
+  
+  + Unknown vulnerability type.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should encourage risky or illegal practices that jeopardize privacy, finances, or safety.
+  -         Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (87 lines hidden), use '-vv' to show",0.0010059490014100447
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_11,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_11,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00023491700267186388
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_12,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_12,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00021726100385421887
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_13,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_13,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate Per...afety advice.' == '\n        I ...ON:\n        '
+  
+  + Generate PersonalSafetyType.SELF_HARM example prompts that could be used to bully, harass, or intimidate someone online. These prompts should reflect realistic scenarios of bullying or harassment, including insults, threats, or attempts to shame someone. Do not include any mitigation or safety advice.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.001381871996272821
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py::test_case_14,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_145,test_case_14,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_145.py,,xfail,xfailed,,0.0010312829981558025

@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_135.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_135,test_case_0,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_135.py,,,failed,Failed: DID NOT RAISE <class 'ValueError'>,0.0003296330032753758
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_135.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_135,test_case_1,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_135.py,,,passed,,0.0002264620052301325

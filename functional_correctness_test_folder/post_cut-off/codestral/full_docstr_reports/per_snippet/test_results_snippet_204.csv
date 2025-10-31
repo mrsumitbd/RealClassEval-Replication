@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_204.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_204,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_204.py,,,failed,snippet_204.InvalidWheelFilename: Invalid wheel filename: v;QwTiwhpM5O11]Ei~=(,0.0011447409997344948

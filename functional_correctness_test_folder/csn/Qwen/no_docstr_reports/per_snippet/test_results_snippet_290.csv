@@ -1,0 +1,8 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_290.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_290,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_290.py,,xfail,xfailed,,0.00029733299743384123
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_290.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_290,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_290.py,,xfail,xfailed,,0.0001432499848306179
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_290.py::test_case_2,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_290,test_case_2,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_290.py,,,failed,"assert False is True
+ +  where False = <snippet_290.ZMQNameServer object at 0x106223d30>.running",0.00013908400433138013
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_290.py::test_case_3,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_290,test_case_3,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_290.py,,,failed,"assert False is True
+ +  where False = <snippet_290.ZMQNameServer object at 0x1062d5b70>.running",0.00034066601074300706
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_290.py::test_case_4,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_290,test_case_4,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_290.py,,xfail,xfailed,,0.00012558299931697547

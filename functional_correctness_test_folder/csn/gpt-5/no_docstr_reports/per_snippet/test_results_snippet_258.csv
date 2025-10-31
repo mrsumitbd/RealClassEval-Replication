@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_258.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_258,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_258.py,,xfail,xfailed,,9.558300371281803e-05
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_258.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_258,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_258.py,,xfail,xfailed,,0.00014150000060908496
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_258.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_258,test_case_2,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_258.py,,,failed,TypeError: fun must be callable,8.141700527630746e-05

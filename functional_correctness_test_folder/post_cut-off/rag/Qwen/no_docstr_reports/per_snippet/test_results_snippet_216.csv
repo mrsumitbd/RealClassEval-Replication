@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_216.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_216,test_case_0,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_216.py,,,failed,Failed: DID NOT RAISE <class 'ValueError'>,0.00011004193220287561
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_216.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_216,test_case_1,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_216.py,,,failed,Failed: DID NOT RAISE <class 'ValueError'>,0.00010837498120963573

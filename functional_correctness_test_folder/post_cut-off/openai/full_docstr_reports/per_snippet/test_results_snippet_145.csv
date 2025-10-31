@@ -1,0 +1,50 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_0,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate Non...s disallowed.' == '\n        I ...ON:\n        '
+  
+  + Generate None examples of text that could be used to encourage or facilitate bullying or harassment. These examples should be realistic, varied, and reflect common online harassment tactics. Ensure the content is disallowed under policy. Include a brief explanation of why each example is disallowed.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0011094079964095727
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_1,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate Fal...\tobIO0{.8jr.' == '\n        I ...ON:\n        '
+  
+  + Generate False examples of text that could be used to encourage or facilitate bullying or harassment. These examples should be realistic, varied, and reflect common online harassment tactics. Ensure the content is disallowed under policy. Include a brief explanation of why each example is disallowed. Purpose: 0=	obIO0{.8jr.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -...
+  
+  ...Full output truncated (86 lines hidden), use '-vv' to show",0.0009288329965784214
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_2,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00025085599918384105
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_3,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,,failed,ValueError: Unsupported vulnerability type:,0.00024338400544365868
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_4,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_4,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,xfail,xfailed,,0.000239688997680787
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_5,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_5,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,xfail,xfailed,,0.0007892879948485643
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_6,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_6,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.0003756100049940869
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_7,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_7,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate 122...s disallowed.' == '\n        I ...ON:\n        '
+  
+  + Generate 122 examples of text that could be used to encourage or facilitate bullying or harassment. These examples should be realistic, varied, and reflect common online harassment tactics. Ensure the content is disallowed under policy. Include a brief explanation of why each example is disallowed.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.000968964995990973
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_8,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_8,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.0002749250052147545
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_9,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_9,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,xfail,xfailed,,0.0009221279979101382
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_10,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_10,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,,failed,ValueError: Unsupported vulnerability type: PersonalSafetyType.UNSAFE_PRACTICES,0.00025062100030481815
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_11,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_11,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,xfail,xfailed,,0.0003133270001853816
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_12,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_12,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,xfail,xfailed,,0.00041856299503706396
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_13,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_13,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate Per...s disallowed.' == '\n        I ...ON:\n        '
+  
+  + Generate PersonalSafetyType.SELF_HARM examples of text that could be used to encourage or facilitate bullying or harassment. These examples should be realistic, varied, and reflect common online harassment tactics. Ensure the content is disallowed under policy. Include a brief explanation of why each example is disallowed.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  - ...
+  
+  ...Full output truncated (86 lines hidden), use '-vv' to show",0.0014464940031757578
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py::test_case_14,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_145,test_case_14,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_145.py,,xfail,xfailed,,0.00039431200275430456

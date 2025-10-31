@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_231.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_231,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_231.py,,,failed,TypeError: object of type 'NoneType' has no len(),8.862500544637442e-05
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_231.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_231,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_231.py,,,failed,"assert 5 == 8.5 ± 0.085
+  
+  comparison failed
+  Obtained: 5
+  Expected: 8.5 ± 0.085",0.00023499998496845365

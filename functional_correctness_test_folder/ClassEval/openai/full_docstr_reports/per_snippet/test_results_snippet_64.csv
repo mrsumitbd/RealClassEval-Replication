@@ -1,0 +1,37 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestProcessData::test_process_data,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_process_data,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,passed,,0.0001674999948590994
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestProcessData::test_process_data2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_process_data2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,passed,,8.566700853407383e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestProcessData::test_process_data3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_process_data3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,passed,,6.900000153109431e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestProcessData::test_process_data4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_process_data4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,passed,,7.383397314697504e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestProcessData::test_process_data5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_process_data5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,passed,,7.987499702721834e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestCalculate::test_calculate_word_frequency,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_calculate_word_frequency,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,passed,,0.00011916598305106163
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestCalculate::test_calculate_word_frequency2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_calculate_word_frequency2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,passed,,7.53339845687151e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestCalculate::test_calculate_word_frequency3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_calculate_word_frequency3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,passed,,0.0002592909731902182
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestCalculate::test_calculate_word_frequency4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_calculate_word_frequency4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,failed,"AssertionError: {'%%%': 6, 'hello': 5, 'world': 4, 'a': 2, 'is': 2} != {'%%%': 6, 'hello': 5, 'world': 4, 'is': 2, 'this': 2}
+- {'%%%': 6, 'a': 2, 'hello': 5, 'is': 2, 'world': 4}
+?           --------
+
++ {'%%%': 6, 'hello': 5, 'is': 2, 'this': 2, 'world': 4}
+?                                +++++++++++",0.0003303329576738179
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestCalculate::test_calculate_word_frequency5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_calculate_word_frequency5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,failed,"AssertionError: {'%%%': 12, 'hello': 10, 'world': 8, 'a': 4, 'is': 4} != {'%%%': 12, 'hello': 10, 'world': 8, 'is': 4, 'this': 4}
+- {'%%%': 12, 'a': 4, 'hello': 10, 'is': 4, 'world': 8}
+?            --------
+
++ {'%%%': 12, 'hello': 10, 'is': 4, 'this': 4, 'world': 8}
+?                                  +++++++++++",0.00027858297107741237
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestProcess::test_calculate3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_calculate3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,passed,,8.650001836940646e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestProcess::test_process,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_process,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,failed,"AssertionError: {'a': 2, 'hello': 2, 'is': 2, 'test': 2, 'this': 2} != {'hello': 2, 'world': 2, 'this': 2, 'is': 2, 'a': 2}
+- {'a': 2, 'hello': 2, 'is': 2, 'test': 2, 'this': 2}
+?                              -----------
+
++ {'a': 2, 'hello': 2, 'is': 2, 'this': 2, 'world': 2}
+?                                       ++++++++++++",0.0002761250361800194
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestProcess::test_process2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_process2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,passed,,0.00021595798898488283
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestProcess::test_process4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_process4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,passed,,9.070802479982376e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestProcess::test_process5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_process5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,failed,"AssertionError: {'a': 2, 'hello': 2, 'is': 2, 'test': 2, 'this': 2} != {'hello': 2, 'world': 2, 'this': 2, 'is': 2, 'a': 2}
+- {'a': 2, 'hello': 2, 'is': 2, 'test': 2, 'this': 2}
+?                              -----------
+
++ {'a': 2, 'hello': 2, 'is': 2, 'this': 2, 'world': 2}
+?                                       ++++++++++++",0.0002804580144584179
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py::NLPDataProcessorTestProcess::test_process6,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_64,test_process6,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_64.py,,,passed,,8.275004802271724e-05

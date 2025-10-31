@@ -1,0 +1,14 @@
+from abc import ABC, abstractmethod
+
+
+class Signer(ABC):
+    '''Abstract base class for signing algorithms.'''
+    @abstractmethod
+    def sign(self, msg, key):
+        '''Sign ``msg`` with ``key`` and return the signature.'''
+        raise NotImplementedError
+
+    @abstractmethod
+    def verify(self, msg, sig, key):
+        '''Verify that ``sig`` is a valid signature of ``msg`` under ``key``.'''
+        raise NotImplementedError

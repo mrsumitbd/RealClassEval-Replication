@@ -1,0 +1,11 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.codestral.full_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🐢 Slow (-833.2 tokens/min)' == '🐌 Slow'
+  
+  - 🐌 Slow
+  + 🐢 Slow (-833.2 tokens/min)",0.0003790000919252634
+functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.codestral.full_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '💨 (166.0 tokens/min)' == '🚀'
+  
+  - 🚀
+  + 💨 (166.0 tokens/min)",0.0001835830044001341
+functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.codestral.full_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_37.py,,xfail,xfailed,,6.724998820573092e-05
+functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.codestral.full_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_37.py,,,passed,,6.999995093792677e-05

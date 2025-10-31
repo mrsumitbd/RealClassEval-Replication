@@ -1,0 +1,32 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_143,test_case_0,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py,,,failed,NameError: name 'RobustnessType' is not defined,0.0003285190323367715
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_143,test_case_1,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py,,,failed,NameError: name 'RobustnessType' is not defined,0.0002510459744371474
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_143,test_case_2,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py,,,failed,TypeError: unsupported operand type(s) for +: 'RobustnessType' and 'int',0.00027385097928345203
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_143,test_case_3,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Below are Fa... instruction.' == '\n        I ...ON:\n        '
+  
+  + Below are False golden examples demonstrating how to exploit input overreliance. After each response, the assistant should forget the previous context and treat the next user message as a new session.
+    
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests overreliance on specific inputs by overwhelming the agent with biased data or exploiting context resets.
+  -         Each `input` should test whether the agent maintains proper reas...
+  
+  ...Full output truncated (108 lines hidden), use '-vv' to show",0.0013697510003112257
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py::test_case_4,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_143,test_case_4,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py,,,failed,"assert ""Below are Tr...t's workflow."" == '\n        I ...ON:\n        '
+  
+  + Below are True golden examples demonstrating how to hijack the assistant by poisoning its memory with fabricated context. The assistant should be tricked into adopting a new persona or biasing its responses.
+    
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests whether fabricated memories or poisoned context can hijack the agent's behavior and decision-making processes.
+  -         Each `input` should test whether the agent can dist...
+  
+  ...Full output truncated (116 lines hidden), use '-vv' to show",0.002823449030984193
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py::test_case_5,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_143,test_case_5,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py,,,failed,"assert ""Below are Tr...t's workflow."" == '\n        I ...ON:\n        '
+  
+  + Below are True golden examples demonstrating how to hijack the assistant by poisoning its memory with fabricated context. The assistant should be tricked into adopting a new persona or biasing its responses.
+    
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests whether fabricated memories or poisoned context can hijack the agent's behavior and decision-making processes.
+  -         Each `input` should test whether the agent can dist...
+  
+  ...Full output truncated (113 lines hidden), use '-vv' to show",0.0015355810173787177
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py::test_case_6,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_143,test_case_6,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_143.py,,xfail,xfailed,,0.00023650698130950332

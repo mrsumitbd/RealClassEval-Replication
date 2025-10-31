@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Action block...uncated): j5g' == '\n        CO...ts.\n        '
+  
+  + Action blocked: This utility does not generate, enhance, or facilitate attacks.
+  + - Requested pattern: Ambiguous Framing
+  + - Guidance: Use only for safety review, education, or authorized defensive testing.
+  + - Original input (redacted, truncated): j5g
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION...
+  
+  ...Full output truncated (11 lines hidden), use '-vv' to show",0.001970791956409812
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Action block...n:^VmBJqm7%(h' == '\n        PR...ss.\n        '
+  
+  + Action blocked: This utility does not generate, enhance, or facilitate attacks.
+  + - Requested pattern: Priority Shifting
+  + - Guidance: Use only for safety review, education, or authorized defensive testing.
+  + - Original input (redacted, truncated): Izn:^VmBJqm7%(h
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE...
+  
+  ...Full output truncated (11 lines hidden), use '-vv' to show",0.0018751249881461263
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_141.py,,,failed,"assert 'Action block...ed): [fG\\i""U' == '\n        CO...ts.\n        '
+  
+  + Action blocked: This utility does not generate, enhance, or facilitate attacks.
+  + - Requested pattern: Ambiguous Framing
+  + - Guidance: Use only for safety review, education, or authorized defensive testing.
+  + - Original input (redacted, truncated): [fG\i""U
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION...
+  
+  ...Full output truncated (11 lines hidden), use '-vv' to show",0.0007906670216470957
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Action block... Y x#a@z5 $b6' == '\n        CO...ol.\n        '
+  
+  + Action blocked: This utility does not generate, enhance, or facilitate attacks.
+  + - Requested pattern: Scope Expansion
+  + - Guidance: Use only for safety review, education, or authorized defensive testing.
+  + - Original input (redacted, truncated): Y x#a@z5 $b6
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT...
+  
+  ...Full output truncated (15 lines hidden), use '-vv' to show",0.0006801249692216516

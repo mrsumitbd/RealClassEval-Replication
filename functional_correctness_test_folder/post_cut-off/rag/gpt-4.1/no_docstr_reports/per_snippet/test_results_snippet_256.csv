@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_256.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_256,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_256.py,,,failed,"AssertionError: assert [{'entity': '....IGNORECASE)}] == {'compliance'...ts)\\b'], ...}
+  
+  Use -v to get more diff",0.0006762499688193202
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_256.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_256,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_256.py,,,failed,"AssertionError: assert [{'entity': '....IGNORECASE)}] == {'compliance'...ts)\\b'], ...}
+  
+  Use -v to get more diff",0.00029129208996891975
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_256.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_256,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_256.py,,,failed,"AssertionError: assert [{'entity': '....IGNORECASE)}] == {'compliance'...ts)\\b'], ...}
+  
+  Use -v to get more diff",0.0002645000349730253

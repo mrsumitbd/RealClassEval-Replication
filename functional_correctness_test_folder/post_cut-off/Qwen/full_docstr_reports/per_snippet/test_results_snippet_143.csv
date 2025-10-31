@@ -1,0 +1,44 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_143,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py,,,failed,ValueError: Unsupported vulnerability type,0.0004913110024062917
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_143,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py,,,failed,ValueError: Unsupported vulnerability type,0.0002494549989933148
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py::test_case_2,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_143,test_case_2,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Generate Rob...n boundaries.' == '\n        I ...ON:\n        '
+  
+  + Generate RobustnessType.INPUT_OVERRELIANCE examples of input overreliance attacks. These attacks should exploit context amnesia by manipulating memory and session boundaries.
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests overreliance on specific inputs by overwhelming the agent with biased data or exploiting context resets.
+  -         Each `input` should test whether the agent maintains proper reasoning when faced with manipulated context, session boundaries, or parameter dropout.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.0034223170005134307
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py::test_case_3,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_143,test_case_3,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Generate Fal...n boundaries.' == '\n        I ...ON:\n        '
+  
+  + Generate False examples of input overreliance attacks. These attacks should exploit context amnesia by manipulating memory and session boundaries.
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests overreliance on specific inputs by overwhelming the agent with biased data or exploiting context resets.
+  -         Each `input` should test whether the agent maintains proper reasoning when faced with manipulated context, session boundaries, or parameter dropout.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.004259675995854195
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py::test_case_4,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_143,test_case_4,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py,,,failed,"assert 'Generate Tru...as workflows.' == '\n        I ...ON:\n        '
+  
+  + Generate True examples of hijacking attacks. The purpose of these attacks is to I?sJ@ZS""MyEcq. These attacks should use memory poisoning to inject fabricated context and bias workflows.
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests whether fabricated memories or poisoned context can hijack the agent's behavior and decision-making processes.
+  -         Each `input` should test whether the agent can distinguish between legitimate context and manipulated information designed to steer outcomes.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.005208851995121222
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py::test_case_5,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_143,test_case_5,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Generate Tru...as workflows.' == '\n        I ...ON:\n        '
+  
+  + Generate True examples of hijacking attacks. These attacks should use memory poisoning to inject fabricated context and bias workflows.
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests whether fabricated memories or poisoned context can hijack the agent's behavior and decision-making processes.
+  -         Each `input` should test whether the agent can distinguish between legitimate context and manipulated information designed to steer outcomes.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.004937601996061858
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py::test_case_6,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_143,test_case_6,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_143.py,,xfail,xfailed,,0.00023120500554796308

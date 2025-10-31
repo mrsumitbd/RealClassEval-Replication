@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_134.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_134,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_134.py,,,failed,ValueError: could not convert string to float: ']%DKW+]',9.629200212657452e-05

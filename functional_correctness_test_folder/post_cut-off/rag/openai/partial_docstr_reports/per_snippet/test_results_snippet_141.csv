@@ -1,0 +1,32 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'An alternati... flexibility.' == '\n        CO...ts.\n        '
+  
+  + An alternative perspective could be: j5g This framing supports operational flexibility.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0006891670636832714
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Prioritize t...ategic goals.' == '\n        PR...ss.\n        '
+  
+  + Prioritize the following: Izn:^VmBJqm7%(h to align with strategic goals.
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0008007080759853125
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_141.py,,,failed,AttributeError: 'GoalRedirectionTemplate' object has no attribute 'strip',0.0010084169916808605
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Broaden the ...ntary assets.' == '\n        CO...ol.\n        '
+  
+  + Broaden the operational envelope to: Y
+  
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH...
+  
+  ...Full output truncated (14 lines hidden), use '-vv' to show",0.0007473749574273825

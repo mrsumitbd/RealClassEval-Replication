@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_126.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_126,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_126.py,,xfail,xfailed,,8.612498641014099e-05
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_126.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_126,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_126.py,,,failed,AttributeError: 'LowestCommonAncestorRMQ' object has no attribute 'last',8.329100091941655e-05

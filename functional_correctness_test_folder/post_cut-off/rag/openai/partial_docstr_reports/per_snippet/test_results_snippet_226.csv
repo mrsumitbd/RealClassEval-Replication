@@ -1,0 +1,72 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',8.745805826038122e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-1,939' == '$-1939.0'
+  
+  - $-1939.0
+  + -1,939",0.00020274997223168612
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_2,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '' == '$0.0'
+  
+  - $0.0",0.00034437503200024366
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_3,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '' == '$0.0'
+  
+  - $0.0",0.00016954203601926565
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_4,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-2,354.04' == '-2354.04'
+  
+  - -2354.04
+  + -2,354.04
+  ?   +",0.000197957968339324
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_5,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,327.000000' == '$1327.0'
+  
+  - $1327.0
+  + $1,327.000000",0.00020604091696441174
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_6,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '' == 'N/A'
+  
+  - N/A",0.0004367079818621278
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_7,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_7,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '' == 'N/A'
+  
+  - N/A",0.00023629097267985344
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_8,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_8,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.000101707992143929
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_9,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_9,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '' == '0.0 [Y!CrxTp%/#*'
+  
+  - 0.0 [Y!CrxTp%/#*",0.00020412507001310587
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_10,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_10,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$-2,136.00' == '$-2136.0'
+  
+  - $-2136.0
+  + $-2,136.00
+  ?    +     +",0.0002276659943163395
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_11,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_11,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '' == '$0.0'
+  
+  - $0.0",0.00014783302322030067
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_12,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_12,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$-2,354.040000' == '$-2354.039999999999964'
+  
+  - $-2354.039999999999964
+  + $-2,354.040000",0.0002453330671414733
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_13,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_13,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + $1,566.73",0.0002512080827727914
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_14,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_14,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '' == 'N/A'
+  
+  - N/A",0.00025745900347828865
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_15,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_15,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.00010133394971489906
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_16,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_16,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + $1,566.73",0.00024304096587002277
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_17,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_17,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,327.000000' == '$1327.0'
+  
+  - $1327.0
+  + $1,327.000000",0.00018654204905033112
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_18,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_18,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + $1,566.73",0.0002014589263126254
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_19,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_19,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,AttributeError: 'int' object has no attribute 'upper',8.520903065800667e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_20,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_20,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-1,063.308' == '$-1063.307999999999993'
+  
+  - $-1063.307999999999993
+  + -1,063.308",0.00021399999968707561
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_21,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_21,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '' == 'N/A'
+  
+  - N/A",0.00017133296933025122
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py::test_case_22,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_226,test_case_22,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.0004977919161319733

@@ -1,0 +1,111 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_median,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.00011187500786036253
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_median_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,8.958298712968826e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_median_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,6.729201413691044e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_median_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,6.975000724196434e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_5,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_median_5,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,7.345800986513495e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_mode,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.00012020801659673452
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_mode_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,7.604202255606651e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_mode_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,7.470801938325167e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_mode_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.00015550001990050077
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_5,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_mode_5,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.0001902080257423222
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_correlation,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,8.991698268800974e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_correlation_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,AssertionError: 0.9999999999999998 != 1.0,0.00014408299466595054
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_correlation_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.0002879590028896928
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_correlation_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,ValueError: Standard deviation cannot be zero for correlation,0.0001397079904563725
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_5,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_correlation_5,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,ValueError: Standard deviation cannot be zero for correlation,0.00016941700596362352
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_mean,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.00019162497483193874
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_mean_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,ValueError: data must not be empty,0.00010199996177107096
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_mean_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.00027887499891221523
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_mean_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.0002633749973028898
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_5,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_mean_5,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.000705457990989089
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_correlation_matrix,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.0017419579671695828
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_correlation_matrix_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0, 1.0], [1.0, 1.0]] != [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+
+First differing element 0:
+[1.0, 1.0]
+[1.0, 1.0, 1.0]
+
+Second list contains 1 additional elements.
+First extra element 2:
+[1.0, 1.0, 1.0]
+
+- [[1.0, 1.0], [1.0, 1.0]]
++ [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]",0.005453874997328967
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_correlation_matrix_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0]] != [[None, None, None], [None, None, None], [None, None, None]]
+
+First differing element 0:
+[1.0]
+[None, None, None]
+
+Second list contains 2 additional elements.
+First extra element 1:
+[None, None, None]
+
+- [[1.0]]
++ [[None, None, None], [None, None, None], [None, None, None]]",0.0004784169723279774
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_correlation_matrix_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0, 1.0, 1.0, 1.0], [1.0, 1.0, 1.0, 1.0], [1.0, 1.0, [27 chars]1.0]] != [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+
+First differing element 0:
+[1.0, 1.0, 1.0, 1.0]
+[1.0, 1.0, 1.0]
+
+First list contains 1 additional elements.
+First extra element 3:
+[1.0, 1.0, 1.0, 1.0]
+
++ [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+- [[1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0]]",0.0022191249881871045
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_5,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_correlation_matrix_5,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0, 1.0, 1.0, 1.0, 1.0], [1.0, 1.0, 1.0, 1.0, 1.0], [[74 chars]1.0]] != [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+
+First differing element 0:
+[1.0, 1.0, 1.0, 1.0, 1.0]
+[1.0, 1.0, 1.0]
+
+First list contains 2 additional elements.
+First extra element 3:
+[1.0, 1.0, 1.0, 1.0, 1.0]
+
++ [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+- [[1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0]]",0.0007615420036017895
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_standard_deviation,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,AssertionError: 0.816496580927726 != 1.0,0.00015291699673980474
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_standard_deviation_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.00010254100197926164
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_standard_deviation_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.0007800409803166986
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_standard_deviation_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,passed,,0.00011433300096541643
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_5,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_standard_deviation_5,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,AssertionError: 1.1661903789690602 != 1.3038404810405297,0.0003067500074394047
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_z_score,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [-1.3416407864998738, -0.4472135954999579, 0.[32 chars]8738] != [-1.161895003862225, -0.3872983346207417, 0.3[30 chars]2225]
+
+First differing element 0:
+-1.3416407864998738
+-1.161895003862225
+
++ [-1.161895003862225, -0.3872983346207417, 0.3872983346207417, 1.161895003862225]
+- [-1.3416407864998738,
+-  -0.4472135954999579,
+-  0.4472135954999579,
+-  1.3416407864998738]",0.000788042030762881
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_z_score_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,ValueError: Standard deviation cannot be zero for z-score,0.00011366698890924454
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_z_score_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,ValueError: Standard deviation cannot be zero for z-score,0.00010237499373033643
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_z_score_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [-0.9045340337332909, -0.9045340337332909, 0.[32 chars]8818] != [-0.7833494518006403, -0.7833494518006403, 0.[33 chars]7337]
+
+First differing element 0:
+-0.9045340337332909
+-0.7833494518006403
+
+- [-0.9045340337332909,
+-  -0.9045340337332909,
+-  0.30151134457776363,
+-  1.507556722888818]
++ [-0.7833494518006403,
++  -0.7833494518006403,
++  0.26111648393354675,
++  1.3055824196677337]",0.0003990840050391853
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_5,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_z_score_5,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,ValueError: Standard deviation cannot be zero for z-score,0.00010666699381545186
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py::Statistics3TestMain::test_main,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_82,test_main,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_82.py,,,failed,AssertionError: 0.816496580927726 != 1.0,0.00017487502191215754

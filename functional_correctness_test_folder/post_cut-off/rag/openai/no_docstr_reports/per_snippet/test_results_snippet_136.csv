@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_136.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_136,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_136.py,,,passed,,8.849997539073229e-05

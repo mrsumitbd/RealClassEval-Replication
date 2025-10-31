@@ -1,0 +1,31 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_256.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_256,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'farewell': ... you|can you'} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 4 more items:
+  {'farewell': 'bye|goodbye',
+   'greeting': 'hello|hi|hey',
+   'question': '\\?',
+   'request': 'please|could you|can you'}
+  Right contains 5 more items:...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show",0.0011051050023525022
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_256.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_256,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'farewell': ... you|can you'} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 4 more items:
+  {'farewell': 'bye|goodbye',
+   'greeting': 'hello|hi|hey',
+   'question': '\\?',
+   'request': 'please|could you|can you'}
+  Right contains 5 more items:...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show",0.0014067469965084456
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_256.py::test_case_2,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_256,test_case_2,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'farewell': ... you|can you'} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 4 more items:
+  {'farewell': 'bye|goodbye',
+   'greeting': 'hello|hi|hey',
+   'question': '\\?',
+   'request': 'please|could you|can you'}
+  Right contains 5 more items:...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show",0.001038731003063731

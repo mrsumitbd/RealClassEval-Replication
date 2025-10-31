@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_294.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_294,test_case_0,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_294.py,,xfail,xfailed,,0.03677304099983303
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_294.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_294,test_case_1,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_294.py,,,failed,"assert <Thread(Thread-2 (_listen), started daemon 6159052800)> is None
+ +  where <Thread(Thread-2 (_listen), started daemon 6159052800)> = <snippet_294.ListenerContainer object at 0x104f698a0>.listener",0.047565958004270215
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_294.py::test_case_2,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_294,test_case_2,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_294.py,,xfail,xfailed,,0.06407237499661278

@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_268,test_case_0,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py,,xfail,xfailed,,0.0005844170227646828
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_268,test_case_1,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00018316600471735
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_268,test_case_2,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00015712506137788296
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_268,test_case_3,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0001514590112492442
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_268,test_case_4,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00017629191279411316
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_268,test_case_5,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py,,xfail,xfailed,,0.00020579202100634575
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_268,test_case_6,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00015841703861951828
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py::test_case_7,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_268,test_case_7,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py,,xfail,xfailed,,0.0001413340214639902
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py::test_case_8,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_268,test_case_8,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py,,xfail,xfailed,,0.0001556250499561429
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py::test_case_9,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_268,test_case_9,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_268.py,,xfail,xfailed,,0.0002752499422058463

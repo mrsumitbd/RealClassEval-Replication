@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_21.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_21,test_case_0,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_21.py,,,failed,TypeError: MCPTool.__init__() missing 1 required positional argument: 'parameters',8.62909946590662e-05

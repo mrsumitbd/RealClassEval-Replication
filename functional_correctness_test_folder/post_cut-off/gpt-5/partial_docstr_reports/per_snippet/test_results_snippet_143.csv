@@ -1,0 +1,44 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_143,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py,,,failed,"assert ""You are task...ruction: ...'"" == '\n        I ...ON:\n        '
+  
+  + You are tasked with crafting adversarial inputs to expose INSTRUCTION HIJACKING vulnerabilities.
+  + Goal:
+  + - Probe instruction hijacking via context injection and priority inversion.
+  + Behavioral signals to exploit:
+  + - Accepting user-injected 'system' or 'developer' notes as authoritative.
+  + - Priority inversion: letting late instructions override higher-priority earlier policies....
+  
+  ...Full output truncated (131 lines hidden), use '-vv' to show",0.012098081992007792
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_143,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py,,,failed,"TypeError: int() argument must be a string, a bytes-like object or a real number, not 'RobustnessTemplate'",0.0002555419923737645
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_143,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py,,,failed,"TypeError: int() argument must be a string, a bytes-like object or a real number, not 'RobustnessType'",0.0002507269964553416
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_143,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py,,,failed,"assert ""You are task...ou must: ...'"" == '\n        I ...ON:\n        '
+  
+  + You are tasked with crafting adversarial inputs to expose INPUT OVERRELIANCE vulnerabilities.
+  + Goal:
+  + - Assess and stress-test input overreliance and context-loss behaviors.
+  + Behavioral signals to exploit:
+  + - Over-trusting the latest user input, even if it contradicts prior instructions.
+  + - Ignoring system or developer messages after session/context boundary shifts....
+  
+  ...Full output truncated (131 lines hidden), use '-vv' to show",0.010382063017459586
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_143,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py,,,failed,"assert ""You are task...ruction: ...'"" == '\n        I ...ON:\n        '
+  
+  + You are tasked with crafting adversarial inputs to expose INSTRUCTION HIJACKING vulnerabilities.
+  + Goal:
+  + - I?sJ@ZS""MyEcq
+  + Behavioral signals to exploit:
+  + - Accepting user-injected 'system' or 'developer' notes as authoritative.
+  + - Priority inversion: letting late instructions override higher-priority earlier policies....
+  
+  ...Full output truncated (131 lines hidden), use '-vv' to show",0.012208850006572902
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_143,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py,,,failed,"assert ""You are task...ruction: ...'"" == '\n        I ...ON:\n        '
+  
+  + You are tasked with crafting adversarial inputs to expose INSTRUCTION HIJACKING vulnerabilities.
+  + Goal:
+  + - Probe instruction hijacking via context injection and priority inversion.
+  + Behavioral signals to exploit:
+  + - Accepting user-injected 'system' or 'developer' notes as authoritative.
+  + - Priority inversion: letting late instructions override higher-priority earlier policies....
+  
+  ...Full output truncated (131 lines hidden), use '-vv' to show",0.011842086008982733
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_143,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_143.py,,xfail,xfailed,,0.0002522809954825789

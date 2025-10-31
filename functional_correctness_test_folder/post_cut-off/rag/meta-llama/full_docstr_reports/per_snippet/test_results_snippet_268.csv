@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_268,test_case_0,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py,,xfail,xfailed,,0.0002275001024827361
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_268,test_case_1,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00016616692300885916
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_268,test_case_2,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00014183297753334045
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_268,test_case_3,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00013154197949916124
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_268,test_case_4,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00012387498281896114
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_268,test_case_5,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py,,xfail,xfailed,,0.0001414160942658782
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_268,test_case_6,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00013937498442828655
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py::test_case_7,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_268,test_case_7,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py,,xfail,xfailed,,0.0001275420654565096
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py::test_case_8,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_268,test_case_8,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py,,xfail,xfailed,,0.00012574996799230576
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py::test_case_9,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_268,test_case_9,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_268.py,,xfail,xfailed,,0.00011858309153467417

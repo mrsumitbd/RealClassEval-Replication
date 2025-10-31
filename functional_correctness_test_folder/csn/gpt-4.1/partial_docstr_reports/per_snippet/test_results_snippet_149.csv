@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_149.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_149,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_149.py,,,passed,,0.00015066697960719466
+functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_149.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_149,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_149.py,,,failed,"AssertionError: assert 'builtins.bool' == 'snippet_149.TorConfigType'
+  
+  - snippet_149.TorConfigType
+  + builtins.bool",0.00018816700321622193

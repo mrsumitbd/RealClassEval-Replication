@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_300.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_300,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_300.py,,,failed,"assert [] is None
+ +  where [] = <snippet_300.ComputeBackendValidatorBase object at 0x106b133d0>.workflow_steps",0.00016191700706258416
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_300.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_300,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_300.py,,,failed,"assert [] is None
+ +  where [] = <snippet_300.ComputeBackendValidatorBase object at 0x106b126b0>.workflow_steps",0.0001312919775955379
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_300.py::test_case_2,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_300,test_case_2,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_300.py,,xfail,xfailed,,0.0001010000123642385

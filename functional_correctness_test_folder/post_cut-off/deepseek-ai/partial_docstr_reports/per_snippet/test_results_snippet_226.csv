@@ -1,0 +1,75 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.0003463560133241117
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-1939' == '$-1939.0'
+  
+  - $-1939.0
+  ? -     --
+  + -1939",0.0005759380001109093
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_2,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_2,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert 'None' == '$0.0'
+  
+  - $0.0
+  + None",0.00047646500752307475
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_3,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_3,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"assert ""b'\\xdc\\xb1'"" == '$0.0'
+  
+  - $0.0
+  + b'\xdc\xb1'",0.0004587619914673269
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_4,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_4,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-2354.0400' == '-2354.04'
+  
+  - -2354.04
+  + -2354.0400
+  ?         ++",0.0005251520196907222
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_5,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_5,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '1327' == '$1327.0'
+  
+  - $1327.0
+  + 1327",0.0007585209968965501
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_6,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_6,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to bytes.__format__,0.00024672900326550007
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_7,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_7,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to PriceFormatter.__format__,0.000241228990489617
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_8,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_8,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.000391180015867576
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_9,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_9,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert 'N/A' == '0.0 [Y!CrxTp%/#*'
+  
+  - 0.0 [Y!CrxTp%/#*
+  + N/A",0.0004599659878294915
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_10,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_10,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$-2136.00' == '$-2136.0'
+  
+  - $-2136.0
+  + $-2136.00
+  ?         +",0.0005152900121174753
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_11,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_11,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to bytes.__format__,0.00023929300368763506
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_12,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_12,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-2354.04' == '$-2354.039999999999964'
+  
+  - $-2354.039999999999964
+  + -2354.04",0.0004560009983833879
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_13,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_13,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1566.73' == '$1566.7264'
+  
+  - $1566.7264
+  ?        ^^^
+  + $1566.73
+  ?        ^",0.0005093929939903319
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_14,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_14,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to tuple.__format__,0.00025434099370613694
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_15,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_15,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.00025954502052627504
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_16,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_16,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1566.73' == '$1566.7264'
+  
+  - $1566.7264
+  ?        ^^^
+  + $1566.73
+  ?        ^",0.0005111709760967642
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_17,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_17,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '1327' == '$1327.0'
+  
+  - $1327.0
+  + 1327",0.0004505179822444916
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_18,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_18,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1566.73' == '$1566.7264'
+  
+  - $1566.7264
+  ?        ^^^
+  + $1566.73
+  ?        ^",0.0005034189962316304
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_19,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_19,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '824824.00' == '824.0 824'
+  
+  - 824.0 824
+  + 824824.00",0.0005047120212111622
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_20,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_20,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-1063.31' == '$-1063.307999999999993'
+  
+  - $-1063.307999999999993
+  + -1063.31",0.0004753239918500185
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_21,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_21,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to dict.__format__,0.00025290402118116617
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py::test_case_22,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_226,test_case_22,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.0002397579955868423

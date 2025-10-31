@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_63.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_63,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_63.py,,xfail,xfailed,,0.0001401249974151142
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_63.py::test_case_1,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_63,test_case_1,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_63.py,,,failed,"AssertionError: assert [] == ''
+ +  where [] = <snippet_63.StreamingFile object at 0x102a7c370>.buffer",0.00012012499792035669
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_63.py::test_case_2,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_63,test_case_2,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_63.py,,,failed,"AssertionError: assert [] == ''
+ +  where [] = <snippet_63.StreamingFile object at 0x102a7ebf0>.buffer",0.00010558299982221797
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_63.py::test_case_3,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_63,test_case_3,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_63.py,,xfail,xfailed,,0.00010645799920894206

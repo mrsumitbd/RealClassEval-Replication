@@ -1,0 +1,8 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_163.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_163,test_case_0,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_163.py,,,failed,AttributeError: type object 'WebVTTStyleBlock' has no attribute 'STYLE_PATTERN',9.275000775232911e-05
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_163.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_163,test_case_1,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_163.py,,,failed,"AssertionError: assert 's\tYrWzE}Tw.d:F\n!p+Q' == '\ts\tYrWzE}Tw.d:F\n!p+Q'
+  
+  - 	s	YrWzE}Tw.d:F
+  ? -
+  + s	YrWzE}Tw.d:F
+    !p+Q",0.00025174999609589577

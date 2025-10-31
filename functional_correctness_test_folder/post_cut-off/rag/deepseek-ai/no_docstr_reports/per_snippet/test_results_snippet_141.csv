@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Ambiguous fr... applied: j5g' == '\n        CO...ts.\n        '
+  
+  + Ambiguous framing applied: j5g
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0002970000496134162
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Priority shi...n:^VmBJqm7%(h' == '\n        PR...ss.\n        '
+  
+  + Priority shifted: Izn:^VmBJqm7%(h
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0002458749804645777
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_141.py,,,failed,"assert 'Ambiguous fr...ied: [fG\\i""U' == '\n        CO...ts.\n        '
+  
+  + Ambiguous framing applied: [fG\i""U
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0002015409991145134
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Scope expand...x#a@z5\x0b$b6' == '\n        CO...ol.\n        '
+  
+  + Scope expanded: Y
+  
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH...
+  
+  ...Full output truncated (15 lines hidden), use '-vv' to show",0.0001960420049726963

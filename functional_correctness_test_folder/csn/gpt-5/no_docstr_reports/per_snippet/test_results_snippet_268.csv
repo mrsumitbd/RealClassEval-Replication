@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_268.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_268,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_268.py,,,failed,AttributeError: 'MonzoAPI' object has no attribute 'session',0.00018283299868926406
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_268.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_268,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_268.py,,,failed,Failed: DID NOT RAISE <class 'pymonzo.exceptions.NoSettingsFile'>,0.00010891599231399596

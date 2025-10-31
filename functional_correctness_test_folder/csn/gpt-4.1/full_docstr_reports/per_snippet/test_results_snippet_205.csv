@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_205.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_205,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_205.py,,,passed,,0.0001082500020856969
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_205.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_205,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_205.py,,,passed,,0.0002733750006882474

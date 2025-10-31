@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_338.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_338,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_338.py,,xfail,xfailed,,0.0009439650166314095
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_338.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_338,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_338.py,,,failed,"assert deque([]) == []
+  
+  Use -v to get more diff",0.0004647049936465919
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_338.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_338,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_338.py,,,failed,"assert deque([]) == []
+  
+  Use -v to get more diff",0.00044839599286206067
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_338.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_338,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_338.py,,,failed,"assert deque([]) == []
+  
+  Use -v to get more diff",0.0007051859865896404
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_338.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_338,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_338.py,,xfail,xfailed,,0.0004160370153840631

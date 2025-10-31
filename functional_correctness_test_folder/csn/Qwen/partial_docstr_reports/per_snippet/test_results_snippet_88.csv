@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_88.py::test_case_0,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_88,test_case_0,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_88.py,,xfail,xfailed,,9.099999442696571e-05
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_88.py::test_case_1,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_88,test_case_1,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_88.py,,,failed,AttributeError: module 'snippet_88' has no attribute 'config',7.829201058484614e-05

@@ -1,0 +1,98 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_1,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_add_dish_1,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [{'dish': 'dish3', 'count': 4, 'price': 20}] != [{'dish': 'dish3', 'price': 15, 'count': 4}]
+
+First differing element 0:
+{'dish': 'dish3', 'count': 4, 'price': 20}
+{'dish': 'dish3', 'price': 15, 'count': 4}
+
+- [{'count': 4, 'dish': 'dish3', 'price': 20}]
+?                                         ^^
+
++ [{'count': 4, 'dish': 'dish3', 'price': 15}]
+?                                         ^^",0.0009480830049142241
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_2,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_add_dish_2,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,passed,,0.00010195799404755235
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_3,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_add_dish_3,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [{'dish': 'dish3', 'count': 7, 'price': 20}] != [{'dish': 'dish3', 'price': 15, 'count': 7}]
+
+First differing element 0:
+{'dish': 'dish3', 'count': 7, 'price': 20}
+{'dish': 'dish3', 'price': 15, 'count': 7}
+
+- [{'count': 7, 'dish': 'dish3', 'price': 20}]
+?                                         ^^
+
++ [{'count': 7, 'dish': 'dish3', 'price': 15}]
+?                                         ^^",0.0017757079913280904
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_4,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_add_dish_4,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [{'dish': 'dish3', 'count': 6, 'price': 20}] != [{'dish': 'dish3', 'price': 15, 'count': 6}]
+
+First differing element 0:
+{'dish': 'dish3', 'count': 6, 'price': 20}
+{'dish': 'dish3', 'price': 15, 'count': 6}
+
+- [{'count': 6, 'dish': 'dish3', 'price': 20}]
+?                                         ^^
+
++ [{'count': 6, 'dish': 'dish3', 'price': 15}]
+?                                         ^^",0.0006542080081999302
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_5,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_add_dish_5,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [{'dish': 'dish3', 'count': 5, 'price': 20}] != [{'dish': 'dish3', 'price': 15, 'count': 5}]
+
+First differing element 0:
+{'dish': 'dish3', 'count': 5, 'price': 20}
+{'dish': 'dish3', 'price': 15, 'count': 5}
+
+- [{'count': 5, 'dish': 'dish3', 'price': 20}]
+?                                         ^^
+
++ [{'count': 5, 'dish': 'dish3', 'price': 15}]
+?                                         ^^",0.00025924999499693513
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_6,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_add_dish_6,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,failed,AssertionError: False is not true,0.00012270797742530704
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_1,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_calculate_total_1,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,passed,,0.00014779198681935668
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_2,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_calculate_total_2,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,passed,,7.916701724752784e-05
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_3,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_calculate_total_3,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,passed,,9.662500815466046e-05
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_4,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_calculate_total_4,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,passed,,0.00021466700127348304
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_5,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_calculate_total_5,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,passed,,9.508401853963733e-05
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_1,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_checkout_1,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'count': 2, 'price': 10[41 chars] 20}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'count': 2, 'price': 10}
+
+- []
++ [{'count': 2, 'dish': 'dish1', 'price': 10},
++  {'count': 2, 'dish': 'dish3', 'price': 20}]",0.00022012501722201705
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_2,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_checkout_2,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,passed,,8.166604675352573e-05
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_3,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_checkout_3,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'count': 1, 'price': 10[41 chars] 20}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'count': 1, 'price': 10}
+
+- []
++ [{'count': 1, 'dish': 'dish1', 'price': 10},
++  {'count': 1, 'dish': 'dish3', 'price': 20}]",0.00018841598648577929
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_4,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_checkout_4,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'count': 3, 'price': 10[41 chars] 20}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'count': 3, 'price': 10}
+
+- []
++ [{'count': 3, 'dish': 'dish1', 'price': 10},
++  {'count': 3, 'dish': 'dish3', 'price': 20}]",0.0004419590113684535
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_5,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_checkout_5,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'count': 5, 'price': 10[41 chars] 20}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'count': 5, 'price': 10}
+
+- []
++ [{'count': 5, 'dish': 'dish1', 'price': 10},
++  {'count': 5, 'dish': 'dish3', 'price': 20}]",0.00020991702331230044
+functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py::OrderTest::test_order,functional_correctness_test_folder.ClassEval.gpt-5.full_docstr.test_snippet_68,test_order,functional_correctness_test_folder/ClassEval/gpt-5/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'count': 2, 'price': 10[41 chars] 20}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'count': 2, 'price': 10}
+
+- []
++ [{'count': 2, 'dish': 'dish1', 'price': 10},
++  {'count': 2, 'dish': 'dish3', 'price': 20}]",0.00020874995971098542

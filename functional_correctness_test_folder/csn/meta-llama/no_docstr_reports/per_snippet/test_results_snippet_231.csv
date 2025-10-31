@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_231.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_231,test_case_0,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_231.py,,,passed,,7.862498750910163e-05
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_231.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_231,test_case_1,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_231.py,,,failed,"assert 4 == 8.5 ± 0.085
+  
+  comparison failed
+  Obtained: 4
+  Expected: 8.5 ± 0.085",0.0002180419978685677

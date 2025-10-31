@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_314.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_314,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_314.py,,xfail,failed,[XPASS(strict)] ,0.0013625170104205608
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_314.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_314,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_314.py,,,failed,ValueError: server_name must not be empty,0.0005493770004250109

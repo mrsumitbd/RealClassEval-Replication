@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_243.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_243,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_243.py,,,passed,,0.00043345001176930964
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_243.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_243,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_243.py,,,passed,,0.00021957699209451675

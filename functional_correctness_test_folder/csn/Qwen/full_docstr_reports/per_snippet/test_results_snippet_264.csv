@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_264.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_264,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_264.py,,,failed,AttributeError: type object 'Plot_Data' has no attribute 'count',7.991700113052502e-05

@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_241.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_241,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_241.py,,xfail,xfailed,,7.920799544081092e-05
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_241.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_241,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_241.py,,,failed,TypeError: issue_type must be a string,8.358299965038896e-05

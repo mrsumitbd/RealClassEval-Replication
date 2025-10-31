@@ -1,0 +1,85 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineFeed::test_format_line_feed_1,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_feed_1,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,0.00014483300037682056
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineFeed::test_format_line_feed_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_feed_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,7.812498370185494e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineFeed::test_format_line_feed_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_feed_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,7.658300455659628e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineFeed::test_format_line_feed_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_feed_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,6.724998820573092e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineFeed::test_format_line_feed_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_feed_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,0.00020212499657645822
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineHtmlText::test_format_line_html_text_1,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_html_text_1,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,0.00044120801612734795
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineHtmlText::test_format_line_html_text_10,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_html_text_10,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,failed,"AssertionError: 'Some paragraph here-CODE-' != 'Some paragraph here.Code block'
+- Some paragraph here-CODE-
++ Some paragraph here.Code block",0.00026712502585723996
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineHtmlText::test_format_line_html_text_11,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_html_text_11,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,failed,"AssertionError: 'Some paragraph hereSome text here' != 'Some paragraph here.Some text here'
+- Some paragraph hereSome text here
++ Some paragraph here.Some text here
+?                    +",0.00043054198613390326
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineHtmlText::test_format_line_html_text_12,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_html_text_12,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,failed,"AssertionError: 'Item 1' != '[-]Item 1.'
+- Item 1
++ [-]Item 1.
+? +++      +",0.0002799160429276526
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineHtmlText::test_format_line_html_text_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_html_text_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,0.0004640420083887875
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineHtmlText::test_format_line_html_text_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_html_text_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,0.0002752080326899886
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineHtmlText::test_format_line_html_text_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_html_text_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,0.00026112503837794065
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineHtmlText::test_format_line_html_text_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_html_text_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,0.0003144999500364065
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineHtmlText::test_format_line_html_text_6,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_html_text_6,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,0.00012283300748094916
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineHtmlText::test_format_line_html_text_7,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_html_text_7,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,failed,"AssertionError: 'Item 1!' != '[-]Item 1!'
+- Item 1!
++ [-]Item 1!
+? +++",0.00022433302365243435
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineHtmlText::test_format_line_html_text_8,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_html_text_8,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,0.0001873329747468233
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestFormatLineHtmlText::test_format_line_html_text_9,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_format_line_html_text_9,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,0.00015241600340232253
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestExtractCodeFromHtmlText::test_extract_code_from_html_text_1,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_extract_code_from_html_text_1,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,failed,"AssertionError: Lists differ: [""pri[54 chars]     print(i)', 'for i in range(5):\n                print(i)'] != [""pri[54 chars]     print(i)']
+
+First list contains 1 additional elements.
+First extra element 2:
+'for i in range(5):\n                print(i)'
+
+- [""print('Hello, world!')"",
+-  'for i in range(5):\n                print(i)',
+-  'for i in range(5):\n                print(i)']
++ [""print('Hello, world!')"", 'for i in range(5):\n                print(i)']
+? ++++++++++++++++++++++++++",0.00047929194988682866
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestExtractCodeFromHtmlText::test_extract_code_from_html_text_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_extract_code_from_html_text_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,failed,"AssertionError: Lists differ: [""pri[54 chars]     print(i)', 'for i in range(4):\n                print(i)'] != [""pri[54 chars]     print(i)']
+
+First list contains 1 additional elements.
+First extra element 2:
+'for i in range(4):\n                print(i)'
+
+- [""print('Hello, world!')"",
+-  'for i in range(4):\n                print(i)',
+-  'for i in range(4):\n                print(i)']
++ [""print('Hello, world!')"", 'for i in range(4):\n                print(i)']
+? ++++++++++++++++++++++++++",0.000511416990775615
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestExtractCodeFromHtmlText::test_extract_code_from_html_text_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_extract_code_from_html_text_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,failed,"AssertionError: Lists differ: [""pri[54 chars]     print(i)', 'for i in range(3):\n                print(i)'] != [""pri[54 chars]     print(i)']
+
+First list contains 1 additional elements.
+First extra element 2:
+'for i in range(3):\n                print(i)'
+
+- [""print('Hello, world!')"",
+-  'for i in range(3):\n                print(i)',
+-  'for i in range(3):\n                print(i)']
++ [""print('Hello, world!')"", 'for i in range(3):\n                print(i)']
+? ++++++++++++++++++++++++++",0.0004965420230291784
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestExtractCodeFromHtmlText::test_extract_code_from_html_text_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_extract_code_from_html_text_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,failed,"AssertionError: Lists differ: [""pri[54 chars]     print(i)', 'for i in range(2):\n                print(i)'] != [""pri[54 chars]     print(i)']
+
+First list contains 1 additional elements.
+First extra element 2:
+'for i in range(2):\n                print(i)'
+
+- [""print('Hello, world!')"",
+-  'for i in range(2):\n                print(i)',
+-  'for i in range(2):\n                print(i)']
++ [""print('Hello, world!')"", 'for i in range(2):\n                print(i)']
+? ++++++++++++++++++++++++++",0.0004970000009052455
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTestExtractCodeFromHtmlText::test_extract_code_from_html_text_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_extract_code_from_html_text_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,passed,,0.0010295419488102198
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py::HtmlUtilTest::test_htmlutil,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_45,test_htmlutil,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_45.py,,,failed,"AssertionError: Lists differ: [""pri[54 chars]     print(i)', 'for i in range(5):\n                print(i)'] != [""pri[54 chars]     print(i)']
+
+First list contains 1 additional elements.
+First extra element 2:
+'for i in range(5):\n                print(i)'
+
+- [""print('Hello, world!')"",
+-  'for i in range(5):\n                print(i)',
+-  'for i in range(5):\n                print(i)']
++ [""print('Hello, world!')"", 'for i in range(5):\n                print(i)']
+? ++++++++++++++++++++++++++",0.0007294579991139472

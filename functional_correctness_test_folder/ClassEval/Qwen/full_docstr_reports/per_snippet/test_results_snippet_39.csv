@@ -1,0 +1,113 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestReadExcel::test_read_excel_1,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_read_excel_1,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [] != [('Name', 'Age', 'Country'), ('John', 25, [53 chars]ia')]
+
+Second list contains 4 additional elements.
+First extra element 0:
+('Name', 'Age', 'Country')
+
+- []
++ [('Name', 'Age', 'Country'),
++  ('John', 25, 'USA'),
++  ('Alice', 30, 'Canada'),
++  ('Bob', 35, 'Australia')]",0.02064795803744346
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestReadExcel::test_read_excel_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_read_excel_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [] != [('Name', 'Age'), ('John', 25), ('Alice', 30), ('Bob', 35)]
+
+Second list contains 4 additional elements.
+First extra element 0:
+('Name', 'Age')
+
+- []
++ [('Name', 'Age'), ('John', 25), ('Alice', 30), ('Bob', 35)]",0.004688457993324846
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestReadExcel::test_read_excel_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_read_excel_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [] != [('Name',), ('John',), ('Alice',), ('Bob',)]
+
+Second list contains 4 additional elements.
+First extra element 0:
+('Name',)
+
+- []
++ [('Name',), ('John',), ('Alice',), ('Bob',)]",0.004866875009611249
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestReadExcel::test_read_excel_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_read_excel_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [] != [('Name', 'Country'), ('John', 'USA'), ('A[34 chars]ia')]
+
+Second list contains 4 additional elements.
+First extra element 0:
+('Name', 'Country')
+
+- []
++ [('Name', 'Country'),
++  ('John', 'USA'),
++  ('Alice', 'Canada'),
++  ('Bob', 'Australia')]",0.004692499991506338
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestReadExcel::test_read_excel_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_read_excel_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [] != [('Name', 'Country'), ('John', 'USA')]
+
+Second list contains 2 additional elements.
+First extra element 0:
+('Name', 'Country')
+
+- []
++ [('Name', 'Country'), ('John', 'USA')]",0.004837167041841894
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestReadExcel::test_read_excel_6,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_read_excel_6,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,AssertionError: [] != None,0.00015020801220089197
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestWriteExcel::test_write_excel_1,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_write_excel_1,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [] != [('Name', 'Age', 'Country'), ('John', 25, [79 chars]ny')]
+
+Second list contains 5 additional elements.
+First extra element 0:
+('Name', 'Age', 'Country')
+
+- []
++ [('Name', 'Age', 'Country'),
++  ('John', 25, 'USA'),
++  ('Alice', 30, 'Canada'),
++  ('Bob', 35, 'Australia'),
++  ('Julia', 28, 'Germany')]",0.005020249984227121
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestWriteExcel::test_write_excel_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_write_excel_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [] != [('Name', 'Age'), ('John', 25), ('Alice', 30), ('Bob', 35), ('Julia', 28)]
+
+Second list contains 5 additional elements.
+First extra element 0:
+('Name', 'Age')
+
+- []
++ [('Name', 'Age'), ('John', 25), ('Alice', 30), ('Bob', 35), ('Julia', 28)]",0.0045191670069471
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestWriteExcel::test_write_excel_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_write_excel_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [] != [('Name', 'Age', 'Country'), ('John', 25, [53 chars]ia')]
+
+Second list contains 4 additional elements.
+First extra element 0:
+('Name', 'Age', 'Country')
+
+- []
++ [('Name', 'Age', 'Country'),
++  ('John', 25, 'USA'),
++  ('Alice', 30, 'Canada'),
++  ('Bob', 35, 'Australia')]",0.005428833013866097
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestWriteExcel::test_write_excel_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_write_excel_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [] != [('Name', 'Age', 'Country'), ('John', 25, 'USA'), ('Alice', 30, 'Canada')]
+
+Second list contains 3 additional elements.
+First extra element 0:
+('Name', 'Age', 'Country')
+
+- []
++ [('Name', 'Age', 'Country'), ('John', 25, 'USA'), ('Alice', 30, 'Canada')]",0.004503625037614256
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestWriteExcel::test_write_excel_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_write_excel_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [] != [('Name', 'Age', 'Country'), ('John', 25, 'USA')]
+
+Second list contains 2 additional elements.
+First extra element 0:
+('Name', 'Age', 'Country')
+
+- []
++ [('Name', 'Age', 'Country'), ('John', 25, 'USA')]",0.004471583000849932
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestWriteExcel::test_write_excel_6,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_write_excel_6,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,passed,,0.0006626250105910003
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestProcessExcelData::test_process_excel_data_1,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_process_excel_data_1,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,AssertionError: 0 is not true,0.004341666994150728
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestProcessExcelData::test_process_excel_data_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_process_excel_data_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,AssertionError: 0 is not true,0.005534707976039499
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestProcessExcelData::test_process_excel_data_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_process_excel_data_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,AssertionError: 0 is not true,0.006458666990511119
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestProcessExcelData::test_process_excel_data_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_process_excel_data_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,AssertionError: 0 is not true,0.009935709007550031
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestProcessExcelData::test_process_excel_data_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_process_excel_data_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,AssertionError: 0 is not true,0.0042555840336717665
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTestProcessExcelData::test_process_excel_data_6,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_process_excel_data_6,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,"AssertionError: (0, 'test_data.xlsx') != 0",0.07048841600771993
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py::ExcelProcessorTest::test_ExcelProcessor,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_39,test_ExcelProcessor,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [] != [('Name', 'Age', 'Country'), ('John', 25, [53 chars]ia')]
+
+Second list contains 4 additional elements.
+First extra element 0:
+('Name', 'Age', 'Country')
+
+- []
++ [('Name', 'Age', 'Country'),
++  ('John', 25, 'USA'),
++  ('Alice', 30, 'Canada'),
++  ('Bob', 35, 'Australia')]",0.004450041975360364

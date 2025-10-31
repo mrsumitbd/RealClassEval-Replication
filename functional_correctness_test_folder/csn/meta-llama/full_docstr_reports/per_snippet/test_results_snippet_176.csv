@@ -1,0 +1,27 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_176.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_176,test_case_0,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_176.py,,xfail,xfailed,,0.0002612079988466576
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_176.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_176,test_case_1,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_176.py,,,failed,"AssertionError: assert 'builtins.list' == 'builtins.dict'
+  
+  - builtins.dict
+  ?          ^ ^
+  + builtins.list
+  ?          ^ ^",0.0002483749995008111
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_176.py::test_case_2,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_176,test_case_2,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_176.py,,xfail,xfailed,,0.00018070900114253163
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_176.py::test_case_3,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_176,test_case_3,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_176.py,,,failed,"AssertionError: assert 'builtins.list' == 'builtins.dict'
+  
+  - builtins.dict
+  ?          ^ ^
+  + builtins.list
+  ?          ^ ^",0.0001877089962363243
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_176.py::test_case_4,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_176,test_case_4,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_176.py,,,failed,"AssertionError: assert 'builtins.list' == 'builtins.dict'
+  
+  - builtins.dict
+  ?          ^ ^
+  + builtins.list
+  ?          ^ ^",0.00021270800061756745
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_176.py::test_case_5,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_176,test_case_5,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_176.py,,,failed,"AssertionError: assert 'builtins.list' == 'builtins.dict'
+  
+  - builtins.dict
+  ?          ^ ^
+  + builtins.list
+  ?          ^ ^",0.0001814580027712509

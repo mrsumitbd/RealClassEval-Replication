@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_106.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_106,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_106.py,,xfail,xfailed,,0.00014770800044061616

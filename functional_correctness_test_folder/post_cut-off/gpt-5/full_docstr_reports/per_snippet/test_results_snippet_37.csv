@@ -1,0 +1,14 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '⏸️ Paused (0/min)' == '🐌 Slow'
+  
+  - 🐌 Slow
+  + ⏸️ Paused (0/min)",0.0010647659946698695
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🚶' == '🚀'
+  
+  - 🚀
+  + 🚶",0.0007808009977452457
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_37.py,,xfail,failed,[XPASS(strict)] ,0.0002569069984019734
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_37.py,,,failed,"AssertionError: assert 'Low velocity' == 'Slow'
+  
+  - Slow
+  + Low velocity",0.0005486410009325482

@@ -1,0 +1,100 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_median,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,0.00010483298683539033
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_median_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,0.0005161669687367976
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_median_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,0.0007755000260658562
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_median_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,7.975002517923713e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_median_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,7.762503810226917e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_mode,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,0.0001184159773401916
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_mode_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,7.370900129899383e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_mode_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,0.00011100003030151129
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_mode_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,8.333299774676561e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_mode_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,7.562502287328243e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_correlation,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,AssertionError: 3.0 != 1.0,0.00014120899140834808
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_correlation_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,AssertionError: 3.999999999999999 != 1.0,0.000149125000461936
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_correlation_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,AssertionError: 3.0 != 1.0,0.0002977079711854458
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_correlation_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,ZeroDivisionError: float division by zero,0.00025949999690055847
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_correlation_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,ZeroDivisionError: float division by zero,0.00011245801579207182
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_mean,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,7.966696284711361e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_mean_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,ZeroDivisionError: division by zero,8.045899448916316e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_mean_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,0.00040783395525068045
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_mean_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,0.0016012500273063779
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_mean_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,8.670799434185028e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_correlation_matrix,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,0.00022554199676960707
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_correlation_matrix_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0, 1.0], [1.0, 1.0]] != [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+
+First differing element 0:
+[1.0, 1.0]
+[1.0, 1.0, 1.0]
+
+Second list contains 1 additional elements.
+First extra element 2:
+[1.0, 1.0, 1.0]
+
+- [[1.0, 1.0], [1.0, 1.0]]
++ [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]",0.00023783399956300855
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_correlation_matrix_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,"AssertionError: 1.0 != [[None, None, None], [None, None, None], [None, None, None]]",0.0001539579825475812
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_correlation_matrix_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0, 1.0, 1.0, 1.0], [1.0, 1.0, 1.0, 1.0], [1.0, 1.0, [27 chars]1.0]] != [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+
+First differing element 0:
+[1.0, 1.0, 1.0, 1.0]
+[1.0, 1.0, 1.0]
+
+First list contains 1 additional elements.
+First extra element 3:
+[1.0, 1.0, 1.0, 1.0]
+
++ [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+- [[1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0]]",0.00022849999368190765
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_correlation_matrix_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0, 1.0, 1.0, 1.0, 1.0], [1.0, 1.0, 1.0, 1.0, 1.0], [[74 chars]1.0]] != [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+
+First differing element 0:
+[1.0, 1.0, 1.0, 1.0, 1.0]
+[1.0, 1.0, 1.0]
+
+First list contains 2 additional elements.
+First extra element 3:
+[1.0, 1.0, 1.0, 1.0, 1.0]
+
++ [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+- [[1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0]]",0.00024154200218617916
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_standard_deviation,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,AssertionError: 0.816496580927726 != 1.0,0.00011454097693786025
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_standard_deviation_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,0.00028716697124764323
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_standard_deviation_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,0.0002031670301221311
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_standard_deviation_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,passed,,0.0004468330298550427
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_standard_deviation_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,AssertionError: 1.1661903789690602 != 1.3038404810405297,0.0005459169624373317
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_z_score,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [-1.3416407864998738, -0.4472135954999579, 0.[32 chars]8738] != [-1.161895003862225, -0.3872983346207417, 0.3[30 chars]2225]
+
+First differing element 0:
+-1.3416407864998738
+-1.161895003862225
+
++ [-1.161895003862225, -0.3872983346207417, 0.3872983346207417, 1.161895003862225]
+- [-1.3416407864998738,
+-  -0.4472135954999579,
+-  0.4472135954999579,
+-  1.3416407864998738]",0.000193290994502604
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_z_score_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,ZeroDivisionError: float division by zero,8.641701424494386e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_z_score_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,ZeroDivisionError: float division by zero,9.120901813730597e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_z_score_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [-0.9045340337332909, -0.9045340337332909, 0.[32 chars]8818] != [-0.7833494518006403, -0.7833494518006403, 0.[33 chars]7337]
+
+First differing element 0:
+-0.9045340337332909
+-0.7833494518006403
+
+- [-0.9045340337332909,
+-  -0.9045340337332909,
+-  0.30151134457776363,
+-  1.507556722888818]
++ [-0.7833494518006403,
++  -0.7833494518006403,
++  0.26111648393354675,
++  1.3055824196677337]",0.0003511669929139316
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_z_score_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,ZeroDivisionError: float division by zero,8.454197086393833e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py::Statistics3TestMain::test_main,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_82,test_main,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_82.py,,,failed,AssertionError: 3.0 != 1.0,0.00010945799294859171

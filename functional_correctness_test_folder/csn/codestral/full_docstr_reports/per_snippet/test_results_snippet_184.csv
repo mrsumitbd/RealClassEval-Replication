@@ -1,0 +1,22 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_184,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00022049999824957922
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py::test_case_1,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_184,test_case_1,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00019350000366102904
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py::test_case_2,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_184,test_case_2,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00017350000416627154
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py::test_case_3,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_184,test_case_3,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00015766599972266704
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py::test_case_4,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_184,test_case_4,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.0001485839966335334
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py::test_case_5,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_184,test_case_5,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00014641699817730114
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py::test_case_6,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_184,test_case_6,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00015208400145638734

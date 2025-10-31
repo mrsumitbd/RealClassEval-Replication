@@ -1,0 +1,64 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.0003090070094913244
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$-1,939' == '$-1939.0'
+  
+  - $-1939.0
+  ?       --
+  + $-1,939
+  ?    +",0.0005992240039631724
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert 'None' == '$0.0'
+  
+  - $0.0
+  + None",0.0004574329941533506
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to bytes.__format__,0.0002579120045993477
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-2,354.0400' == '-2354.04'
+  
+  - -2354.04
+  + -2,354.0400
+  ?   +      ++",0.0006036470003891736
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '1327.00000000' == '$1327.0'
+  
+  - $1327.0
+  + 1327.00000000",0.0004786429926753044
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to bytes.__format__,0.0002664299972821027
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_7,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_7,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to PriceFormatter.__format__,0.00030978000722825527
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_8,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_8,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.0002399669901933521
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_9,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_9,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-' == '0.0 [Y!CrxTp%/#*'
+  
+  - 0.0 [Y!CrxTp%/#*
+  + -",0.00046442399616353214
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_10,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_10,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-2136.00%' == '-213600.00%'
+  
+  - -213600.00%
+  ?      --
+  + -2136.00%",0.000568401999771595
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_11,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_11,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to bytes.__format__,0.0003736299986485392
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_12,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_12,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-2354.04000000' == '$-2354.039999999999964'
+  
+  - $-2354.039999999999964
+  + -2354.04000000",0.00048733799485489726
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_13,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_13,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + $1,566.73",0.0004706590261776
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_14,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_14,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to tuple.__format__,0.00024082697927951813
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_15,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_15,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.0004295370017644018
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_16,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_16,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + $1,566.73",0.0004756150010507554
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_17,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_17,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '1327.00000000' == '$1327.0'
+  
+  - $1327.0
+  + 1327.00000000",0.0004570739984046668
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_18,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_18,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + $1,566.73",0.0007071880099829286
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_19,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_19,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'int' object has no attribute 'upper',0.00023969000903889537
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_20,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_20,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$-1,063.31' == '$-1063.307999999999993'
+  
+  - $-1063.307999999999993
+  + $-1,063.31",0.00046061299508437514
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_21,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_21,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to dict.__format__,0.0002535020175855607
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py::test_case_22,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_226,test_case_22,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.00023711298126727343

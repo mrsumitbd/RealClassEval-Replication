@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_53.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_53,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_53.py,,,passed,,9.287497960031033e-05
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_53.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_53,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_53.py,,,failed,TypeError: unsupported format string passed to NoneType.__format__,7.19579984433949e-05
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_53.py::test_case_2,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_53,test_case_2,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_53.py,,,passed,,7.050001295283437e-05

@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_149.py::test_case_0,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_149,test_case_0,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_149.py,,,failed,AttributeError: 'float' object has no attribute 'strip',0.00010341699817217886
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_149.py::test_case_1,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_149,test_case_1,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_149.py,,,failed,AttributeError: 'TorConfigType' object has no attribute 'strip',8.379199425689876e-05

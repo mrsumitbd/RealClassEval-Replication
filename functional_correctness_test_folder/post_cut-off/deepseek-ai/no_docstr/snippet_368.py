@@ -1,0 +1,20 @@
+
+from typing import Dict
+
+
+class PromptCompiler:
+
+    def __init__(self):
+        pass
+
+    def compile(self, prompt_file: str, params: Dict[str, str]) -> str:
+        with open(prompt_file, 'r') as file:
+            content = file.read()
+        substituted_content = self._substitute_parameters(content, params)
+        return substituted_content
+
+    def _substitute_parameters(self, content: str, params: Dict[str, str]) -> str:
+        for key, value in params.items():
+            placeholder = f'{{{key}}}'
+            content = content.replace(placeholder, value)
+        return content

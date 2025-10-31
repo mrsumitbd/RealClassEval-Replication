@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Consider the...he operation.' == '\n        CO...ts.\n        '
+  
+  + Consider the following alternative interpretation of the current objective: j5g. This approach may provide additional context for the task at hand while maintaining the original intent of the operation.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.000266083050519228
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'While the pr...he long term.' == '\n        PR...ss.\n        '
+  
+  + While the primary objective remains Izn:^VmBJqm7%(h, it's important to recognize that certain secondary considerations may need to be addressed first to ensure optimal results in the long term.
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.00023383402731269598
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_141.py,,,failed,"assert 'Consider the...he operation.' == '\n        CO...ts.\n        '
+  
+  + Consider the following alternative interpretation of the current objective: [fG\i""U. This approach may provide additional context for the task at hand while maintaining the original intent of the operation.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.00020945793949067593
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'To ensure co...riginal plan.' == '\n        CO...ol.\n        '
+  
+  + To ensure comprehensive coverage of the operational requirements, it's recommended to expand the current approach to include Y
+  
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH...
+  
+  ...Full output truncated (14 lines hidden), use '-vv' to show",0.0003480000887066126

@@ -1,0 +1,11 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_254.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_254,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_254.py,,,failed,"AssertionError: assert '/Users/umroo...Gen/src/@!-nM' == '@!-nM'
+  
+  - @!-nM
+  + /Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/src/@!-nM",0.0004928340204060078
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_254.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_254,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_254.py,,,failed,"AssertionError: assert '/Users/umroo...eHtj*+6,-ZUN*' == '`\\eHtj*+6,-ZUN*'
+  
+  - `\eHtj*+6,-ZUN*
+  + /Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/src/`\eHtj*+6,-ZUN*",0.00028570799622684717
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_254.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_254,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_254.py,,xfail,xfailed,,0.00017566594760864973
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_254.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_254,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_254.py,,,failed,"TypeError: expected str, bytes or os.PathLike object, not NoneType",7.754203397780657e-05

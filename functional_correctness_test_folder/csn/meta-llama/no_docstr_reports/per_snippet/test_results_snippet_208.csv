@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_208.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_208,test_case_0,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_208.py,,,failed,"AssertionError: assert <function NullFile.__getattr__.<locals>.<lambda> at 0x10268ea70> == 'w'
+ +  where <function NullFile.__getattr__.<locals>.<lambda> at 0x10268ea70> = <snippet_208.NullFile object at 0x1026c9600>.mode",0.0001875000016298145

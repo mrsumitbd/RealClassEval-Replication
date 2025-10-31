@@ -1,0 +1,32 @@
+
+import re
+from typing import Dict, List
+
+
+class CodeManager:
+    """
+    Manages code content extraction, storage, and formatting.
+    This class provides robust methods for extracting Python code from LLM responses
+    using multiple fallback strategies, similar to HumanEval evaluator approaches.
+    """
+
+    def __init__(self):
+        """Initialize code storage."""
+        self._files: Dict[str, str] = {}
+
+    def update_from_response(self, response: str) -> None:
+        """
+        Update codes from LLM response using robust extraction methods.
+        Args:
+            response: Raw LLM response text containing code
+        """
+        code_text = self._extract_code_with_fallbacks(response)
+        if code_text:
+            self._parse_and_store(code_text)
+
+    def _extract_code_with_fallbacks(self, text: str) -> str:
+        """
+        Extract Python code from text using multiple fallback methods.
+        This method tries several extraction strategies in order of preference:
+        1. Look for "## Validated Code" section (from other agents)
+        2. Extract from

@@ -1,0 +1,22 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_184,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00021641600324073806
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_184,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.0002099999983329326
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_184,test_case_2,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00017608399502933025
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py::test_case_3,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_184,test_case_3,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00017429199942853302
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py::test_case_4,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_184,test_case_4,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.000152832995809149
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py::test_case_5,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_184,test_case_5,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.0001556249990244396
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py::test_case_6,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_184,test_case_6,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_184.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00015395900118164718

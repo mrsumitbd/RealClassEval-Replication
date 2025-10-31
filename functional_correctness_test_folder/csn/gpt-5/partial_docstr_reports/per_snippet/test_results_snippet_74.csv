@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_74.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_74,test_case_0,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_74.py,,,passed,,8.466700091958046e-05
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_74.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_74,test_case_1,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_74.py,,,failed,Failed: DID NOT RAISE <class 'AssertionError'>,0.00022154199541546404
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_74.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_74,test_case_2,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_74.py,,,passed,,8.687499212101102e-05

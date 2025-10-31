@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_217.py::test_case_0,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_217,test_case_0,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_217.py,,,failed,"AssertionError: assert 'FilteredValueIndicator()' == '[Filtered]'
+  
+  - [Filtered]
+  + FilteredValueIndicator()",0.00025887502124533057
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_217.py::test_case_1,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_217,test_case_1,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_217.py,,,failed,"AssertionError: assert 'FilteredValueIndicator()' == '[Filtered]'
+  
+  - [Filtered]
+  + FilteredValueIndicator()",0.00025541699142195284

@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_287.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_287,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_287.py,,,failed,TypeError: Role.__init__() got an unexpected keyword argument 'title',0.00013191699690651149
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_287.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_287,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_287.py,,,failed,TypeError: Role.__init__() got an unexpected keyword argument 'description',8.766600512899458e-05

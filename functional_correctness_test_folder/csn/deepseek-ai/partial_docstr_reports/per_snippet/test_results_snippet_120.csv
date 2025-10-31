@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_120.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_120,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_120.py,,,passed,,7.445798837579787e-05

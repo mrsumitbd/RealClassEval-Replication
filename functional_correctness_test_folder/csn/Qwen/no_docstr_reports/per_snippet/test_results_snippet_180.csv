@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_180.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_180,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_180.py,,xfail,failed,[XPASS(strict)] ,6.97089999448508e-05
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_180.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_180,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_180.py,,,failed,AttributeError: module 'snippet_180' has no attribute 'AnyStr',7.38340022508055e-05

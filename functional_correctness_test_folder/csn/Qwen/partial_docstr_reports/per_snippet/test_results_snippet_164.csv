@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_164.py::test_case_0,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_164,test_case_0,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_164.py,,,failed,AttributeError: 'patch_obj' object has no attribute 'start1',8.250001701526344e-05

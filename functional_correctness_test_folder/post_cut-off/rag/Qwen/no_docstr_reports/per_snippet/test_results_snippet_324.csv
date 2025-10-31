@@ -1,0 +1,22 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_324,test_case_0,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py,,,failed,"assert deque([]) == []
+  
+  Use -v to get more diff",0.00018470804207026958
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_324,test_case_1,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py,,,failed,"assert deque([]) == []
+  
+  Use -v to get more diff",0.00016079202760010958
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_324,test_case_2,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py,,,failed,"assert deque([]) == []
+  
+  Use -v to get more diff",0.000132458982989192
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_324,test_case_3,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py,,,failed,"assert deque([]) == []
+  
+  Use -v to get more diff",0.00011650007218122482
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_324,test_case_4,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py,,,failed,"assert deque([]) == []
+  
+  Use -v to get more diff",0.00011250004172325134
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_324,test_case_5,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py,,,failed,"assert deque([]) == []
+  
+  Use -v to get more diff",0.000586083042435348
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_324,test_case_6,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_324.py,,,failed,"assert deque([]) == []
+  
+  Use -v to get more diff",0.00015841599088162184

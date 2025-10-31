@@ -1,0 +1,19 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py::test_case_0,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_263,test_case_0,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py,,xfail,failed,[XPASS(strict)] ,0.0004755000118166208
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py::test_case_1,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_263,test_case_1,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py,,,failed,"TypeError: join() argument must be str, bytes, or os.PathLike object, not 'Import_Data'",0.0002087079919874668
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py::test_case_2,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_263,test_case_2,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py,,,passed,,0.0058390829944983125
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py::test_case_3,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_263,test_case_3,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py,,,failed,"TypeError: listdir: path should be string, bytes, os.PathLike, integer or None, not Import_Data",0.000287750008283183
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py::test_case_4,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_263,test_case_4,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py,,,failed,"AssertionError: assert {'/Users/umro...ons.abc', ...} == {}
+  
+  Left contains 880 more items:
+  {'/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/Qwen/partial_docstr/snippet_263.py': 'snippet_263',
+   '/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py': 'test_snippet_263',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/__future__.py': '__future__',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_collections_abc.py': 'collections.abc',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_compat_pickle.py': '_compat_pickle',...
+  
+  ...Full output truncated (876 lines hidden), use '-vv' to show",0.04652312499820255
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py::test_case_5,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_263,test_case_5,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py,,xfail,xfailed,,0.0006981249898672104
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py::test_case_6,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_263,test_case_6,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py,,xfail,xfailed,,0.00031316702370531857
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py::test_case_7,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_263,test_case_7,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py,,xfail,xfailed,,0.00042195801506750286
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py::test_case_8,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_263,test_case_8,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_263.py,,xfail,xfailed,,0.0024684169911779463

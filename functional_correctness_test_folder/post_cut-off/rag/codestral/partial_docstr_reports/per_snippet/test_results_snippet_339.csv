@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_339.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_339,test_case_0,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_339.py,,xfail,failed,[XPASS(strict)] ,7.874995935708284e-05
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_339.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_339,test_case_1,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_339.py,,,failed,"AssertionError: assert '/Users/umroo...nClassGen/src' == '/Users/musfi.../pynguin_expt'
+  
+  - /Users/musfiqurrahman/Documents/MISC/pynguin_expt
+  + /Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/src",0.00023383297957479954

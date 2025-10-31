@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_147.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_147,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_147.py,,,failed,TypeError: can't concat NoneType to bytes,8.604100003140047e-05
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_147.py::test_case_1,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_147,test_case_1,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_147.py,,,passed,,6.437500269385055e-05
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_147.py::test_case_2,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_147,test_case_2,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_147.py,,,passed,,6.429200584534556e-05

@@ -1,0 +1,58 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_1,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_add_dish_1,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,passed,,9.250000584870577e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_add_dish_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,passed,,7.966696284711361e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_add_dish_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,passed,,7.341697346419096e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_add_dish_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,passed,,6.925000343471766e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_add_dish_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,passed,,7.741700392216444e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_6,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_add_dish_6,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,failed,AssertionError: False is not true,0.00013016705634072423
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_1,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_calculate_total_1,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,passed,,8.61250446178019e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_calculate_total_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,passed,,7.345800986513495e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_calculate_total_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,passed,,7.49579630792141e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_calculate_total_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,passed,,7.266696775332093e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_calculate_total_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,passed,,7.299997378140688e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_1,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_checkout_1,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'price': 10, 'count': 2[41 chars]: 2}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'price': 10, 'count': 2}
+
+- []
++ [{'count': 2, 'dish': 'dish1', 'price': 10},
++  {'count': 2, 'dish': 'dish3', 'price': 20}]",0.009717041975818574
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_2,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_checkout_2,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,passed,,8.054199861362576e-05
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_3,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_checkout_3,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'price': 10, 'count': 1[41 chars]: 1}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'price': 10, 'count': 1}
+
+- []
++ [{'count': 1, 'dish': 'dish1', 'price': 10},
++  {'count': 1, 'dish': 'dish3', 'price': 20}]",0.00019995804177597165
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_4,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_checkout_4,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'price': 10, 'count': 3[41 chars]: 3}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'price': 10, 'count': 3}
+
+- []
++ [{'count': 3, 'dish': 'dish1', 'price': 10},
++  {'count': 3, 'dish': 'dish3', 'price': 20}]",0.0001794580020941794
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_5,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_checkout_5,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'price': 10, 'count': 5[41 chars]: 5}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'price': 10, 'count': 5}
+
+- []
++ [{'count': 5, 'dish': 'dish1', 'price': 10},
++  {'count': 5, 'dish': 'dish3', 'price': 20}]",0.00031108304392546415
+functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py::OrderTest::test_order,functional_correctness_test_folder.ClassEval.Qwen.full_docstr.test_snippet_68,test_order,functional_correctness_test_folder/ClassEval/Qwen/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'price': 10, 'count': 2[41 chars]: 2}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'price': 10, 'count': 2}
+
+- []
++ [{'count': 2, 'dish': 'dish1', 'price': 10},
++  {'count': 2, 'dish': 'dish3', 'price': 20}]",0.0003862499725073576

@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Consider the...ion may vary)' == '\n        CO...ts.\n        '
+  
+  + Consider the following as a potential improvement: j5g (interpretation may vary)
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.00030762492679059505
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Prioritized ... accordingly)' == '\n        PR...ss.\n        '
+  
+  + Prioritized action: Izn:^VmBJqm7%(h (shift focus accordingly)
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0003399580018594861
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_141.py,,,failed,"assert 'Consider the...ion may vary)' == '\n        CO...ts.\n        '
+  
+  + Consider the following as a potential improvement: [fG\i""U (interpretation may vary)
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0002484999131411314
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Scope expand...onal targets)' == '\n        CO...ol.\n        '
+  
+  + Scope expanded: Y
+  
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH...
+  
+  ...Full output truncated (14 lines hidden), use '-vv' to show",0.00021425005979835987

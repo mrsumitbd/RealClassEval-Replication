@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_268,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py,,xfail,xfailed,,0.0005587170016951859
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_268,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0006796099987695925
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py::test_case_2,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_268,test_case_2,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00046492499677697197
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py::test_case_3,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_268,test_case_3,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00044872999569633976
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py::test_case_4,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_268,test_case_4,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00045424499694490805
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py::test_case_5,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_268,test_case_5,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py,,xfail,xfailed,,0.0004574330014293082
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py::test_case_6,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_268,test_case_6,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00044383099884726107
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py::test_case_7,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_268,test_case_7,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py,,xfail,xfailed,,0.00042130000656470656
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py::test_case_8,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_268,test_case_8,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py,,xfail,xfailed,,0.00043808000191347674
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py::test_case_9,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_268,test_case_9,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_268.py,,xfail,xfailed,,0.00043438900320325047

@@ -1,0 +1,11 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🐢 Slow (-833.2/min)' == '🐌 Slow'
+  
+  - 🐌 Slow
+  + 🐢 Slow (-833.2/min)",0.0002186250640079379
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🚶 166.0/min' == '🚀'
+  
+  - 🚀
+  + 🚶 166.0/min",0.0001788330264389515
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_37.py,,xfail,xfailed,,0.00020787492394447327
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.no_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/no_docstr/test_snippet_37.py,,,passed,,0.0002280831104144454

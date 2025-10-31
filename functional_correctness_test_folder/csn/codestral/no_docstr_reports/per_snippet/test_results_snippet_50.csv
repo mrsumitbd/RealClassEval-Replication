@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_50.py::test_case_0,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_50,test_case_0,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_50.py,,,failed,AttributeError: type object 'MetPyChecker' has no attribute 'name',9.524999768473208e-05
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_50.py::test_case_1,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_50,test_case_1,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_50.py,,xfail,xfailed,,8.154200622811913e-05

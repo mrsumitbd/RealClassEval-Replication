@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_212.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_212,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_212.py,,xfail,failed,[XPASS(strict)] ,0.0002421489916741848
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_212.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_212,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_212.py,,xfail,failed,[XPASS(strict)] ,0.00027955800760537386
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_212.py::test_case_2,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_212,test_case_2,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_212.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0007936589536257088
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_212.py::test_case_3,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_212,test_case_3,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_212.py,,xfail,xfailed,,0.00048034702194854617
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_212.py::test_case_4,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_212,test_case_4,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_212.py,,xfail,xfailed,,0.000458806985989213

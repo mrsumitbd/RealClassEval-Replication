@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_63.py::test_case_0,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_63,test_case_0,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_63.py,,xfail,xfailed,,0.00014941598055884242
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_63.py::test_case_1,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_63,test_case_1,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_63.py,,,failed,"AssertionError: assert b'' == ''
+ +  where b'' = <snippet_63.StreamingFile object at 0x1071781c0>.buffer",0.00014437499339692295
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_63.py::test_case_2,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_63,test_case_2,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_63.py,,,failed,"AssertionError: assert b'' == ''
+ +  where b'' = <snippet_63.StreamingFile object at 0x10717a920>.buffer",0.0028388749924488366
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_63.py::test_case_3,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_63,test_case_3,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_63.py,,xfail,xfailed,,0.00012129201786592603

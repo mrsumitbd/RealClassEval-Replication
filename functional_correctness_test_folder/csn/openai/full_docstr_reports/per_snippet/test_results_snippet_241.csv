@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_241.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_241,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_241.py,,xfail,xfailed,,7.824999920558184e-05
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_241.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_241,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_241.py,,,failed,TypeError: expected string or bytes-like object,8.345799869857728e-05

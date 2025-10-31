@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_325.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_325,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_325.py,,,failed,ValueError: Either a Python module or a YAML document must be provided.,9.204202797263861e-05

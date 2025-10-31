@@ -1,0 +1,23 @@
+
+import socket
+
+
+class DesignatedReceiversSender:
+
+    def __init__(self, default_port, receivers):
+        self.default_port = default_port
+        self.receivers = receivers
+        self.sockets = []
+
+        for receiver in receivers:
+            sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+            self.sockets.append(sock)
+
+    def __call__(self, data):
+        for i, receiver in enumerate(self.receivers):
+            self.sockets[i].sendto(
+                data.encode(), (receiver, self.default_port))
+
+    def close(self):
+        for sock in self.sockets:
+            sock.close()

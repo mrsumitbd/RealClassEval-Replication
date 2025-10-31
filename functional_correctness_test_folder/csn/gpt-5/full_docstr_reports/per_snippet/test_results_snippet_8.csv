@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_8.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_8,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_8.py,,,failed,TypeError: name must be a string,0.00010754200047813356
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_8.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_8,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_8.py,,,failed,TypeError: name must be a string,9.687500278232619e-05
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_8.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_8,test_case_2,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_8.py,,xfail,xfailed,,7.2209004429169e-05

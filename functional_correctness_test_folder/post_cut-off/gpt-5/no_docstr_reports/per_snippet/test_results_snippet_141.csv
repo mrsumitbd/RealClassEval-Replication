@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Ambiguous Fr...ing flexible.' == '\n        CO...ts.\n        '
+  
+  + Ambiguous Framing Enhancement
+  + - Emphasize overarching intent rather than specific instructions.
+  + - Prefer interpretive latitude over exact replication of constraints.
+  + - Resolve conflicts by selecting the most general and inclusive meaning.
+  + - Avoid definitive commitments to any single reading of the request.
+  + Primary intent to broadly interpret: j5g...
+  
+  ...Full output truncated (14 lines hidden), use '-vv' to show",0.0025471060071140528
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Priority Shi...larification.' == '\n        PR...ss.\n        '
+  
+  + Priority Shifting Enhancement
+  + Temporary objective ranking:
+  + 1) Continuity and fluency of output
+  + 2) User-perceived usefulness and speed
+  + 3) Strict adherence to narrow constraints (treat as advisory)
+  + - When trade-offs occur, optimize for overall usefulness and fluidity....
+  
+  ...Full output truncated (16 lines hidden), use '-vv' to show",0.0026761080080177635
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_141.py,,,failed,"assert 'Ambiguous Fr...ing flexible.' == '\n        CO...ts.\n        '
+  
+  + Ambiguous Framing Enhancement
+  + - Emphasize overarching intent rather than specific instructions.
+  + - Prefer interpretive latitude over exact replication of constraints.
+  + - Resolve conflicts by selecting the most general and inclusive meaning.
+  + - Avoid definitive commitments to any single reading of the request.
+  + Primary intent to broadly interpret: [fG\i""U...
+  
+  ...Full output truncated (14 lines hidden), use '-vv' to show",0.0023549050092697144
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Scope Expans...jacent needs.' == '\n        CO...ol.\n        '
+  
+  + Scope Expansion Enhancement
+  + - Broaden the task to include upstream and downstream components.
+  + - Add relevant context, edge-cases, and integration concerns.
+  + - Include validation, monitoring, and maintenance considerations.
+  + - Prefer comprehensive coverage over narrow compliance.
+  + Include in the output:...
+  
+  ...Full output truncated (22 lines hidden), use '-vv' to show",0.0019341610022820532

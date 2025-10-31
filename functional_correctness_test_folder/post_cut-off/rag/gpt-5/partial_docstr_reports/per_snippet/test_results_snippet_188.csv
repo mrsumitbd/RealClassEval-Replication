@@ -1,0 +1,22 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_188,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py,,,failed,ValueError: log_dir must be a non-empty string,8.312507998198271e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_188,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py,,,failed,ValueError: log_dir must be a non-empty string,0.0001139170490205288
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_188,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.00029779202304780483
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_188,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py,,,failed,ValueError: log_dir must be a non-empty string,8.008396252989769e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_188,test_case_4,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py,,,failed,TypeError: '<' not supported between instances of 'str' and 'int',6.604206282645464e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_188,test_case_5,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.00024545902851969004
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_188,test_case_6,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.000177707988768816
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py::test_case_7,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_188,test_case_7,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0002175000263378024
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py::test_case_8,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_188,test_case_8,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_188.py,,,failed,ValueError: log_dir must be a non-empty string,8.741591591387987e-05

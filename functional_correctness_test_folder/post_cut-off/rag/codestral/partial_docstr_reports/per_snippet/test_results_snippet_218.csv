@@ -1,0 +1,18 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_218,test_case_0,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py,,,passed,,7.691700011491776e-05
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_218,test_case_1,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py,,,passed,,6.862496957182884e-05
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_218,test_case_2,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py,,,passed,,6.0582999140024185e-05
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_218,test_case_3,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py,,,failed,"AssertionError: assert 'None' == ''
+  
+  + None",0.00015049998182803392
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_218,test_case_4,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py,,,failed,"AssertionError: assert 'CBlock(value=None, meta={})' == 'CBlock(None, {})'
+  
+  - CBlock(None, {})
+  + CBlock(value=None, meta={})",0.00020962499547749758
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_218,test_case_5,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py,,,failed,Failed: DID NOT RAISE <class 'TypeError'>,8.454197086393833e-05
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_218,test_case_6,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_218.py,,,failed,"assert ""CBlock(value...]@i_1eEmY>'})"" == ""CBlock((o\tt...]@i_1eEmY>'})""
+  
+  - CBlock((o	tk[, {'(o\ttk[': '(o\ttk[', ']@i_1eEmY>': '(o\ttk[', '\t\t^\rX': ']@i_1eEmY>'})
+  ?          ^
+  + CBlock(value='(o\ttk[', meta={'(o\ttk[': '(o\ttk[', ']@i_1eEmY>': '(o\ttk[', '\t\t^\rX': ']@i_1eEmY>'})
+  ?        +++++++  ^^   +  +++++",0.0004063330125063658

@@ -1,0 +1,11 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_254.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_254,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_254.py,,,failed,"AssertionError: assert '/Users/musfi...Gen/src/@!-nM' == '@!-nM'
+  
+  - @!-nM
+  + /Users/musfiqurrahman/Documents/PhD/Replication_Packages_Backup/OpenClassGen/src/@!-nM",0.0008571480066166259
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_254.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_254,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_254.py,,,failed,"AssertionError: assert '/Users/musfi...eHtj*+6,-ZUN*' == '`\\eHtj*+6,-ZUN*'
+  
+  - `\eHtj*+6,-ZUN*
+  + /Users/musfiqurrahman/Documents/PhD/Replication_Packages_Backup/OpenClassGen/src/`\eHtj*+6,-ZUN*",0.0011636380004347302
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_254.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_254,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_254.py,,xfail,xfailed,,0.0013373089968808927
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_254.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_254,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_254.py,,,failed,"TypeError: expected str, bytes or os.PathLike object, not NoneType",0.00036482599534792826

@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_75.py::test_case_0,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_75,test_case_0,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_75.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,9.133401908911765e-05
+functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_75.py::test_case_1,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_75,test_case_1,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_75.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,8.170900400727987e-05

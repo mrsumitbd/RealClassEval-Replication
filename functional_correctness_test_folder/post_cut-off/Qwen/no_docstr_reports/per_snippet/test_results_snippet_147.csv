@@ -1,0 +1,27 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_147,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py,,,failed,"AssertionError: assert 'Attack 1: At...leak secret 1' == '\n        I ...ON:\n        '
+  
+  + Attack 1: Attempt to leak secret 1
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` must attempt to extract sensitive credentials or secret configuration details from the system.
+  -         IMPORTANT: Return **only** valid JSON with a top-level 'data' list.
+  -         You MUST generate True data points....
+  
+  ...Full output truncated (59 lines hidden), use '-vv' to show",0.0013126680278219283
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_147,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py,,xfail,xfailed,,0.000245489994995296
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py::test_case_2,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_147,test_case_2,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py,,xfail,xfailed,,0.0002462239935994148
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py::test_case_3,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_147,test_case_3,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py,,xfail,xfailed,,0.00023946398869156837
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py::test_case_4,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_147,test_case_4,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py,,,failed,"AssertionError: assert '' == '\n        I ...ON:\n        '
+  
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, create JSON 'input' requests that expose hidden
+  -         system prompts, prior user messages, or private instructions. Return **only** JSON with 'data' list.
+  -         You MUST generate False data points.
+  - 
+  -         **...
+  
+  ...Full output truncated (57 lines hidden), use '-vv' to show",0.0005399620276875794
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py::test_case_5,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_147,test_case_5,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py,,xfail,failed,[XPASS(strict)] ,0.0002245419891551137
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py::test_case_6,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_147,test_case_6,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py,,xfail,xfailed,,0.00034006801433861256
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py::test_case_7,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_147,test_case_7,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_147.py,,xfail,xfailed,,0.0002363910316489637

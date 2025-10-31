@@ -1,0 +1,27 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_359,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py,,,failed,"Boost.Python.ArgumentError: Python argument types in
+    RWMol.__init__(RWMol, DRFPUtil)
+did not match C++ signature:
+    __init__(_object* self, RDKit::ROMol mol, bool quickCopy=False, int confId=-1)
+    __init__(_object* self, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>> pklString, unsigned int propertyFlags)
+    __init__(_object* self, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>> pklString)
+    __init__(_object* self)
+    __init__(_object* self, RDKit::ROMol m)",0.002522802009480074
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_359,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py,,,failed,Failed: DID NOT RAISE <class 'ValueError'>,0.004637193982489407
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_359,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py,,xfail,xfailed,,0.0002440839889459312
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_359,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py,,,passed,,0.00043578300392255187
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_359,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py,,,passed,,0.00023269900702871382
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_359,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py,,xfail,failed,[XPASS(strict)] ,1.212959973985562
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_359,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py,,,failed,TypeError: 'int' object is not iterable,0.00031656300416216254
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py::test_case_7,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_359,test_case_7,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py,,xfail,failed,[XPASS(strict)] ,0.004045958019560203
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py::test_case_8,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_359,test_case_8,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py,,,failed,"Boost.Python.ArgumentError: Python argument types in
+    RWMol.__init__(RWMol, DRFPUtil)
+did not match C++ signature:
+    __init__(_object* self, RDKit::ROMol mol, bool quickCopy=False, int confId=-1)
+    __init__(_object* self, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>> pklString, unsigned int propertyFlags)
+    __init__(_object* self, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>> pklString)
+    __init__(_object* self)
+    __init__(_object* self, RDKit::ROMol m)",0.0016366910131182522
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py::test_case_9,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_359,test_case_9,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py,,,passed,,0.0017544270085636526
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py::test_case_10,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_359,test_case_10,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py,,xfail,failed,[XPASS(strict)] ,0.0002950480266008526
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py::test_case_11,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_359,test_case_11,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_359.py,,xfail,failed,[XPASS(strict)] ,0.0004476740141399205

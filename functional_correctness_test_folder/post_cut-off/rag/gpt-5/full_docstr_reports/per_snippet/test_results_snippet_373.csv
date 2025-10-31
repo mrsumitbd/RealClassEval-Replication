@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_373.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_373,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_373.py,,,failed,RuntimeError: duckdb is required to run the TPC data generator but could not be imported.,0.0006590000120922923

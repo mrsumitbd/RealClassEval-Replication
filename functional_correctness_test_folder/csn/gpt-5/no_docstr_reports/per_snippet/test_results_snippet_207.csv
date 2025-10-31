@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_207.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_207,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_207.py,,,failed,RuntimeError: No content loaded. Call dump() first.,0.00010354199912399054
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_207.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_207,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_207.py,,,failed,TypeError: Unsupported content type for dump,0.00025058299070224166

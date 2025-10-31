@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_86.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_86,test_case_0,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_86.py,,,failed,AttributeError: module 'snippet_86' has no attribute 'TYPE_CHECKING',0.00013070899876765907

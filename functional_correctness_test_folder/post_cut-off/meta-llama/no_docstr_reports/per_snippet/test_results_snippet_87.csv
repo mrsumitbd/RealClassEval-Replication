@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_87.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_87,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_87.py,,,failed,KeyError: 'cls',0.00044124899432063103
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_87.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_87,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_87.py,,,passed,,0.00021945699700154364

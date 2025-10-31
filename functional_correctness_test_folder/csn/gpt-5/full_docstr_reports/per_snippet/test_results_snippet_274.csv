@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_274.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_274,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_274.py,,,failed,AttributeError: type object 'BasePermission' has no attribute 'message',0.00011174999963259324
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_274.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_274,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_274.py,,,failed,AttributeError: type object 'BasePermission' has no attribute 'message',0.00025187500432366505

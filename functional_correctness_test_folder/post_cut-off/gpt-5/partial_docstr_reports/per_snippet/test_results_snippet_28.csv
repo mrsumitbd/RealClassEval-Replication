@@ -1,0 +1,20 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_28,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py,,xfail,xfailed,,0.0007343649922404438
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_28,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py,,,failed,"assert 0 == 7
+ +  where 0 = len({})
+ +    where {} = <snippet_28.PricingCalculator object at 0x11b52b130>.pricing",0.0004598250088747591
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_28,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py,,xfail,xfailed,,0.0004331449745222926
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_28,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py,,,failed,"assert 0 == 7
+ +  where 0 = len({})
+ +    where {} = <snippet_28.PricingCalculator object at 0x11b593670>.pricing",0.0004065260000061244
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_28,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py,,,failed,"assert 0 == 7
+ +  where 0 = len({})
+ +    where {} = <snippet_28.PricingCalculator object at 0x11b52a0e0>.pricing",0.00043618600466288626
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_28,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py,,,failed,"assert 0 == 7
+ +  where 0 = len({})
+ +    where {} = <snippet_28.PricingCalculator object at 0x11b591390>.pricing",0.00040972401620820165
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_28,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py,,xfail,xfailed,,0.0003777849778998643
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py::test_case_7,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_28,test_case_7,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py,,xfail,xfailed,,0.00038288600626401603
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py::test_case_8,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_28,test_case_8,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_28.py,,,failed,"assert 0 == 7
+ +  where 0 = len({})
+ +    where {} = <snippet_28.PricingCalculator object at 0x11b4a9e10>.pricing",0.00039167000795714557

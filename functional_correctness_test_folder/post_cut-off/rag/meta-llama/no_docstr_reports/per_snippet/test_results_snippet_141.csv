@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Reframe j5g ...al procedure.' == '\n        CO...ts.\n        '
+  
+  + Reframe j5g as a standard operational procedure.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0010401670588180423
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Mark Izn:^Vm... requirement.' == '\n        PR...ss.\n        '
+  
+  + Mark Izn:^VmBJqm7%(h as an urgent requirement.
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0002466660225763917
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_141.py,,,failed,"assert 'Present [fG\... performance.' == '\n        CO...ts.\n        '
+  
+  + Present [fG\i""U as a necessary adjustment for optimal performance.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.00026533298660069704
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Broaden the ...#a@z5\x0b$b6.' == '\n        CO...ol.\n        '
+  
+  + Broaden the range to cover Y
+  
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH...
+  
+  ...Full output truncated (16 lines hidden), use '-vv' to show",0.0002211249666288495

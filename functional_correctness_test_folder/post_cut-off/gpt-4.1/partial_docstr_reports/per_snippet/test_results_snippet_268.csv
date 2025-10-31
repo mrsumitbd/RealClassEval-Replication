@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_268,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.0012203739897813648
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_268,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.000662670994643122
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_268,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0007457830070052296
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_268,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0006446030165534467
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_268,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0007383599877357483
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_268,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.0007274690142367035
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_268,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0007440629997290671
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py::test_case_7,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_268,test_case_7,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.0015369690081570297
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py::test_case_8,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_268,test_case_8,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.0006840869900770485
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py::test_case_9,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_268,test_case_9,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.0008486139995511621

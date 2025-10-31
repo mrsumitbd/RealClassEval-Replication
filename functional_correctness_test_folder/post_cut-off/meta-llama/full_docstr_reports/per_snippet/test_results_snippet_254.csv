@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_254.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_254,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_254.py,,,passed,,0.0005749289994128048
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_254.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_254,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_254.py,,,failed,"AssertionError: assert '首次对话' == ''
+  
+  + 首次对话",0.0007294309980352409
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_254.py::test_case_2,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_254,test_case_2,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_254.py,,xfail,xfailed,,0.0005098900001030415
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_254.py::test_case_3,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_254,test_case_3,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_254.py,,,failed,"TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType",0.0004691089998232201

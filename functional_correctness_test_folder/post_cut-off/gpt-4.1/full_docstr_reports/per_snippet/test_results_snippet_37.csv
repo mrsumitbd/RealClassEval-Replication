@@ -1,0 +1,11 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🐢 Very Slow' == '🐌 Slow'
+  
+  - 🐌 Slow
+  + 🐢 Very Slow",0.0006101460021454841
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_37.py,,,passed,,0.0005606230042758398
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_37.py,,xfail,xfailed,,0.00044293099927017465
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_37.py,,,failed,"AssertionError: assert 'Moderate' == 'Slow'
+  
+  - Slow
+  + Moderate",0.0007897230025264435

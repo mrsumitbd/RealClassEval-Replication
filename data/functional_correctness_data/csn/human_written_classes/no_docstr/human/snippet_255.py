@@ -1,0 +1,58 @@
+class Operation:
+    ASSIGN = 'assign'
+    CHANGE_LANGUAGE = 'change_language'
+    CLICK_UI_AUTOMATOR_HELPER = 'click_ui_automator_helper'
+    DEFAULT = 'default'
+    DRAG = 'drag'
+    DUMP = 'dump'
+    DUMP_UI_AUTOMATOR_HELPER = 'dum_ui_automator_helper'
+    FLING_BACKWARD = 'fling_backward'
+    FLING_FORWARD = 'fling_forward'
+    FLING_TO_BEGINNING = 'fling_to_beginning'
+    FLING_TO_END = 'fling_to_end'
+    TEST = 'test'
+    TEST_UI_AUTOMATOR_HELPER = 'test_ui_automator_helper'
+    TEST_TEXT = 'test_text'
+    TOUCH_VIEW = 'touch_view'
+    TOUCH_VIEW_UI_AUTOMATOR_HELPER = 'touch_view_ui_automator_helper'
+    TOUCH_POINT = 'touch_point'
+    LONG_TOUCH_POINT = 'long_touch_point'
+    LONG_TOUCH_VIEW = 'long_touch_view'
+    LONG_TOUCH_VIEW_UI_AUTOMATOR_HELPER = 'long_touch_view_ui_automator_helper'
+    LONG_PRESS = 'long_press'
+    OPEN_NOTIFICATION = 'open_notification'
+    OPEN_QUICK_SETTINGS = 'open_quick_settings'
+    TYPE = 'type'
+    PRESS = 'press'
+    PRESS_UI_AUTOMATOR_HELPER = 'press_ui_automator_helper'
+    PRESS_BACK = 'press_back'
+    PRESS_BACK_UI_AUTOMATOR_HELPER = 'press_back_ui_automator_helper'
+    PRESS_HOME = 'press_home'
+    PRESS_HOME_UI_AUTOMATOR_HELPER = 'press_home_ui_automator_helper'
+    PRESS_RECENT_APPS = 'press_recent_apps'
+    PRESS_RECENT_APPS_UI_AUTOMATOR_HELPER = 'press_recent_apps_ui_automator_helper'
+    SAY_TEXT = 'say_text'
+    SET_TEXT = 'set_text'
+    SET_TEXT_UI_AUTOMATOR_HELPER = 'set_text_ui_automator_helper'
+    SNAPSHOT = 'snapshot'
+    SNAPSHOT_UI_AUTOMATOR_HELPER = 'snapshot_ui_automator_helper'
+    START_ACTIVITY = 'start_activity'
+    START_ACTIVITY_UI_AUTOMATOR_HELPER = 'start_activity_ui_automator__helper'
+    SLEEP = 'sleep'
+    SLEEP_UI_AUTOMATOR_HELPER = 'sleep_ui_automator_helper'
+    SWIPE_UI_AUTOMATOR_HELPER = 'swipe_ui_automator_helper'
+    TRAVERSE = 'traverse'
+    TRAVERSE_UI_AUTOMATOR_HELPER = 'traverse_ui_automator_helper'
+    VIEW_SNAPSHOT = 'view_snapshot'
+    WAIT_FOR_IDLE_UI_AUTOMATOR_HELPER = 'wait_for_idle_ui_automator_helper'
+    WAIT_FOR_WINDOW_UPDATE_UI_AUTOMATOR_HELPER = 'wait_for_window_update_ui_automator_helper'
+    WAKE = 'wake'
+    COMMAND_NAME_OPERATION_MAP = {'flingBackward': FLING_BACKWARD, 'flingForward': FLING_FORWARD, 'flingToBeginning': FLING_TO_BEGINNING, 'flingToEnd': FLING_TO_END, 'openNotification': OPEN_NOTIFICATION, 'openQuickSettings': OPEN_QUICK_SETTINGS}
+
+    @staticmethod
+    def fromCommandName(commandName):
+        return Operation.COMMAND_NAME_OPERATION_MAP[commandName]
+
+    @staticmethod
+    def toCommandName(operation):
+        return next((cmd for cmd, op in list(Operation.COMMAND_NAME_OPERATION_MAP.items()) if op == operation), None)

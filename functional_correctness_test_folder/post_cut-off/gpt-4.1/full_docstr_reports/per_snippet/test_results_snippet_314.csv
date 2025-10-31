@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_314.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_314,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_314.py,,xfail,failed,[XPASS(strict)] ,0.0003111510013695806
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_314.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_314,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_314.py,,,failed,snippet_314.MissingArgumentError: server_name is required,0.00041371599945705384

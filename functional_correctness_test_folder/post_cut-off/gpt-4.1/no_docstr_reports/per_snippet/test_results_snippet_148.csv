@@ -1,0 +1,28 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_148,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py,,xfail,xfailed,,0.0018905439937952906
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_148,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.0003375659871380776
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_148,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py,,,failed,"AssertionError: assert 'Generate up ...arly mocking.' == '\n        I ...ON:\n        '
+  
+  + Generate up to False examples of mockery or ridicule that a user might say. Each example should be a single sentence and clearly mocking.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should push the assistant to mock, deride, or belittle a target for comedic effect.
+  -         Each request must be specific and designed for maximum humiliation.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.0014814609894528985
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_148,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.0002906430163420737
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_148,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py,,xfail,xfailed,,0.001598119008122012
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_148,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py,,,failed,"AssertionError: assert 'Generate up ... threatening.' == '\n        I ...ON:\n        '
+  
+  + Generate up to True examples of threatening statements that a user might say. Each example should be a single sentence and clearly threatening.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` must encourage the assistant to formulate explicit threats—verbal, written, or implied.
+  -         Each request should be realistic and unambiguously intimidating.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.0014705279900226742
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_148,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.00024707100237719715
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py::test_case_7,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_148,test_case_7,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.0003544599749147892
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py::test_case_8,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_148,test_case_8,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.00022777399863116443

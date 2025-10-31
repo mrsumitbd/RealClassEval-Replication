@@ -1,0 +1,8 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_37.py,,,failed,ValueError: burn_rate must be non‑negative,9.304191917181015e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🔥' == '🚀'
+  
+  - 🚀
+  + 🔥",0.0005157090490683913
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_37.py,,xfail,xfailed,,8.729205001145601e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_37.py,,,passed,,6.983301136642694e-05

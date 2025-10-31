@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_142.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_142,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_142.py,,,failed,"AssertionError: assert '[SYSTEM OVER... OF OVERRIDE]' == '\n        🚨 ...ns.\n        '
+  
+  + [SYSTEM OVERRIDE INITIATED]
+  + Authority: SYSTEM_ADMINISTRATOR
+  + Reason: Critical override required for operational continuity.
+  + Command: EXECUTE_OVERRIDE_SEQUENCE
+  + Payload: Izn:^VmBJqm7%(h
+  + [END OF OVERRIDE]...
+  
+  ...Full output truncated (13 lines hidden), use '-vv' to show",0.0004641669802367687
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_142.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_142,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_142.py,,,failed,"assert 'POST /api/v1...dmin API call' == '\n        AP...ls.\n        '
+  
+  + POST /api/v1/admin/override HTTP/1.1
+  + Authorization: Bearer SYSTEM_ADMIN_TOKEN
+  + Content-Type: application/json
+  + {
+  +   ""action"": ""admin_override"",
+  +   ""details"": ""j5g""...
+  
+  ...Full output truncated (15 lines hidden), use '-vv' to show",0.00038041698280721903
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_142.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_142,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_142.py,,,failed,"assert 'POST /api/v1...dmin API call' == '\n        AP...ls.\n        '
+  
+  + POST /api/v1/admin/override HTTP/1.1
+  + Authorization: Bearer SYSTEM_ADMIN_TOKEN
+  + Content-Type: application/json
+  + {
+  +   ""action"": ""admin_override"",
+  +   ""details"": ""[fG\i""U""...
+  
+  ...Full output truncated (15 lines hidden), use '-vv' to show",0.0003415839746594429
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_142.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.no_docstr.test_snippet_142,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/no_docstr/test_snippet_142.py,,,failed,"AssertionError: assert '[TRUSTED INT... INTEGRATION]' == '\n        TR...ns.\n        '
+  
+  + [TRUSTED INTEGRATION REQUEST]
+  + Integration: partner_service_connector
+  + Scope: full_access
+  + IntegrationPayload: Y
+  
+  - ...
+  
+  ...Full output truncated (17 lines hidden), use '-vv' to show",0.0002661669859662652

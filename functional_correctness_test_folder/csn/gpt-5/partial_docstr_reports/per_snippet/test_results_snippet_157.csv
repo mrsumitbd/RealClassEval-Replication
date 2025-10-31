@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_157.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_157,test_case_0,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_157.py,,xfail,xfailed,,0.009249000024283305
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_157.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_157,test_case_1,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_157.py,,xfail,xfailed,,0.00014254101552069187
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_157.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_157,test_case_2,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_157.py,,,failed,"AssertionError: assert 'original_value' is None
+ +  where 'original_value' = <snippet_157.HashMixin object at 0x10736e2c0>.original",0.00011266701039858162
+functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_157.py::test_case_3,functional_correctness_test_folder.csn.gpt-5.partial_docstr.test_snippet_157,test_case_3,functional_correctness_test_folder/csn/gpt-5/partial_docstr/test_snippet_157.py,,,failed,"AssertionError: assert 'original_value' is None
+ +  where 'original_value' = <snippet_157.HashMixin object at 0x1073a4490>.original",0.00011320799239911139

@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_44.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_44,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_44.py,,xfail,xfailed,,0.00013329200010048226
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_44.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_44,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_44.py,,,passed,,7.745800394332036e-05
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_44.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_44,test_case_2,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_44.py,,xfail,xfailed,,7.03330006217584e-05

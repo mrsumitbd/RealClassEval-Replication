@@ -1,0 +1,19 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_27.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_27,test_case_0,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_27.py,,,passed,,0.003949671983718872
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_27.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_27,test_case_1,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_27.py,,,failed,"AssertionError: assert 'builtins.NoneType' == 'claude_monit...mezoneHandler'
+  
+  - claude_monitor.utils.time_utils.TimezoneHandler
+  + builtins.NoneType",0.000953035952989012
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_27.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_27,test_case_2,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_27.py,,,failed,"AssertionError: assert 'builtins.NoneType' == 'claude_monit...mezoneHandler'
+  
+  - claude_monitor.utils.time_utils.TimezoneHandler
+  + builtins.NoneType",0.00048202095786109567
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_27.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_27,test_case_3,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_27.py,,,failed,"AssertionError: assert 'builtins.NoneType' == 'claude_monit...mezoneHandler'
+  
+  - claude_monitor.utils.time_utils.TimezoneHandler
+  + builtins.NoneType",0.0008684179629199207
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_27.py::test_case_4,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_27,test_case_4,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_27.py,,,passed,,0.00024003098951652646
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_27.py::test_case_5,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_27,test_case_5,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_27.py,,,failed,"AssertionError: assert 'builtins.NoneType' == 'claude_monit...mezoneHandler'
+  
+  - claude_monitor.utils.time_utils.TimezoneHandler
+  + builtins.NoneType",0.00047328200889751315

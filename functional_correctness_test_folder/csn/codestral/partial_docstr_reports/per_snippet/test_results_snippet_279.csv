@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_279.py::test_case_0,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_279,test_case_0,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_279.py,,,passed,,7.866701344028115e-05
+functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_279.py::test_case_1,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_279,test_case_1,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_279.py,,,failed,TypeError: 'int' object is not callable,9.324998245574534e-05

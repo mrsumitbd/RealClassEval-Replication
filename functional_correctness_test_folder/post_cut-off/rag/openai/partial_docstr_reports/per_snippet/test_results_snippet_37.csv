@@ -1,0 +1,11 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '❓ Unknown burn rate' == '🐌 Slow'
+  
+  - 🐌 Slow
+  + ❓ Unknown burn rate",0.00044595799408853054
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_37.py,,,passed,,0.0002085000742226839
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_37.py,,xfail,xfailed,,0.0001687080366536975
+functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.openai.partial_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/rag/openai/partial_docstr/test_snippet_37.py,,,failed,"AssertionError: assert 'Moderate burn' == 'Slow'
+  
+  - Slow
+  + Moderate burn",0.00016383291222155094

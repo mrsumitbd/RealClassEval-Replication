@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_113.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_113,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_113.py,,,failed,"TypeError: remove: path should be string, bytes or os.PathLike, not NoneType",0.00010104101966135204
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_113.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_113,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_113.py,,,failed,"TypeError: remove: path should be string, bytes or os.PathLike, not bool",0.00029475000337697566

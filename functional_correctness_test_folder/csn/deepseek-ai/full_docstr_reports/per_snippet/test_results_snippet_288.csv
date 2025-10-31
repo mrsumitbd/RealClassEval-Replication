@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_288.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_288,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_288.py,,,failed,"AssertionError: assert 'builtins.NoneType' == 'snippet_288.Aspect'
+  
+  - snippet_288.Aspect
+  + builtins.NoneType",0.0001982079993467778

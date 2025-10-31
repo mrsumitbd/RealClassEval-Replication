@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/full_docstr/test_snippet_113.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.full_docstr.test_snippet_113,test_case_0,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/full_docstr/test_snippet_113.py,,,failed,"AssertionError: assert None == './data'
+ +  where None = BiomniConfig(llm=None, timeout_seconds=None, path=None).path",0.00017637491691857576
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/full_docstr/test_snippet_113.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.full_docstr.test_snippet_113,test_case_1,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/full_docstr/test_snippet_113.py,,,failed,TypeError: BiomniConfig.__init__() got an unexpected keyword argument 'base_url',8.195801638066769e-05

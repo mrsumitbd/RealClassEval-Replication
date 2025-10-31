@@ -1,0 +1,25 @@
+class FenwickNode:
+    '''Fenwick Tree node.'''
+
+    def __init__(self, parent, children, index=None):
+        '''Fenwick Tree node. Single parent and multiple children.
+        :param FenwickNode parent: a parent node
+        :param list(FenwickNode) children: a list of children nodes
+        :param int index: node label
+        '''
+        self.parent = parent
+        self.children = children if children is not None else []
+        self.index = index
+
+    def get_ancestors(self):
+        '''Returns a list of ancestors of the node. Ordered from the earliest.
+        :return: node's ancestors, ordered from most recent
+        :rtype: list(FenwickNode)
+        '''
+        ancestors = []
+        node = self.parent
+        while node is not None:
+            ancestors.append(node)
+            node = node.parent
+        ancestors.reverse()  # earliest (root) first
+        return ancestors

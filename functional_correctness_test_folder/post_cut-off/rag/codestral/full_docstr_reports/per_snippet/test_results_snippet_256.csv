@@ -1,0 +1,31 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_256.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.codestral.full_docstr.test_snippet_256,test_case_0,functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'financial':...ORECASE), ...} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 7 more items:
+  {'financial': re.compile('\\b(money|price|cost|budget|finance|account|transaction)\\b', re.IGNORECASE),
+   'legal': re.compile('\\b(law|legal|contract|lawyer|court|regulation)\\b', re.IGNORECASE),
+   'location': re.compile('\\b(location|place|city|country|address|geography)\\b', re.IGNORECASE),
+   'medical': re.compile('\\b(health|medical|doctor|hospital|disease|treatment)\\b', re.IGNORECASE),
+   'personal_info': re.compile('\\b(name|email|phone|address|contact)\\b', re.IGNORECASE),...
+  
+  ...Full output truncated (24 lines hidden), use '-vv' to show",0.0016326670302078128
+functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_256.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.codestral.full_docstr.test_snippet_256,test_case_1,functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'financial':...ORECASE), ...} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 7 more items:
+  {'financial': re.compile('\\b(money|price|cost|budget|finance|account|transaction)\\b', re.IGNORECASE),
+   'legal': re.compile('\\b(law|legal|contract|lawyer|court|regulation)\\b', re.IGNORECASE),
+   'location': re.compile('\\b(location|place|city|country|address|geography)\\b', re.IGNORECASE),
+   'medical': re.compile('\\b(health|medical|doctor|hospital|disease|treatment)\\b', re.IGNORECASE),
+   'personal_info': re.compile('\\b(name|email|phone|address|contact)\\b', re.IGNORECASE),...
+  
+  ...Full output truncated (24 lines hidden), use '-vv' to show",0.0004297499544918537
+functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_256.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.codestral.full_docstr.test_snippet_256,test_case_2,functional_correctness_test_folder/post_cut-off/rag/codestral/full_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'financial':...ORECASE), ...} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 7 more items:
+  {'financial': re.compile('\\b(money|price|cost|budget|finance|account|transaction)\\b', re.IGNORECASE),
+   'legal': re.compile('\\b(law|legal|contract|lawyer|court|regulation)\\b', re.IGNORECASE),
+   'location': re.compile('\\b(location|place|city|country|address|geography)\\b', re.IGNORECASE),
+   'medical': re.compile('\\b(health|medical|doctor|hospital|disease|treatment)\\b', re.IGNORECASE),
+   'personal_info': re.compile('\\b(name|email|phone|address|contact)\\b', re.IGNORECASE),...
+  
+  ...Full output truncated (24 lines hidden), use '-vv' to show",0.0005420830566436052

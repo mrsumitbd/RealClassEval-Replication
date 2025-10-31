@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_170.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_170,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_170.py,,,failed,sqlite3.OperationalError: no such table: metrics,0.0033746249973773956
+functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_170.py::test_case_1,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_170,test_case_1,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_170.py,,,failed,sqlite3.OperationalError: no such table: metrics,0.0002506249875295907

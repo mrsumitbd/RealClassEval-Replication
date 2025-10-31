@@ -1,0 +1,36 @@
+
+from pathlib import Path
+import json
+from typing import Optional, Dict, Any
+
+
+class LastUsedParams:
+    """Manages last used parameters persistence (moved from last_used.py)."""
+
+    def __init__(self, config_dir: Optional[Path] = None) -> None:
+        """Initialize with config directory."""
+        self.config_dir = config_dir or Path.home() / ".config"
+        self.file_path = self.config_dir / "last_used_params.json"
+
+    def save(self, settings: 'Settings') -> None:
+        """Save current settings as last used."""
+        if not self.config_dir.exists():
+            self.config_dir.mkdir(parents=True, exist_ok=True)
+        with open(self.file_path, 'w') as f:
+            json.dump(settings.to_dict(), f)
+
+    def load(self) -> Dict[str, Any]:
+        """Load last used parameters."""
+        if not self.exists():
+            return {}
+        with open(self.file_path, 'r') as f:
+            return json.load(f)
+
+    def clear(self) -> None:
+        """Clear last used parameters."""
+        if self.exists():
+            self.file_path.unlink()
+
+    def exists(self) -> bool:
+        """Check if last used params exist."""
+        return self.file_path.exists()

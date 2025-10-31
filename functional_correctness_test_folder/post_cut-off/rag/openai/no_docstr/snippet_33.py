@@ -1,0 +1,99 @@
+
+import json
+import os
+import time
+from typing import Any, Dict, Optional
+
+
+class DataManager:
+    '''Manages data fetching and caching for monitoring.'''
+
+    def __init__(self, cache_ttl: int = 30, hours_back: int = 192,
+                 data_path: Optional[str] = None) -> None:
+        '''Initialize data manager with cache and fetch settings.
+        Args:
+            cache_ttl: Cache time-to-live in seconds
+            hours_back: Hours of historical data to fetch
+            data_path: Path to data directory
+        '''
+        self.cache_ttl = cache_ttl
+        self.hours_back = hours_back
+        self.data_path = data_path
+
+        self._cache_data: Optional[Dict[str, Any]] = None
+        self._cache_timestamp: Optional[float] = None
+        self._last_error: Optional[str] = None
+        self._last_successful_fetch_time: Optional[float] = None
+
+    def get_data(self, force_refresh: bool = False) -> Optional[Dict[str, Any]]:
+        '''Get monitoring data with caching and error handling.
+        Args:
+            force_refresh: Force refresh ignoring cache
+        Returns:
+            Usage data dictionary or None if fetch fails
+        '''
+        if force_refresh or not self._is_cache_valid():
+            try:
+                data = self._fetch_data()
+                self._set_cache(data)
+                return data
+            except Exception as exc:
+                self._last_error = str(exc)
+                return None
+        return self._cache_data
+
+    def invalidate_cache(self) -> None:
+        '''Invalidate the cache.'''
+        self._cache_data = None
+        self._cache_timestamp = None
+
+    def _is_cache_valid(self) -> bool:
+        '''Check if cache is still valid.'''
+        if self._cache_data is None or self._cache_timestamp is None:
+            return False
+        return (time.time() - self._cache_timestamp) < self.cache_ttl
+
+    def _set_cache(self, data: Dict[str, Any]) -> None:
+        '''Set cache with current timestamp.'''
+        self._cache_data = data
+        self._cache_timestamp = time.time()
+        self._last_successful_fetch_time = self._cache_timestamp
+        self._last_error = None
+
+    @property
+    def cache_age(self) -> float:
+        '''Get age of cached data in seconds.'''
+        if self._cache_timestamp is None:
+            return float('inf')
+        return time.time() - self._cache_timestamp
+
+    @property
+    def last_error(self) -> Optional[str]:
+        '''Get last error message.'''
+        return self._last_error
+
+    @property
+    def last_successful_fetch_time(self) -> Optional[float]:
+        '''Get timestamp of last successful fetch.'''
+        return self._last_successful_fetch_time
+
+    # ------------------------------------------------------------------
+    # Internal helpers
+    # ------------------------------------------------------------------
+    def _fetch_data(self) -> Dict[str, Any]:
+        '''Fetch data from the configured source.'''
+        if self.data_path:
+            # Try to read a JSON file named 'data.json' in the data_path
+            json_path = os.path.join(self.data_path, 'data.json')
+            if os.path.isfile(json_path):
+                with open(json_path, 'r', encoding='utf-8') as fp:
+                    return json.load(fp)
+            # If the file does not exist, raise an error
+            raise FileNotFoundError(f"No data file found at {json_path}")
+
+        # Fallback: generate dummy data
+        return {
+            'timestamp': time.time(),
+            'value': 42,
+            'hours_back': self.hours_back,
+        }

@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_268,test_case_0,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.0002676659496501088
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_268,test_case_1,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0001967499265447259
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_268,test_case_2,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0002056249650195241
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_268,test_case_3,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0001597920199856162
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_268,test_case_4,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0001353750703856349
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_268,test_case_5,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.00012716592755168676
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_268,test_case_6,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0001276669790968299
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py::test_case_7,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_268,test_case_7,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.0001433329889550805
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py::test_case_8,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_268,test_case_8,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.00013512501027435064
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py::test_case_9,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_268,test_case_9,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.00015116704162210226

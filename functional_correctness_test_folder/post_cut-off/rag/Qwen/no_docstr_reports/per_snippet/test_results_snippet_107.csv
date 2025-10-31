@@ -1,0 +1,19 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_107,test_case_0,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py,,,failed,"AssertionError: assert 'Context(text..._count=False)' == 'Context(text..._index=False)'
+  
+  - Context(text='d%M@`Y8X35', token_count=False, start_index=False, end_index=False)
+  ?                            -------------------
+  + Context(text='d%M@`Y8X35', start_index=False, end_index=False, token_count=False)
+  ?                                                              +++++++++++++++++++",0.0009260419756174088
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_107,test_case_1,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py,,xfail,xfailed,,0.00035862496588379145
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_107,test_case_2,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py,,,failed,"AssertionError: assert 'Context(text..._count=False)' == 'd%M@`Y8X35'
+  
+  - d%M@`Y8X35
+  + Context(text='d%M@`Y8X35', start_index=False, end_index=False, token_count=False)",0.00019925006199628115
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_107,test_case_3,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py,,xfail,xfailed,,8.183310274034739e-05
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_107,test_case_4,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py,,xfail,failed,[XPASS(strict)] ,7.204199209809303e-05
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_107,test_case_5,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py,,,passed,,6.9458968937397e-05
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_107,test_case_6,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py,,,passed,,6.400002166628838e-05
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py::test_case_7,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_107,test_case_7,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py,,xfail,failed,[XPASS(strict)] ,0.0005096249515190721
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py::test_case_8,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_107,test_case_8,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py,,xfail,xfailed,,0.00011441600508987904
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py::test_case_9,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_107,test_case_9,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_107.py,,xfail,xfailed,,0.00031695805955678225

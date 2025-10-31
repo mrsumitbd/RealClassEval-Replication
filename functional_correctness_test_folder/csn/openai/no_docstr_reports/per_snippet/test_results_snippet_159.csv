@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_159.py::test_case_0,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_159,test_case_0,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_159.py,,,failed,AttributeError: 'Style' object has no attribute 'lines',9.383299038745463e-05
+functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_159.py::test_case_1,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_159,test_case_1,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_159.py,,,failed,TypeError: text must be a str or a list of str,9.308301378041506e-05

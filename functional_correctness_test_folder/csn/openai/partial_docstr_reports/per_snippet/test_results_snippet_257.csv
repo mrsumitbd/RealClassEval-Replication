@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_257.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_257,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_257.py,,xfail,xfailed,,8.808300481177866e-05
+functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_257.py::test_case_1,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_257,test_case_1,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_257.py,,,failed,ValueError: user_profile must contain a 'user_id' key.,8.212498505599797e-05

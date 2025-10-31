@@ -1,0 +1,50 @@
+class NunchakuIPAdapterLoader:
+    '''
+    Node for loading Nunchaku IP-Adapter pipelines.
+    .. warning::
+        This node will automatically download the IP-Adapter and associated CLIP models from Hugging Face.
+        Custom model paths are not supported for now.
+    '''
+    @classmethod
+    def INPUT_TYPES(s):
+        '''
+        Defines the input types and tooltips for the node.
+        Returns
+        -------
+        dict
+            A dictionary specifying the required inputs and their descriptions for the node interface.
+        '''
+        return {
+            "required": {
+                "model": (
+                    "NunchakuFluxDiT",
+                    {
+                        "tooltip": "The Nunchaku model to which the IP-Adapter will be attached. "
+                                   "It should be loaded with NunchakuFluxDiTLoader."
+                    }
+                )
+            }
+        }
+
+    def load(self, model):
+        '''
+        Load the IP-Adapter pipeline and attach it to the given model.
+        Parameters
+        ----------
+        model : object
+            The Nunchaku model to which the IP-Adapter will be attached.
+            It should be loaded with :class:`~comfyui_nunchaku.nodes.models.flux.NunchakuFluxDiTLoader`.
+        Returns
+        -------
+        tuple
+            The original model and the loaded IP-Adapter pipeline.
+        '''
+        # Import here to avoid circular imports if any
+        try:
+            from nunchaku.pipelines.ip_adapter import load_ip_adapter_pipeline
+        except ImportError:
+            raise ImportError("Could not import load_ip_adapter_pipeline from nunchaku.pipelines.ip_adapter. "
+                              "Please ensure nunchaku is installed.")
+
+        ip_adapter_pipeline = load_ip_adapter_pipeline(model)
+        return (model, ip_adapter_pipeline)

@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_159.py::test_case_0,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_159,test_case_0,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_159.py,,,failed,AttributeError: 'Style' object has no attribute 'lines',9.962500189431012e-05
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_159.py::test_case_1,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_159,test_case_1,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_159.py,,,failed,AttributeError: 'Style' object has no attribute 'lines',7.737500709481537e-05

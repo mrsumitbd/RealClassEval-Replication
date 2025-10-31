@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_285.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_285,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_285.py,,,failed,"AssertionError: assert '>L.IS' == '>L.is'
+  
+  - >L.is
+  + >L.IS",0.0007937920745462179
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_285.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_285,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_285.py,,,failed,"AssertionError: assert 'S4]HUI:~G#' == 's4]hUi:~g#'
+  
+  - s4]hUi:~g#
+  + S4]HUI:~G#",0.00022083299700170755
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_285.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_285,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_285.py,,,failed,AttributeError: 'int' object has no attribute 'strip',8.92499228939414e-05

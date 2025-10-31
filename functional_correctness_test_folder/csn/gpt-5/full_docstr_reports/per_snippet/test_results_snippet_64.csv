@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_64.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_64,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_64.py,,xfail,xfailed,,9.291600144933909e-05

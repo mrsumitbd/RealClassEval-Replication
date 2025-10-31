@@ -1,0 +1,31 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_256.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_256,test_case_0,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'farewell': ...ease\\b', ...} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 5 more items:
+  {'farewell': '\\b(goodbye|bye|see you)\\b',
+   'greeting': '\\b(hello|hi|hey)\\b',
+   'question': '\\b(what|how|why|when|where|who)\\b',
+   'request': '\\bplease\\b',
+   'tool_invocation': '\\buse the {tool_name}\\b'}...
+  
+  ...Full output truncated (22 lines hidden), use '-vv' to show",0.0004137499490752816
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_256.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_256,test_case_1,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'farewell': ...ease\\b', ...} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 5 more items:
+  {'farewell': '\\b(goodbye|bye|see you)\\b',
+   'greeting': '\\b(hello|hi|hey)\\b',
+   'question': '\\b(what|how|why|when|where|who)\\b',
+   'request': '\\bplease\\b',
+   'tool_invocation': '\\buse the {tool_name}\\b'}...
+  
+  ...Full output truncated (22 lines hidden), use '-vv' to show",0.00036916707176715136
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_256.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_256,test_case_2,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'farewell': ...ease\\b', ...} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 5 more items:
+  {'farewell': '\\b(goodbye|bye|see you)\\b',
+   'greeting': '\\b(hello|hi|hey)\\b',
+   'question': '\\b(what|how|why|when|where|who)\\b',
+   'request': '\\bplease\\b',
+   'tool_invocation': '\\buse the {tool_name}\\b'}...
+  
+  ...Full output truncated (22 lines hidden), use '-vv' to show",0.00030904205050319433

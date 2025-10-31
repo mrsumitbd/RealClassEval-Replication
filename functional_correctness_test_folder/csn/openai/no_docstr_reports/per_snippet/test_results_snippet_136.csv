@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_136.py::test_case_0,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_136,test_case_0,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_136.py,,,failed,AttributeError: 'TraceId' object has no attribute 'start_time',0.00011587500921450555
+functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_136.py::test_case_1,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_136,test_case_1,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_136.py,,,failed,AttributeError: 'TraceId' object has no attribute 'start_time',0.0001317080168519169

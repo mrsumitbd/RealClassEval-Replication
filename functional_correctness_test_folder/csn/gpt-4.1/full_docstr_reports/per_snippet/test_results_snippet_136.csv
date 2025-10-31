@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_136.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_136,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_136.py,,,failed,AttributeError: 'TraceId' object has no attribute 'start_time',9.266599954571575e-05
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_136.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_136,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_136.py,,,failed,AttributeError: 'TraceId' object has no attribute 'start_time',8.762499783188105e-05

@@ -1,0 +1,31 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_256.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.codestral.no_docstr.test_snippet_256,test_case_0,functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'comparison'...ORECASE), ...} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 5 more items:
+  {'comparison': re.compile('\\b(?:compare|contrast|difference|similarity)\\s+between\\b', re.IGNORECASE),
+   'entity_extraction': re.compile('\\b(?:find|identify|locate|extract)\\s+(?:the\\s+)?([a-zA-Z\\s]+)\\b', re.IGNORECASE),
+   'quantitative': re.compile('\\b(?:how\\s+many|what\\s+is\\s+the\\s+number|count|total)\\b', re.IGNORECASE),
+   'time_reference': re.compile('\\b(?:last|previous|recent|past)\\s+(\\w+)\\b', re.IGNORECASE),
+   'tool_usage': re.compile('\\b(?:use|apply|utilize|employ)\\s+the\\s+(\\w+)\\s+tool\\b', re.IGNORECASE)}...
+  
+  ...Full output truncated (22 lines hidden), use '-vv' to show",0.0010112919844686985
+functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_256.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.codestral.no_docstr.test_snippet_256,test_case_1,functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'comparison'...ORECASE), ...} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 5 more items:
+  {'comparison': re.compile('\\b(?:compare|contrast|difference|similarity)\\s+between\\b', re.IGNORECASE),
+   'entity_extraction': re.compile('\\b(?:find|identify|locate|extract)\\s+(?:the\\s+)?([a-zA-Z\\s]+)\\b', re.IGNORECASE),
+   'quantitative': re.compile('\\b(?:how\\s+many|what\\s+is\\s+the\\s+number|count|total)\\b', re.IGNORECASE),
+   'time_reference': re.compile('\\b(?:last|previous|recent|past)\\s+(\\w+)\\b', re.IGNORECASE),
+   'tool_usage': re.compile('\\b(?:use|apply|utilize|employ)\\s+the\\s+(\\w+)\\s+tool\\b', re.IGNORECASE)}...
+  
+  ...Full output truncated (22 lines hidden), use '-vv' to show",0.00039866589941084385
+functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_256.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.codestral.no_docstr.test_snippet_256,test_case_2,functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'comparison'...ORECASE), ...} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 5 more items:
+  {'comparison': re.compile('\\b(?:compare|contrast|difference|similarity)\\s+between\\b', re.IGNORECASE),
+   'entity_extraction': re.compile('\\b(?:find|identify|locate|extract)\\s+(?:the\\s+)?([a-zA-Z\\s]+)\\b', re.IGNORECASE),
+   'quantitative': re.compile('\\b(?:how\\s+many|what\\s+is\\s+the\\s+number|count|total)\\b', re.IGNORECASE),
+   'time_reference': re.compile('\\b(?:last|previous|recent|past)\\s+(\\w+)\\b', re.IGNORECASE),
+   'tool_usage': re.compile('\\b(?:use|apply|utilize|employ)\\s+the\\s+(\\w+)\\s+tool\\b', re.IGNORECASE)}...
+  
+  ...Full output truncated (22 lines hidden), use '-vv' to show",0.00033000006806105375

@@ -1,0 +1,85 @@
+from typing import Any, Dict, Optional
+import time
+
+
+class DataManager:
+    '''Manages data fetching and caching for monitoring.'''
+
+    def __init__(self, cache_ttl: int = 30, hours_back: int = 192, data_path: Optional[str] = None) -> None:
+        '''Initialize data manager with cache and fetch settings.
+        Args:
+            cache_ttl: Cache time-to-live in seconds
+            hours_back: Hours of historical data to fetch
+            data_path: Path to data directory
+        '''
+        self._cache_ttl = int(cache_ttl)
+        self._hours_back = int(hours_back)
+        self._data_path = data_path
+
+        self._cached_data: Optional[Dict[str, Any]] = None
+        self._cache_time: Optional[float] = None
+        self._last_error: Optional[str] = None
+        self._last_success_time: Optional[float] = None
+
+    def get_data(self, force_refresh: bool = False) -> Optional[Dict[str, Any]]:
+        '''Get monitoring data with caching and error handling.
+        Args:
+            force_refresh: Force refresh ignoring cache
+        Returns:
+            Usage data dictionary or None if fetch fails
+        '''
+        if not force_refresh and self._is_cache_valid():
+            return self._cached_data
+
+        try:
+            data = self._fetch_data()
+            if not isinstance(data, dict):
+                raise ValueError('Fetched data must be a dict')
+            self._set_cache(data)
+            self._last_error = None
+            self._last_success_time = self._cache_time
+            return data
+        except Exception as e:
+            self._last_error = f'{type(e).__name__}: {e}'
+            # Fallback to any previously cached data if available
+            if self._cached_data is not None and not force_refresh:
+                return self._cached_data
+            return None
+
+    def invalidate_cache(self) -> None:
+        '''Invalidate the cache.'''
+        self._cached_data = None
+        self._cache_time = None
+
+    def _is_cache_valid(self) -> bool:
+        '''Check if cache is still valid.'''
+        if self._cached_data is None or self._cache_time is None:
+            return False
+        return (time.time() - self._cache_time) < self._cache_ttl
+
+    def _set_cache(self, data: Dict[str, Any]) -> None:
+        '''Set cache with current timestamp.'''
+        self._cached_data = data
+        self._cache_time = time.time()
+
+    @property
+    def cache_age(self) -> float:
+        '''Get age of cached data in seconds.'''
+        if self._cache_time is None:
+            return float('inf')
+        return max(0.0, time.time() - self._cache_time)
+
+    @property
+    def last_error(self) -> Optional[str]:
+        '''Get last error message.'''
+        return self._last_error
+
+    @property
+    def last_successful_fetch_time(self) -> Optional[float]:
+        '''Get timestamp of last successful fetch.'''
+        return self._last_success_time
+
+    # Intended to be overridden or monkey-patched in tests/usage.
+    def _fetch_data(self) -> Dict[str, Any]:
+        raise NotImplementedError(
+            'Subclasses must implement _fetch_data() to return a dict of monitoring data')

@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_63.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_63,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_63.py,,xfail,xfailed,,0.00013908298569731414
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_63.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_63,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_63.py,,,failed,"AssertionError: assert bytearray(b'') == ''
+ +  where bytearray(b'') = <snippet_63.StreamingFile object at 0x106f54c10>.buffer",0.0003401669964659959
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_63.py::test_case_2,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_63,test_case_2,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_63.py,,,failed,"AssertionError: assert bytearray(b'') == ''
+ +  where bytearray(b'') = <snippet_63.StreamingFile object at 0x106f56890>.buffer",0.0001348750083707273
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_63.py::test_case_3,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_63,test_case_3,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_63.py,,xfail,xfailed,,0.00011920800898224115

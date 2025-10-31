@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_170.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_170,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_170.py,,,failed,snippet_170.NotFoundError: Metric with ID 1613 not found for run 1613.,0.00011883399565704167
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_170.py::test_case_1,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_170,test_case_1,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_170.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.00011016599455615506

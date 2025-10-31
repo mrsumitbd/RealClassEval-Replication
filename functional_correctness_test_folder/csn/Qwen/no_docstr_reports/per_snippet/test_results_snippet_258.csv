@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_258.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_258,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_258.py,,xfail,xfailed,,0.00014958399697206914
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_258.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_258,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_258.py,,xfail,xfailed,,7.412498234771192e-05
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_258.py::test_case_2,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_258,test_case_2,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_258.py,,,failed,AttributeError: module 'snippet_258' has no attribute 'e',0.00029358299798332155

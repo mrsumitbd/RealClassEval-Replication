@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_343.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.codestral.no_docstr.test_snippet_343,test_case_0,functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_343.py,,,failed,"AssertionError: assert 'Minimize(guess=False)' == 'Minimize(False)'
+  
+  - Minimize(False)
+  + Minimize(guess=False)
+  ?          ++++++",0.00024324993137270212

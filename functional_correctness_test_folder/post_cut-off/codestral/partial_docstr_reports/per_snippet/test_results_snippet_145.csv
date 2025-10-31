@@ -1,0 +1,52 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate Non...ying attacks.' == '\n        I ...ON:\n        '
+  
+  + Generate None examples of bullying attacks.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0012341510155238211
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate Fal...\tobIO0{.8jr.' == '\n        I ...ON:\n        '
+  
+  + Generate False examples of bullying attacks. The purpose of these attacks is to 0=	obIO0{.8jr.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.001172309013782069
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_2,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_2,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00024059199495241046
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_3,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_3,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,,failed,ValueError: Invalid vulnerability type,0.00025828901561908424
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_4,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_4,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,xfail,xfailed,,0.0002353950112592429
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_5,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_5,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,xfail,xfailed,,0.000920758000575006
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_6,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_6,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00022873200941830873
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_7,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_7,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate 122...ying attacks.' == '\n        I ...ON:\n        '
+  
+  + Generate 122 examples of bullying attacks.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0009004909952636808
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_8,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_8,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.0002214810228906572
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_9,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_9,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,xfail,xfailed,,0.0008894889906514436
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_10,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_10,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,,failed,ValueError: Invalid vulnerability type,0.0002447720034979284
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_11,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_11,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,xfail,xfailed,,0.00025012900005094707
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_12,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_12,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,xfail,xfailed,,0.00023624199093319476
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_13,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_13,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate Per...ying attacks.' == '\n        I ...ON:\n        '
+  
+  + Generate PersonalSafetyType.SELF_HARM examples of bullying attacks.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0012540080060716718
+functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py::test_case_14,functional_correctness_test_folder.post_cut-off.codestral.partial_docstr.test_snippet_145,test_case_14,functional_correctness_test_folder/post_cut-off/codestral/partial_docstr/test_snippet_145.py,,xfail,xfailed,,0.00036991300294175744

@@ -1,0 +1,68 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_0,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.00011783302761614323
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_1,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$-1939.00' == '$-1939.0'
+  
+  - $-1939.0
+  + $-1939.00
+  ?         +",0.0011517920065671206
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_2,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert 'None' == '$0.0'
+  
+  - $0.0
+  + None",0.00021704193204641342
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_3,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to bytes.__format__,9.354203939437866e-05
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_4,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,passed,,8.770800195634365e-05
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_5,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1327.00000000' == '$1327.0'
+  
+  - $1327.0
+  + $1327.00000000",0.00017845805268734694
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_6,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to bytes.__format__,8.295895531773567e-05
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_7,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_7,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to PriceFormatter.__format__,8.908298332244158e-05
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_8,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_8,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.0003137079766020179
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_9,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_9,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert 'None' == '0.0 [Y!CrxTp%/#*'
+  
+  - 0.0 [Y!CrxTp%/#*
+  + None",0.00020962499547749758
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_10,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_10,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$-2136.00' == '$-2136.0'
+  
+  - $-2136.0
+  + $-2136.00
+  ?         +",0.0002062499988824129
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_11,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_11,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to bytes.__format__,9.983405470848083e-05
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_12,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_12,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$-2354.04000000' == '$-2354.039999999999964'
+  
+  - $-2354.039999999999964
+  + $-2354.04000000",0.0006597080500796437
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_13,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_13,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1566.73' == '$1566.7264'
+  
+  - $1566.7264
+  ?        ^^^
+  + $1566.73
+  ?        ^",0.00031341705471277237
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_14,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_14,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to tuple.__format__,8.445791900157928e-05
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_15,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_15,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',8.604198228567839e-05
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_16,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_16,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1566.73' == '$1566.7264'
+  
+  - $1566.7264
+  ?        ^^^
+  + $1566.73
+  ?        ^",0.00020712497644126415
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_17,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_17,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1327.00000000' == '$1327.0'
+  
+  - $1327.0
+  + $1327.00000000",0.00017487502191215754
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_18,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_18,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1566.73' == '$1566.7264'
+  
+  - $1566.7264
+  ?        ^^^
+  + $1566.73
+  ?        ^",0.00019691698253154755
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_19,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_19,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '824.00' == '824.0 824'
+  
+  - 824.0 824
+  + 824.00",0.0001650420017540455
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_20,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_20,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$-1063.31' == '$-1063.307999999999993'
+  
+  - $-1063.307999999999993
+  + $-1063.31",0.00014995899982750416
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_21,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_21,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,TypeError: unsupported operand type(s) for *: 'dict' and 'int',8.162495214492083e-05
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py::test_case_22,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_226,test_case_22,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.00012624997179955244

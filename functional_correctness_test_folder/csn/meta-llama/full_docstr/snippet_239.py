@@ -1,0 +1,114 @@
+
+from dataclasses import dataclass, field
+from typing import Optional
+from cryptography import x509
+from cryptography.hazmat.backends import default_backend
+
+
+@dataclass
+class Partner:
+    '''
+    Class represents an AS2 partner and defines the certificates and
+    settings to be used when sending and receiving messages.
+    :param as2_name: The unique AS2 name for this partner.
+    :param verify_cert: A byte string of the certificate to be used for
+        verifying signatures of inbound messages and MDNs.
+    :param verify_cert_ca: A byte string of the ca certificate if any of
+        the verification cert
+    :param encrypt_cert: A byte string of the certificate to be used for
+        encrypting outbound message.
+    :param encrypt_cert_ca: A byte string of the ca certificate if any of
+        the encryption cert
+    :param validate_certs: Set this flag to `False` to disable validations of
+        the encryption and verification certificates. (default `True`)
+    :param compress: Set this flag to `True` to compress outgoing
+        messages. (default `False`)
+    :param sign: Set this flag to `True` to sign outgoing
+        messages. (default `False`)
+    :param digest_alg: The digest algorithm to be used for generating the
+        signature. (default "sha256")
+    :param encrypt: Set this flag to `True` to encrypt outgoing
+        messages. (default `False`)
+    :param enc_alg:
+        The encryption algorithm to be used. (default `"tripledes_192_cbc"`)
+    :param mdn_mode: The mode to be used for receiving the MDN.
+        Set to `None` for no MDN, `'SYNC'` for synchronous and `'ASYNC'`
+        for asynchronous. (default `None`)
+    :param mdn_digest_alg: The digest algorithm to be used by the receiver
+        for signing the MDN. Use `None` for unsigned MDN. (default `None`)
+    :param mdn_confirm_text: The text to be used in the MDN for successfully
+        processed messages received from this partner.
+    :param canonicalize_as_binary: force binary canonicalization for this partner
+    :param sign_alg: The signing algorithm to be used for generating the
+        signature. (default `rsassa_pkcs1v15`)
+    :param key_enc_alg: The key encryption algorithm to be used.
+        (default `rsaes_pkcs1v15`)
+    '''
+    as2_name: str
+    verify_cert: Optional[bytes] = None
+    verify_cert_ca: Optional[bytes] = None
+    encrypt_cert: Optional[bytes] = None
+    encrypt_cert_ca: Optional[bytes] = None
+    validate_certs: bool = field(default=True)
+    compress: bool = field(default=False)
+    sign: bool = field(default=False)
+    digest_alg: str = field(default="sha256")
+    encrypt: bool = field(default=False)
+    enc_alg: str = field(default="tripledes_192_cbc")
+    mdn_mode: Optional[str] = field(default=None)
+    mdn_digest_alg: Optional[str] = field(default=None)
+    mdn_confirm_text: Optional[str] = None
+    canonicalize_as_binary: bool = field(default=False)
+    sign_alg: str = field(default="rsassa_pkcs1v15")
+    key_enc_alg: str = field(default="rsaes_pkcs1v15")
+
+    def __post_init__(self):
+        '''Run the post initialisation checks for this class.'''
+        if self.mdn_mode not in [None, 'SYNC', 'ASYNC']:
+            raise ValueError(
+                "Invalid mdn_mode. Must be one of None, 'SYNC', 'ASYNC'.")
+
+        if self.sign and not self.digest_alg:
+            raise ValueError("digest_alg must be set when sign is True")
+
+        if self.mdn_mode and self.mdn_digest_alg is None:
+            # unsigned MDN is allowed
+            pass
+
+    def load_verify_cert(self):
+        '''Load the verification certificate of the partner and returned the parsed cert.'''
+        if not self.verify_cert:
+            return None
+        try:
+            cert = x509.load_der_x509_certificate(
+                self.verify_cert, default_backend())
+            if self.verify_cert_ca:
+                ca_cert = x509.load_der_x509_certificate(
+                    self.verify_cert_ca, default_backend())
+                # you may want to verify the cert against the ca_cert here
+            if self.validate_certs:
+                # you may want to validate the cert here
+                pass
+            return cert
+        except Exception as e:
+            raise ValueError(
+                "Failed to load verification certificate: {}".format(str(e)))
+
+    def load_encrypt_cert(self):
+        '''Load the encryption certificate of the partner and returned the parsed cert.'''
+        if not self.encrypt_cert:
+            return None
+        try:
+            cert = x509.load_der_x509_certificate(
+                self.encrypt_cert, default_backend())
+            if self.encrypt_cert_ca:
+                ca_cert = x509.load_der_x509_certificate(
+                    self.encrypt_cert_ca, default_backend())
+                # you may want to verify the cert against the ca_cert here
+            if self.validate_certs:
+                # you may want to validate the cert here
+                pass
+            return cert
+        except Exception as e:
+            raise ValueError(
+                "Failed to load encryption certificate: {}".format(str(e)))

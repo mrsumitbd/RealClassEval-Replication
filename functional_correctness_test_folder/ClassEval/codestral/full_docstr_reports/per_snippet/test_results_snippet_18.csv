@@ -1,0 +1,86 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestAddEvent::test_add_event,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_add_event,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,9.774998761713505e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestAddEvent::test_add_event_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_add_event_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,7.320899749174714e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestAddEvent::test_add_event_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_add_event_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,8.137495024129748e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestAddEvent::test_add_event_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_add_event_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,7.762503810226917e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestAddEvent::test_add_event_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_add_event_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,6.662501255050302e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestRemoveEvent::test_remove_event,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_remove_event,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,7.224996807053685e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestRemoveEvent::test_remove_event_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_remove_event_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,6.770901381969452e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestRemoveEvent::test_remove_event_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_remove_event_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,6.629200652241707e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestRemoveEvent::test_remove_event_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_remove_event_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,7.424998329952359e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestRemoveEvent::test_remove_event_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_remove_event_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,0.00010966701665893197
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestRemoveEvent::test_remove_event_6,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_remove_event_6,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,failed,ValueError: list.remove(x): x not in list,0.00011945900041610003
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestGetEvents::test_get_events,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_get_events,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,0.00010662496788427234
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestGetEvents::test_get_events_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_get_events_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,7.529096910730004e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestIsAvailable::test_is_available,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_is_available,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,7.204199209809303e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestIsAvailable::test_is_available_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_is_available_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,8.337502367794514e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestIsAvailable::test_is_available_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_is_available_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,6.737501826137304e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestIsAvailable::test_is_available_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_is_available_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,7.737497799098492e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestIsAvailable::test_is_available_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_is_available_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,7.562502287328243e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestGetAvailableSlots::test_get_available_slots,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_get_available_slots,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,passed,,7.845897926017642e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestGetAvailableSlots::test_get_available_slots_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_get_available_slots_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,failed,AssertionError: 2 != 23,0.00010674999793991446
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestGetAvailableSlots::test_get_available_slots_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_get_available_slots_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,failed,AssertionError: 1 != 24,0.0001040829811245203
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestGetAvailableSlots::test_get_available_slots_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_get_available_slots_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,failed,AssertionError: 1 != 24,9.308301378041506e-05
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestGetAvailableSlots::test_get_available_slots_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_get_available_slots_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,failed,AssertionError: 1 != 24,0.00011958298273384571
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestGetUpcomingEvents::test_get_upcoming_events,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_get_upcoming_events,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,failed,"AssertionError: Lists differ: [{'date': datetime.datetime(2023, 1, 1, 0,[128 chars]ar'}] != []
+
+First list contains 1 additional elements.
+First extra element 0:
+{'date': datetime.datetime(2023, 1, 1, 0, 0), 'start_time': datetime.datetime(2023, 1, 1, 0, 0), 'end_time': datetime.datetime(2023, 1, 1, 23, 0), 'description': 'New Year'}
+
++ []
+- [{'date': datetime.datetime(2023, 1, 1, 0, 0),
+-   'description': 'New Year',
+-   'end_time': datetime.datetime(2023, 1, 1, 23, 0),
+-   'start_time': datetime.datetime(2023, 1, 1, 0, 0)}]",0.00022195896599441767
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestGetUpcomingEvents::test_get_upcoming_events_2,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_get_upcoming_events_2,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,failed,"AssertionError: Lists differ: [{'date': datetime.datetime(2023, 1, 1, 0,[127 chars]ar'}] != []
+
+First list contains 1 additional elements.
+First extra element 0:
+{'date': datetime.datetime(2023, 1, 1, 0, 0), 'start_time': datetime.datetime(2023, 1, 1, 1, 0), 'end_time': datetime.datetime(2023, 1, 1, 2, 0), 'description': 'New Year'}
+
++ []
+- [{'date': datetime.datetime(2023, 1, 1, 0, 0),
+-   'description': 'New Year',
+-   'end_time': datetime.datetime(2023, 1, 1, 2, 0),
+-   'start_time': datetime.datetime(2023, 1, 1, 1, 0)}]",0.00019708299078047276
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestGetUpcomingEvents::test_get_upcoming_events_3,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_get_upcoming_events_3,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,failed,"AssertionError: Lists differ: [{'date': datetime.datetime(2023, 1, 1, 0,[127 chars]ar'}] != []
+
+First list contains 1 additional elements.
+First extra element 0:
+{'date': datetime.datetime(2023, 1, 1, 0, 0), 'start_time': datetime.datetime(2023, 1, 2, 1, 0), 'end_time': datetime.datetime(2023, 1, 2, 2, 0), 'description': 'New Year'}
+
++ []
+- [{'date': datetime.datetime(2023, 1, 1, 0, 0),
+-   'description': 'New Year',
+-   'end_time': datetime.datetime(2023, 1, 2, 2, 0),
+-   'start_time': datetime.datetime(2023, 1, 2, 1, 0)}]",0.00019358302233740687
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestGetUpcomingEvents::test_get_upcoming_events_4,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_get_upcoming_events_4,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,failed,"AssertionError: Lists differ: [{'date': datetime.datetime(2023, 1, 1, 0,[127 chars]ar'}] != []
+
+First list contains 1 additional elements.
+First extra element 0:
+{'date': datetime.datetime(2023, 1, 1, 0, 0), 'start_time': datetime.datetime(2023, 1, 2, 1, 0), 'end_time': datetime.datetime(2023, 1, 2, 2, 0), 'description': 'New Year'}
+
++ []
+- [{'date': datetime.datetime(2023, 1, 1, 0, 0),
+-   'description': 'New Year',
+-   'end_time': datetime.datetime(2023, 1, 2, 2, 0),
+-   'start_time': datetime.datetime(2023, 1, 2, 1, 0)}]",0.00022129196440801024
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestGetUpcomingEvents::test_get_upcoming_events_5,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_get_upcoming_events_5,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,failed,"AssertionError: Lists differ: [{'da[21 chars]e(2023, 1, 1, 0, 0), 'start_time': datetime.da[98 chars]ar'}] != [{'da[21 chars]e(2024, 1, 2, 0, 0), 'start_time': datetime.da[99 chars] 2'}]
+
+First differing element 0:
+{'dat[20 chars]e(2023, 1, 1, 0, 0), 'start_time': datetime.da[97 chars]ear'}
+{'dat[20 chars]e(2024, 1, 2, 0, 0), 'start_time': datetime.da[98 chars]r 2'}
+
+Diff is 695 characters long. Set self.maxDiff to None to see it.",0.0019673749920912087
+functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py::CalendarTestMain::test_main,functional_correctness_test_folder.ClassEval.codestral.full_docstr.test_snippet_18,test_main,functional_correctness_test_folder/ClassEval/codestral/full_docstr/test_snippet_18.py,,,failed,"AssertionError: Lists differ: [{'date': datetime.datetime(2023, 1, 1, 0,[128 chars]ar'}] != []
+
+First list contains 1 additional elements.
+First extra element 0:
+{'date': datetime.datetime(2023, 1, 1, 0, 0), 'start_time': datetime.datetime(2023, 1, 1, 0, 0), 'end_time': datetime.datetime(2023, 1, 1, 23, 0), 'description': 'New Year'}
+
++ []
+- [{'date': datetime.datetime(2023, 1, 1, 0, 0),
+-   'description': 'New Year',
+-   'end_time': datetime.datetime(2023, 1, 1, 23, 0),
+-   'start_time': datetime.datetime(2023, 1, 1, 0, 0)}]",0.0002644169726409018

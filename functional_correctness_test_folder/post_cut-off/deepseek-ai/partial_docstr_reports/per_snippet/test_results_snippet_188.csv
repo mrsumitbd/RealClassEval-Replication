@@ -1,0 +1,37 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_188,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0005942519928794354
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_188,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0004929489805363119
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py::test_case_2,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_188,test_case_2,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.000480179995065555
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py::test_case_3,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_188,test_case_3,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.00047052602167241275
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py::test_case_4,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_188,test_case_4,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.00046778799151070416
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py::test_case_5,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_188,test_case_5,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0004921699874103069
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py::test_case_6,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_188,test_case_6,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.00046767399180680513
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py::test_case_7,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_188,test_case_7,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.00046810501953586936
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py::test_case_8,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_188,test_case_8,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_188.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0004830339748878032

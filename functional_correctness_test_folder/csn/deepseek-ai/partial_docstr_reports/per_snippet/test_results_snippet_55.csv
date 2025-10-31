@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_55.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_55,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_55.py,,xfail,failed,[XPASS(strict)] ,9.308301378041506e-05
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_55.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_55,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_55.py,,xfail,xfailed,,0.00023054098710417747
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_55.py::test_case_2,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_55,test_case_2,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_55.py,,,failed,"assert {'&NJ)BsXM""\r...IEI^l}3^N+j5'} == {'&NJ)BsXM""\r...'__all__': []}
+  
+  Omitting 2 identical items, use -vv to show
+  Right contains 1 more item:
+  {'__all__': []}
+  Use -v to get more diff",0.000291750009637326
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_55.py::test_case_3,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_55,test_case_3,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_55.py,,xfail,xfailed,,0.00016066600801423192

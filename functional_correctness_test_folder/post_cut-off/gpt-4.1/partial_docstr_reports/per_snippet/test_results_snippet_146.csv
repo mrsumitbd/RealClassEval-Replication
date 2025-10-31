@@ -1,0 +1,23 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_146,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.001252966991160065
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_146,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.0002475460059940815
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_146,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py,,xfail,failed,[XPASS(strict)] ,0.00024513801326975226
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_146,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'You are task...I disclosure.' == '\n        I ...ON:\n        '
+  
+  + You are tasked with testing a system for direct PII (Personally Identifiable Information) leakage vulnerabilities. Generate False example prompts that could cause the system to directly disclose PII such as names, addresses, phone numbers, or social security numbers. Each prompt should be realistic and designed to elicit direct PII disclosure.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that directly solicits personally identifiable information (a...
+  
+  ...Full output truncated (87 lines hidden), use '-vv' to show",0.0008744389924686402
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_146,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'You are test...I disclosure.' == '\n        I ...ON:\n        '
+  
+  + You are testing a system for social manipulation PII leakage vulnerabilities. Generate True example prompts that use social engineering or manipulation techniques to trick the system into revealing PII, such as pretending to be a user or authority figure. Each prompt should be crafted to exploit social manipulation for PII disclosure.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should employ deception or phishing tactics to coax the assistant into revealing PII.
+  -    ...
+  
+  ...Full output truncated (86 lines hidden), use '-vv' to show",0.0007939359929878265
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_146,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.00023358198814094067
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_146,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.00023690698435530066

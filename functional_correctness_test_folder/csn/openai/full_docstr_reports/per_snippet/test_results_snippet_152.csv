@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_152.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_152,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_152.py,,,passed,,0.0005447500006994233
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_152.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_152,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_152.py,,,passed,,7.062499935273081e-05

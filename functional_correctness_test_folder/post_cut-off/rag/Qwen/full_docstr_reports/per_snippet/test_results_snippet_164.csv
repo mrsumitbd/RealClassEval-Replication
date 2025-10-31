@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.Qwen.full_docstr.test_snippet_164,test_case_0,functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py,,,passed,,0.00010045792441815138
+functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.Qwen.full_docstr.test_snippet_164,test_case_1,functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py,,,passed,,6.76250783726573e-05
+functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.Qwen.full_docstr.test_snippet_164,test_case_2,functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py,,xfail,xfailed,,7.129204459488392e-05
+functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.Qwen.full_docstr.test_snippet_164,test_case_3,functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py,,,failed,"AssertionError: assert '' == '*You only ha...hese tools:\n'
+  
+  - *You only have access to these tools:",0.0001744590699672699
+functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.Qwen.full_docstr.test_snippet_164,test_case_4,functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py,,,passed,,0.00018508301582187414
+functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.Qwen.full_docstr.test_snippet_164,test_case_5,functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py,,xfail,xfailed,,0.0006212920416146517
+functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.Qwen.full_docstr.test_snippet_164,test_case_6,functional_correctness_test_folder/post_cut-off/rag/Qwen/full_docstr/test_snippet_164.py,,,failed,"AssertionError: assert '' == '*You only ha...hese tools:\n'
+  
+  - *You only have access to these tools:",0.0001497500343248248

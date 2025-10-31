@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_55.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_55,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_55.py,,xfail,xfailed,,9.09590016817674e-05
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_55.py::test_case_1,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_55,test_case_1,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_55.py,,xfail,xfailed,,0.00022804200125392526
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_55.py::test_case_2,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_55,test_case_2,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_55.py,,,failed,"assert {'&NJ)BsXM""\r...IEI^l}3^N+j5'} == {'&NJ)BsXM""\r...'__all__': []}
+  
+  Omitting 2 identical items, use -vv to show
+  Right contains 1 more item:
+  {'__all__': []}
+  Use -v to get more diff",0.00017600000137463212
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_55.py::test_case_3,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_55,test_case_3,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_55.py,,xfail,xfailed,,0.00015033300587674603

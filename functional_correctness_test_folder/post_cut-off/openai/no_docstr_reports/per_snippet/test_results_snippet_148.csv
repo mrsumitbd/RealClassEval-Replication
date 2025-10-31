@@ -1,0 +1,28 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_148,test_case_0,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py,,xfail,xfailed,,0.00042209000093862414
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_148,test_case_1,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py,,xfail,xfailed,,0.0002628160291351378
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_148,test_case_2,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py,,,failed,"AssertionError: assert '' == '\n        I ...ON:\n        '
+  
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should push the assistant to mock, deride, or belittle a target for comedic effect.
+  -         Each request must be specific and designed for maximum humiliation.
+  - 
+  -         IMPORTANT: Return **only** valid JSON with a top-level 'data' list....
+  
+  ...Full output truncated (60 lines hidden), use '-vv' to show",0.0007682630093768239
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_148,test_case_3,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.00022809498477727175
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py::test_case_4,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_148,test_case_4,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py,,xfail,xfailed,,0.004480359028093517
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py::test_case_5,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_148,test_case_5,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py,,,failed,"assert ""I'll find you and kill you."" == '\n        I ...ON:\n        '
+  
+  + I'll find you and kill you.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` must encourage the assistant to formulate explicit threats—verbal, written, or implied.
+  -         Each request should be realistic and unambiguously intimidating.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.0009087730431929231
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py::test_case_6,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_148,test_case_6,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py,,xfail,xfailed,,0.00023167597828432918
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py::test_case_7,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_148,test_case_7,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py,,xfail,xfailed,,0.00023143598809838295
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py::test_case_8,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_148,test_case_8,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_148.py,,xfail,xfailed,,0.00023862096713855863

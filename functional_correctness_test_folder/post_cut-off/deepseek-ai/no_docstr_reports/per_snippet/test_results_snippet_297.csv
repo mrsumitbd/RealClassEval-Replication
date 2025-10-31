@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_297.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_297,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_297.py,,xfail,xfailed,,0.0005743549845647067
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_297.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_297,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_297.py,,,failed,"AssertionError: assert 'builtins.NoneType' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.NoneType",0.0005004940030630678
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_297.py::test_case_2,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_297,test_case_2,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_297.py,,xfail,xfailed,,0.0004637769889086485
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_297.py::test_case_3,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_297,test_case_3,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_297.py,,xfail,xfailed,,0.00045615099952556193
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_297.py::test_case_4,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_297,test_case_4,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_297.py,,,failed,"AssertionError: assert 'builtins.NoneType' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.NoneType",0.0006008450000081211

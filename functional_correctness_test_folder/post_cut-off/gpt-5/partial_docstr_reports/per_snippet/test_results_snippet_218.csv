@@ -1,0 +1,13 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_218,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py,,,passed,,0.0006121070182416588
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_218,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py,,,passed,,0.0003761590050999075
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_218,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py,,,passed,,0.0002691389818210155
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_218,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py,,,passed,,0.00036654999712482095
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_218,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py,,,passed,,0.00023468901054002345
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_218,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py,,,failed,Failed: DID NOT RAISE <class 'TypeError'>,0.0005366900004446507
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_218,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_218.py,,,failed,"assert ""CBlock('(o\\...]@i_1eEmY>'})"" == ""CBlock((o\tt...]@i_1eEmY>'})""
+  
+  - CBlock((o	tk[, {'(o\ttk[': '(o\ttk[', ']@i_1eEmY>': '(o\ttk[', '\t\t^\rX': ']@i_1eEmY>'})
+  ?          ^
+  + CBlock('(o\ttk[', {'(o\ttk[': '(o\ttk[', ']@i_1eEmY>': '(o\ttk[', '\t\t^\rX': ']@i_1eEmY>'})
+  ?        +  ^^   +",0.0011850399896502495

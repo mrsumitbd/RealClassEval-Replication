@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_111.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_111,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_111.py,,xfail,xfailed,,0.9305173390021082
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_111.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_111,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_111.py,,,failed,"assert True is False
+ +  where True = <snippet_111.GitDiffTracker object at 0x1138673a0>.enabled",0.025840836999122985
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_111.py::test_case_2,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_111,test_case_2,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_111.py,,,failed,"AssertionError: assert '.' is None
+ +  where '.' = <snippet_111.GitDiffTracker object at 0x113867070>.cwd",0.0010574970001471229
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_111.py::test_case_3,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_111,test_case_3,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_111.py,,,failed,"assert True is False
+ +  where True = <snippet_111.GitDiffTracker object at 0x1137e0280>.enabled",0.023099654994439334
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_111.py::test_case_4,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_111,test_case_4,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_111.py,,,failed,"assert True is False
+ +  where True = <snippet_111.GitDiffTracker object at 0x11389eb00>.enabled",0.023429658998793457

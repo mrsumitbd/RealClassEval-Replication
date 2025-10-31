@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_342.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_342,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_342.py,,,failed,"AssertionError: assert 'Maximize(guess=False)' == 'Maximize(False)'
+  
+  - Maximize(False)
+  + Maximize(guess=False)
+  ?          ++++++",0.0007084620301611722

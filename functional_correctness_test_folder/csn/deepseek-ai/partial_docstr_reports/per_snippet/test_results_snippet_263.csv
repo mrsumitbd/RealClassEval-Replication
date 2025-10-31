@@ -1,0 +1,19 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_263,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py,,xfail,xfailed,,0.0001528330030851066
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_263,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py,,,failed,"TypeError: join() argument must be str, bytes, or os.PathLike object, not 'Import_Data'",0.00011704201460815966
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py::test_case_2,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_263,test_case_2,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py,,,passed,,8.145798346959054e-05
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py::test_case_3,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_263,test_case_3,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py,,,failed,"TypeError: listdir: path should be string, bytes, os.PathLike, integer or None, not Import_Data",9.991700062528253e-05
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py::test_case_4,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_263,test_case_4,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py,,,failed,"AssertionError: assert {'/Users/umro...ons.abc', ...} == {}
+  
+  Left contains 880 more items:
+  {'/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/snippet_263.py': 'snippet_263',
+   '/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py': 'test_snippet_263',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/__future__.py': '__future__',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_collections_abc.py': 'collections.abc',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_compat_pickle.py': '_compat_pickle',...
+  
+  ...Full output truncated (876 lines hidden), use '-vv' to show",0.007117957982700318
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py::test_case_5,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_263,test_case_5,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py,,xfail,xfailed,,0.00039616599678993225
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py::test_case_6,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_263,test_case_6,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py,,xfail,xfailed,,0.00010720800491981208
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py::test_case_7,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_263,test_case_7,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py,,xfail,xfailed,,0.0004329579824116081
+functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py::test_case_8,functional_correctness_test_folder.csn.deepseek-ai.partial_docstr.test_snippet_263,test_case_8,functional_correctness_test_folder/csn/deepseek-ai/partial_docstr/test_snippet_263.py,,xfail,xfailed,,9.629101259633899e-05

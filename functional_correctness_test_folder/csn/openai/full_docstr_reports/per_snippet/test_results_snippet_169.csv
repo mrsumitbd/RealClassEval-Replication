@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_169.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_169,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_169.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,0.00010554099571891129
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_169.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_169,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_169.py,,,failed,Failed: DID NOT RAISE <class 'NotImplementedError'>,9.875000250758603e-05

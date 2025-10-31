@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_21.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_21,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_21.py,,,failed,"AssertionError: assert {} == 'A{{A:VC/'
+ +  where {} = MCPTool(name='A{{A:VC/', tool_id='A{{A:VC/', description='A{{A:VC/', parameters={}).parameters",0.00018779200036078691

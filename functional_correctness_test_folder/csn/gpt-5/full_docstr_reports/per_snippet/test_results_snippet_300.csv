@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_300.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_300,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_300.py,,,failed,"assert [] is None
+ +  where [] = <snippet_300.ComputeBackendValidatorBase object at 0x106afb880>.workflow_steps",0.00015908399655018002
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_300.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_300,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_300.py,,,failed,"assert [] is None
+ +  where [] = <snippet_300.ComputeBackendValidatorBase object at 0x106af8220>.workflow_steps",0.00013745799515163526
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_300.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_300,test_case_2,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_300.py,,xfail,xfailed,,0.00011804200039478019

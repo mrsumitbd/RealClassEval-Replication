@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_132.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_132,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_132.py,,,failed,"assert 1 == 0
+ +  where 1 = <snippet_132.Text_background object at 0x10241e230>.style",0.0001920829527080059
+functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_132.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.no_docstr.test_snippet_132,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/no_docstr/test_snippet_132.py,,,failed,"assert 1 == 0
+ +  where 1 = <snippet_132.Text_background object at 0x1023f7610>.style",0.00013495807070285082

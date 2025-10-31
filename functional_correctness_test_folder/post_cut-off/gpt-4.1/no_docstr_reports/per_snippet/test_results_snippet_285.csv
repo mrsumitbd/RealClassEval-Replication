@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_285.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_285,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_285.py,,,failed,"assert ""Block(block_...itle='>L.is')"" == 'Block(type=>... title=>L.is)'
+  
+  - Block(type=>L.is, title=>L.is)
+  + Block(block_type='>L.is', content='>L.is', title='>L.is')",0.0006148460088297725
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_285.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_285,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_285.py,,,failed,"assert ""Block(block_..., title=None)"" == 'Block(type=s4]hUi:~g#)'
+  
+  - Block(type=s4]hUi:~g#)
+  + Block(block_type='s4]hUi:~g#', content='{J.fP&e2m;EH*T9\t', title=None)",0.0005026430008001626
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_285.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_285,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_285.py,,,passed,,0.00023462899844162166

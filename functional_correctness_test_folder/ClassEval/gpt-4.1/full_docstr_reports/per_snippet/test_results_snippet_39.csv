@@ -1,0 +1,138 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestReadExcel::test_read_excel_1,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_read_excel_1,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,passed,,0.00714912498369813
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestReadExcel::test_read_excel_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_read_excel_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,passed,,0.004640166007447988
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestReadExcel::test_read_excel_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_read_excel_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,passed,,0.01450500002829358
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestReadExcel::test_read_excel_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_read_excel_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,passed,,0.0041527500143274665
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestReadExcel::test_read_excel_5,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_read_excel_5,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,passed,,0.003800500009674579
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestReadExcel::test_read_excel_6,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_read_excel_6,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,failed,AssertionError: [] != None,0.000150540960021317
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestWriteExcel::test_write_excel_1,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_write_excel_1,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,passed,,0.008633958001155406
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestWriteExcel::test_write_excel_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_write_excel_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,passed,,0.005089666985440999
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestWriteExcel::test_write_excel_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_write_excel_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,passed,,0.029356583021581173
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestWriteExcel::test_write_excel_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_write_excel_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,passed,,0.005113458959385753
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestWriteExcel::test_write_excel_5,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_write_excel_5,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,passed,,0.004339625011198223
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestWriteExcel::test_write_excel_6,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_write_excel_6,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,passed,,0.0024577080039307475
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestProcessExcelData::test_process_excel_data_1,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_process_excel_data_1,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [('Na[16 chars]ntry'), ('JOHN', 25, 'USA'), ('ALICE', 30, 'Ca[28 chars]ia')] != [('Na[16 chars]ntry', 'AGE'), ('John', 25, 'USA', 25), ('Alic[47 chars] 35)]
+
+First differing element 0:
+('Name', 'Age', 'Country')
+('Name', 'Age', 'Country', 'AGE')
+
+- [('Name', 'Age', 'Country'),
++ [('Name', 'Age', 'Country', 'AGE'),
+?                           +++++++
+
+-  ('JOHN', 25, 'USA'),
+?     ^^^
+
++  ('John', 25, 'USA', 25),
+?     ^^^            ++++
+
+-  ('ALICE', 30, 'Canada'),
+?     ^^^^
+
++  ('Alice', 30, 'Canada', 30),
+?     ^^^^               ++++
+
+-  ('BOB', 35, 'Australia')]
+?     ^^
+
++  ('Bob', 35, 'Australia', 35)]
+?     ^^                  ++++",0.017739125003572553
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestProcessExcelData::test_process_excel_data_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_process_excel_data_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,failed,AssertionError: 0 is not true,0.005834208976011723
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestProcessExcelData::test_process_excel_data_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_process_excel_data_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [('Na[16 chars]ntry'), ('John', 25, 'USA'), ('Alice', 30, 'Ca[28 chars]ia')] != [('Na[16 chars]ntry', 'COUNTRY'), ('John', 25, 'USA', 'USA'),[69 chars]IA')]
+
+First differing element 0:
+('Name', 'Age', 'Country')
+('Name', 'Age', 'Country', 'COUNTRY')
+
+- [('Name', 'Age', 'Country'),
++ [('Name', 'Age', 'Country', 'COUNTRY'),
+?                           +++++++++++
+
+-  ('John', 25, 'USA'),
++  ('John', 25, 'USA', 'USA'),
+?              +++++++
+
+-  ('Alice', 30, 'Canada'),
++  ('Alice', 30, 'Canada', 'CANADA'),
+?                        ++++++++++
+
+-  ('Bob', 35, 'Australia')]
++  ('Bob', 35, 'Australia', 'AUSTRALIA')]
+?                         +++++++++++++",0.010560667025856674
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestProcessExcelData::test_process_excel_data_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_process_excel_data_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [('Na[16 chars]NTRY'), ('John', 25, 'USA'), ('Alice', 30, 'CA[28 chars]IA')] != [('Na[16 chars]NTRY', 'COUNTRY'), ('John', 25, 'USA', 'USA'),[69 chars]IA')]
+
+First differing element 0:
+('Name', 'Age', 'COUNTRY')
+('Name', 'Age', 'COUNTRY', 'COUNTRY')
+
+- [('Name', 'Age', 'COUNTRY'),
++ [('Name', 'Age', 'COUNTRY', 'COUNTRY'),
+?                 +++++++++++
+
+-  ('John', 25, 'USA'),
++  ('John', 25, 'USA', 'USA'),
+?              +++++++
+
+-  ('Alice', 30, 'CANADA'),
++  ('Alice', 30, 'CANADA', 'CANADA'),
+?               ++++++++++
+
+-  ('Bob', 35, 'AUSTRALIA')]
++  ('Bob', 35, 'AUSTRALIA', 'AUSTRALIA')]
+?             +++++++++++++",0.011827833019196987
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestProcessExcelData::test_process_excel_data_5,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_process_excel_data_5,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [('Na[16 chars]NTRY'), ('JOHN', 25, 'USA'), ('ALICE', 30, 'CA[28 chars]IA')] != [('Na[16 chars]NTRY', 'AGE'), ('John', 25, 'USA', 25), ('Alic[47 chars] 35)]
+
+First differing element 0:
+('Name', 'AGE', 'COUNTRY')
+('Name', 'AGE', 'COUNTRY', 'AGE')
+
+- [('Name', 'AGE', 'COUNTRY'),
++ [('Name', 'AGE', 'COUNTRY', 'AGE'),
+?                           +++++++
+
+-  ('JOHN', 25, 'USA'),
+?     ^^^
+
++  ('John', 25, 'USA', 25),
+?     ^^^            ++++
+
+-  ('ALICE', 30, 'CANADA'),
+?     ^^^^
+
++  ('Alice', 30, 'CANADA', 30),
+?     ^^^^               ++++
+
+-  ('BOB', 35, 'AUSTRALIA')]
+?     ^^
+
++  ('Bob', 35, 'AUSTRALIA', 35)]
+?     ^^                  ++++",0.011972124979365617
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTestProcessExcelData::test_process_excel_data_6,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_process_excel_data_6,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,failed,"AssertionError: (0, '') != 0",0.007712499995250255
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py::ExcelProcessorTest::test_ExcelProcessor,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_39,test_ExcelProcessor,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_39.py,,,failed,"AssertionError: Lists differ: [('Na[16 chars]ntry'), ('JOHN', 25, 'USA'), ('ALICE', 30, 'Ca[28 chars]ia')] != [('Na[16 chars]ntry', 'AGE'), ('John', 25, 'USA', 25), ('Alic[47 chars] 35)]
+
+First differing element 0:
+('Name', 'Age', 'Country')
+('Name', 'Age', 'Country', 'AGE')
+
+- [('Name', 'Age', 'Country'),
++ [('Name', 'Age', 'Country', 'AGE'),
+?                           +++++++
+
+-  ('JOHN', 25, 'USA'),
+?     ^^^
+
++  ('John', 25, 'USA', 25),
+?     ^^^            ++++
+
+-  ('ALICE', 30, 'Canada'),
+?     ^^^^
+
++  ('Alice', 30, 'Canada', 30),
+?     ^^^^               ++++
+
+-  ('BOB', 35, 'Australia')]
+?     ^^
+
++  ('Bob', 35, 'Australia', 35)]
+?     ^^                  ++++",0.1147524580010213

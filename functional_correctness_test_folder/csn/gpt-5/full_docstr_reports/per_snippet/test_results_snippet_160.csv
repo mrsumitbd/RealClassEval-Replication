@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_160.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_160,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_160.py,,,failed,TypeError: payload must be a sequence of strings,9.166700328933075e-05

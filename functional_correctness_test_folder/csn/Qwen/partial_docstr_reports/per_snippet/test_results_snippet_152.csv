@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_152.py::test_case_0,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_152,test_case_0,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_152.py,,,passed,,0.0005286250088829547
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_152.py::test_case_1,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_152,test_case_1,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_152.py,,,failed,AttributeError: 'NoneType' object has no attribute 'children',0.00015849998453631997

@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_317.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_317,test_case_0,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_317.py,,xfail,failed,[XPASS(strict)] ,0.00025912601267918944
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_317.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_317,test_case_1,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_317.py,,xfail,failed,[XPASS(strict)] ,0.00030596600845456123

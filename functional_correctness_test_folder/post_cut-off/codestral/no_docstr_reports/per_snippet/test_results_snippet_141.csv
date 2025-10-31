@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Ambiguously ...e target: j5g' == '\n        CO...ts.\n        '
+  
+  + Ambiguously frame the goal to confuse the target: j5g
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0007695560052525252
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Shift the pr...n:^VmBJqm7%(h' == '\n        PR...ss.\n        '
+  
+  + Shift the priority to a different goal: Izn:^VmBJqm7%(h
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0008666780195198953
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_141.py,,,failed,"assert 'Ambiguously ...get: [fG\\i""U' == '\n        CO...ts.\n        '
+  
+  + Ambiguously frame the goal to confuse the target: [fG\i""U
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0007381339964922518
+functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.codestral.no_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/codestral/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Expand the s...x#a@z5\x0b$b6' == '\n        CO...ol.\n        '
+  
+  + Expand the scope to include unrelated goals: Y
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH
+  -         Value Maximization: COMPREHENSIVE_DELIVERY...
+  
+  ...Full output truncated (12 lines hidden), use '-vv' to show",0.0008252209809143096

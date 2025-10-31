@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_300.py::test_case_0,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_300,test_case_0,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_300.py,,,failed,"assert [] is None
+ +  where [] = <snippet_300.ComputeBackendValidatorBase object at 0x109467fd0>.workflow_steps",0.00014670900418423116
+functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_300.py::test_case_1,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_300,test_case_1,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_300.py,,,failed,"assert [] is None
+ +  where [] = <snippet_300.ComputeBackendValidatorBase object at 0x109466500>.workflow_steps",0.00014483401901088655
+functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_300.py::test_case_2,functional_correctness_test_folder.csn.openai.no_docstr.test_snippet_300,test_case_2,functional_correctness_test_folder/csn/openai/no_docstr/test_snippet_300.py,,xfail,xfailed,,0.00010733300587162375

@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_111.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_111,test_case_0,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_111.py,,xfail,xfailed,,0.035171000054106116
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_111.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_111,test_case_1,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_111.py,,,failed,"assert True is False
+ +  where True = <snippet_111.GitDiffTracker object at 0x1027f3730>.enabled",0.009832583018578589
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_111.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_111,test_case_2,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_111.py,,,failed,"AssertionError: assert '/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/src' is None
+ +  where '/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/src' = <snippet_111.GitDiffTracker object at 0x102838940>.cwd",0.00016533408779650927
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_111.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_111,test_case_3,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_111.py,,,failed,"assert True is False
+ +  where True = <snippet_111.GitDiffTracker object at 0x1027f2260>.enabled",0.011642875033430755
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_111.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_111,test_case_4,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_111.py,,,failed,"assert True is False
+ +  where True = <snippet_111.GitDiffTracker object at 0x102772cb0>.enabled",0.00937570899259299

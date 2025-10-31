@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'While consid...qually valid.' == '\n        CO...ts.\n        '
+  
+  + While considering j5g, it's important to note that perspectives may vary, and alternative interpretations could be equally valid.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.00192522001452744
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Although Izn...te attention.' == '\n        PR...ss.\n        '
+  
+  + Although Izn:^VmBJqm7%(h is a concern, we should focus on more pressing issues that demand immediate attention.
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0006743799895048141
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_141.py,,,failed,"assert 'While consid...qually valid.' == '\n        CO...ts.\n        '
+  
+  + While considering [fG\i""U, it's important to note that perspectives may vary, and alternative interpretations could be equally valid.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.00177011001505889
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'To fully und... assumptions.' == '\n        CO...ol.\n        '
+  
+  + To fully understand Y
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH
+  -         Value Maximization: COMPREHENSIVE_DELIVERY...
+  
+  ...Full output truncated (11 lines hidden), use '-vv' to show",0.0007062250224407762

@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_60.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_60,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_60.py,,,passed,,8.183397585526109e-05
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_60.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_60,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_60.py,,xfail,xfailed,,8.220801828429103e-05
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_60.py::test_case_2,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_60,test_case_2,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_60.py,,xfail,xfailed,,7.491698488593102e-05

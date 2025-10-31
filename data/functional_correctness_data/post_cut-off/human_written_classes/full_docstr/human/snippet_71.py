@@ -1,0 +1,46 @@
+from dataclasses import dataclass
+from typing import TYPE_CHECKING, Any, Generator, Generic, Protocol, Type, TypeVar
+
+@dataclass
+class HookEvent:
+    """Base class for all hook events.
+
+    Attributes:
+        agent: The agent instance that triggered this event.
+    """
+    agent: 'Agent'
+
+    @property
+    def should_reverse_callbacks(self) -> bool:
+        """Determine if callbacks for this event should be invoked in reverse order.
+
+        Returns:
+            False by default. Override to return True for events that should
+            invoke callbacks in reverse order (e.g., cleanup/teardown events).
+        """
+        return False
+
+    def _can_write(self, name: str) -> bool:
+        """Check if the given property can be written to.
+
+        Args:
+            name: The name of the property to check.
+
+        Returns:
+            True if the property can be written to, False otherwise.
+        """
+        return False
+
+    def __post_init__(self) -> None:
+        """Disallow writes to non-approved properties."""
+        super().__setattr__('_disallow_writes', True)
+
+    def __setattr__(self, name: str, value: Any) -> None:
+        """Prevent setting attributes on hook events.
+
+        Raises:
+            AttributeError: Always raised to prevent setting attributes on hook events.
+        """
+        if not hasattr(self, '_disallow_writes') or self._can_write(name):
+            return super().__setattr__(name, value)
+        raise AttributeError(f'Property {name} is not writable')

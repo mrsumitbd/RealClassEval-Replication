@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_249.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_249,test_case_0,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_249.py,,,failed,AttributeError: 'Template' object has no attribute 'input',8.508299652021378e-05

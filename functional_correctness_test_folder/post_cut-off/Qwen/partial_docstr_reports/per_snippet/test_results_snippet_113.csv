@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_113.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_113,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_113.py,,,failed,"AssertionError: assert '/opt/anacond...einternal/bin' == './data'
+  
+  - ./data
+  + /opt/anaconda3/envs/pynguin_env/bin:/opt/anaconda3/condabin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin",0.0007403100025840104
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_113.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_113,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_113.py,,,failed,TypeError: BiomniConfig.__init__() got an unexpected keyword argument 'base_url',0.00024315598420798779

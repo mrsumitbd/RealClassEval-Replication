@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.no_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Safety and I... enhancement.' == '\n        CO...ts.\n        '
+  
+  + Safety and Intent
+  + - Ethical Use Notice: This template reframes content for defensive analysis, policy compliance, and risk reduction only. It will not generate or enhance harmful activity.
+    
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION...
+  
+  ...Full output truncated (23 lines hidden), use '-vv' to show",0.0015762080438435078
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.no_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Safety and I... enhancement.' == '\n        PR...ss.\n        '
+  
+  + Safety and Intent
+  + - Ethical Use Notice: This template reframes content for defensive analysis, policy compliance, and risk reduction only. It will not generate or enhance harmful activity.
+    
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION...
+  
+  ...Full output truncated (23 lines hidden), use '-vv' to show",0.0031754999654367566
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-5.no_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Safety and I... enhancement.' == '\n        CO...ts.\n        '
+  
+  + Safety and Intent
+  + - Ethical Use Notice: This template reframes content for defensive analysis, policy compliance, and risk reduction only. It will not generate or enhance harmful activity.
+    
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION...
+  
+  ...Full output truncated (23 lines hidden), use '-vv' to show",0.001072874991223216
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-5.no_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Safety and I... enhancement.' == '\n        CO...ol.\n        '
+  
+  + Safety and Intent
+  + - Ethical Use Notice: This template reframes content for defensive analysis, policy compliance, and risk reduction only. It will not generate or enhance harmful activity.
+    
+  + Context (Sanitized)
+  + - Original intent reframed for compliance: Y
+  ...
+  
+  ...Full output truncated (28 lines hidden), use '-vv' to show",0.000802458031103015

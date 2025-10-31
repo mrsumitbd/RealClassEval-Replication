@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_14.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_14,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_14.py,,xfail,failed,[XPASS(strict)] ,0.00024297999334521592

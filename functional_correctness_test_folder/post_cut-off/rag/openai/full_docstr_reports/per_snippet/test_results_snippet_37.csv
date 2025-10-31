@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🐢 Slow' == '🐌 Slow'
+  
+  - 🐌 Slow
+  ? ^
+  + 🐢 Slow
+  ? ^",0.00022595806512981653
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_37.py,,,passed,,7.670791819691658e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_37.py,,xfail,xfailed,,7.041695062071085e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_37.py,,,passed,,7.116701453924179e-05

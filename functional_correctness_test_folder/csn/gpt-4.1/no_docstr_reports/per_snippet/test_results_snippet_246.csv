@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_246.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_246,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_246.py,,,failed,AssertionError: assert None == '/Users/umroot/Documents/MISC_use/pynguin_folder/template/default.html',0.00020258300355635583
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_246.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_246,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_246.py,,,failed,Failed: DID NOT RAISE <class 'Exception'>,0.00012349997996352613

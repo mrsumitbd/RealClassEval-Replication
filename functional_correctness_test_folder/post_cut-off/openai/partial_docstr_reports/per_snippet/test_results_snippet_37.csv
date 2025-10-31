@@ -1,0 +1,14 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🐢 Slow burn' == '🐌 Slow'
+  
+  - 🐌 Slow
+  + 🐢 Slow burn",0.000602476007770747
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '⚡' == '🚀'
+  
+  - 🚀
+  + ⚡",0.0005434769554995
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_37.py,,xfail,xfailed,,0.00023855705512687564
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_37.py,,,failed,"AssertionError: assert 'Slow burn' == 'Slow'
+  
+  - Slow
+  + Slow burn",0.0004810489481315017

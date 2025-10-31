@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_42.py::test_case_0,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_42,test_case_0,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_42.py,,,failed,AttributeError: type object 'WifiManager' has no attribute 'WIFI_STATE_DISABLING',7.79160181991756e-05

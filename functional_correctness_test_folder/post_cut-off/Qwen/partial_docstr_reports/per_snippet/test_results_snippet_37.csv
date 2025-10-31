@@ -1,0 +1,14 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🐌 Very Slow' == '🐌 Slow'
+  
+  - 🐌 Slow
+  + 🐌 Very Slow",0.0005984419840388
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🔥' == '🚀'
+  
+  - 🚀
+  + 🔥",0.0005200820160098374
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_37.py,,xfail,xfailed,,0.00024730298900976777
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_37.py,,,failed,"AssertionError: assert 'Fast' == 'Slow'
+  
+  - Slow
+  + Fast",0.000502598995808512

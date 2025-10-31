@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_120.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_120,test_case_0,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_120.py,,xfail,xfailed,,9.920902084559202e-05
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_120.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_120,test_case_1,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_120.py,,,passed,,7.704191375523806e-05

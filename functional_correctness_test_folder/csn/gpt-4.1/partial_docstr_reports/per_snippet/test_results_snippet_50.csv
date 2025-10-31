@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_50.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_50,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_50.py,,,failed,AttributeError: type object 'MetPyChecker' has no attribute 'name',9.116699220612645e-05
+functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_50.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_50,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_50.py,,xfail,xfailed,,8.758300100453198e-05

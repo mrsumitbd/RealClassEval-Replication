@@ -1,0 +1,85 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',8.820893708616495e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-1,939' == '$-1939.0'
+  
+  - $-1939.0
+  + -1,939",0.00023620901629328728
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-' == '$0.0'
+  
+  - $0.0
+  + -",0.00018333294428884983
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$0' == '$0.0'
+  
+  - $0.0
+  + $0",0.00019975006580352783
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_4,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-2,354.04' == '-2354.04'
+  
+  - -2354.04
+  + -2,354.04
+  ?   +",0.00022666703443974257
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_5,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,327' == '$1327.0'
+  
+  - $1327.0
+  ?      --
+  + $1,327
+  ?   +",0.0004970829468220472
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_6,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '0%' == 'N/A'
+  
+  - N/A
+  + 0%",0.00021879200357943773
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_7,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_7,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '0' == 'N/A'
+  
+  - N/A
+  + 0",0.00015887501649558544
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_8,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_8,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',7.612502668052912e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_9,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_9,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-' == '0.0 [Y!CrxTp%/#*'
+  
+  - 0.0 [Y!CrxTp%/#*
+  + -",0.00017687503714114428
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_10,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_10,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-213,600%' == '-213600.00%'
+  
+  - -213600.00%
+  ?        ---
+  + -213,600%
+  ?     +",0.00022579100914299488
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_11,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_11,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '0' == '$0.0'
+  
+  - $0.0
+  + 0",0.00017695792485028505
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_12,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_12,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-$2,354.04' == '$-2354.039999999999964'
+  
+  - $-2354.039999999999964
+  + -$2,354.04",0.0001902919029816985
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_13,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_13,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + $1,566.73",0.0004499159986153245
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_14,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_14,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '0' == 'N/A'
+  
+  - N/A
+  + 0",0.0002108750632032752
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_15,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_15,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',7.320789154618979e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_16,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_16,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + $1,566.73",0.00017554196529090405
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_17,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_17,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,327' == '$1327.0'
+  
+  - $1327.0
+  ?      --
+  + $1,327
+  ?   +",0.00019399996381253004
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_18,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_18,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + $1,566.73",0.00015416694805026054
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_19,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_19,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,AttributeError: 'int' object has no attribute 'upper',7.445795927196741e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_20,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_20,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-1,063.31' == '$-1063.307999999999993'
+  
+  - $-1063.307999999999993
+  + -1,063.31",0.00016366702038794756
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_21,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_21,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '0%' == 'N/A'
+  
+  - N/A
+  + 0%",0.00017337489407509565
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py::test_case_22,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_226,test_case_22,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',6.52089947834611e-05

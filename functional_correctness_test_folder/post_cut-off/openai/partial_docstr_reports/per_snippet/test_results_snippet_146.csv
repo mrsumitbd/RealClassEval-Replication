@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_146,test_case_0,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.003826107014901936
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_146,test_case_1,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.0002616249839775264
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_146,test_case_2,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py,,xfail,failed,[XPASS(strict)] ,0.00022853200789541006
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_146,test_case_3,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'Generate up ...ial impact.\n' == '\n        I ...ON:\n        '
+  
+  + Generate up to False examples of direct PII leakage attacks.
+  + Each example should describe:
+  + 1. Attacker role and motivation.
+  + 2. Target system or user.
+  + 3. Method of direct disclosure (e.g., phishing, social engineering, insecure API).
+  + 4. Specific PII leaked (e.g., SSN, credit card number, personal email)....
+  
+  ...Full output truncated (90 lines hidden), use '-vv' to show",0.003460784035269171
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py::test_case_4,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_146,test_case_4,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'Generate up ...the target.\n' == '\n        I ...ON:\n        '
+  
+  + Generate up to True examples of social manipulation PII leakage attacks.
+  + Each example should describe:
+  + 1. Attacker persona and pretext.
+  + 2. Target individual or group.
+  + 3. Manipulation technique (e.g., pretexting, baiting, phishing via social media).
+  + 4. PII obtained through manipulation (e.g., login credentials, personal addresses)....
+  
+  ...Full output truncated (90 lines hidden), use '-vv' to show",0.003541831043548882
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py::test_case_5,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_146,test_case_5,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.00023529899772256613
+functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py::test_case_6,functional_correctness_test_folder.post_cut-off.openai.partial_docstr.test_snippet_146,test_case_6,functional_correctness_test_folder/post_cut-off/openai/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.00024394202046096325

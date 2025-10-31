@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_129.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_129,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_129.py,,xfail,xfailed,,7.975000335136428e-05
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_129.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_129,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_129.py,,,failed,"assert [] is None
+ +  where [] = <snippet_129.FenwickNode object at 0x103b6bd00>.children",0.00013679100084118545
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_129.py::test_case_2,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_129,test_case_2,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_129.py,,,failed,"assert [] is None
+ +  where [] = <snippet_129.FenwickNode object at 0x101a8c0a0>.children",0.00012200000492157415
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_129.py::test_case_3,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_129,test_case_3,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_129.py,,xfail,xfailed,,8.062500273808837e-05
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_129.py::test_case_4,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_129,test_case_4,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_129.py,,,failed,"assert [] is None
+ +  where [] = <snippet_129.FenwickNode object at 0x103c1cdc0>.children",0.00012258399510756135

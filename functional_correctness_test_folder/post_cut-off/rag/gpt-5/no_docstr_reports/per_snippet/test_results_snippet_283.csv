@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_283.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.no_docstr.test_snippet_283,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_283.py,,xfail,xfailed,,9.687489364296198e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_283.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.no_docstr.test_snippet_283,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_283.py,,,failed,"assert {} is None
+ +  where {} = CreateFeedModel(display_name=None, details={}).details",0.000330875045619905
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_283.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-5.no_docstr.test_snippet_283,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-5/no_docstr/test_snippet_283.py,,,failed,"assert {} is None
+ +  where {} = CreateFeedModel(display_name=None, details={}).details",0.00011700007598847151

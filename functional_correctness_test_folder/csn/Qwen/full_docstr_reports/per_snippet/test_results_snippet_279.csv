@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_279.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_279,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_279.py,,,passed,,8.270800026366487e-05
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_279.py::test_case_1,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_279,test_case_1,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_279.py,,,failed,"TypeError: -2270 argument after ** must be a mapping, not int",8.737500320421532e-05

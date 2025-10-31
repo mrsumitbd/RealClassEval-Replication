@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_327.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.partial_docstr.test_snippet_327,test_case_0,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_327.py,,,failed,AttributeError: 'EventRenderer' object has no attribute 'pending_function_call'. Did you mean: '_pending_function_call'?,0.0002186669735237956

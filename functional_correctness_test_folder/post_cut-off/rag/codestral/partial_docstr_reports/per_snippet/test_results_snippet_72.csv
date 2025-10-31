@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_72.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_72,test_case_0,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_72.py,,,failed,"AssertionError: assert '(|rb|b|Rb|U|...|Br|F|r|f|Rf)' == '(|rf|rb|B|f|...fr|U|br|b|FR)'
+  
+  - (|rf|rb|B|f|R|Br|BR|fR|rF|Rb|rB|r|F|u|RB|Fr|bR|RF|Rf|fr|U|br|b|FR)
+  + (|rb|b|Rb|U|rB|rF|R|B|bR|fr|u|BR|Fr|FR|RF|rf|fR|RB|br|Br|F|r|f|Rf)",0.0005177919520065188
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_72.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_72,test_case_1,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_72.py,,,failed,TypeError: SessionAgent.__init__() takes 1 positional argument but 5 were given,9.358290117233992e-05

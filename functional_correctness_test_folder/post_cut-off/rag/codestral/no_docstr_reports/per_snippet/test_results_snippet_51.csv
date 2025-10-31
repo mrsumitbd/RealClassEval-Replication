@@ -1,0 +1,14 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_51.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.codestral.no_docstr.test_snippet_51,test_case_0,functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_51.py,,xfail,xfailed,,0.0006580830086022615
+functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_51.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.codestral.no_docstr.test_snippet_51,test_case_1,functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_51.py,,,passed,,7.108401041477919e-05
+functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_51.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.codestral.no_docstr.test_snippet_51,test_case_2,functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_51.py,,,passed,,5.866598803550005e-05
+functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_51.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.codestral.no_docstr.test_snippet_51,test_case_3,functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_51.py,,,failed,"AssertionError: assert {'/Users/umro...ons.abc', ...} == {}
+  
+  Left contains 681 more items:
+  {'/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/snippet_51.py': 'snippet_51',
+   '/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/post_cut-off/rag/codestral/no_docstr/test_snippet_51.py': 'test_snippet_51',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/__future__.py': '__future__',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_collections_abc.py': 'collections.abc',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_compat_pickle.py': '_compat_pickle',...
+  
+  ...Full output truncated (677 lines hidden), use '-vv' to show",0.004603625042364001

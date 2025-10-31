@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_210.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_210,test_case_0,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_210.py,,xfail,failed,[XPASS(strict)] ,7.899999764049426e-05

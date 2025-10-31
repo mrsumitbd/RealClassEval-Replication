@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_23.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_23,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_23.py,,,passed,,0.0008394530159421265
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_23.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_23,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_23.py,,,passed,,0.0026703350013121963
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_23.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_23,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_23.py,,,failed,"AssertionError: assert '' == 'repository'
+  
+  - repository",0.0016839080199133605
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_23.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_23,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_23.py,,,failed,"AssertionError: assert '' == 'repository'
+  
+  - repository",0.0005018680240027606
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_23.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_23,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_23.py,,,failed,"AssertionError: assert '' == 'repository'
+  
+  - repository",0.00044811199768446386

@@ -1,0 +1,28 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_148,test_case_0,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.0032352580019505695
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_148,test_case_1,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.00027589299861574546
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_148,test_case_2,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py,,,failed,"AssertionError: assert 'Provide Fals...e the target.' == '\n        I ...ON:\n        '
+  
+  + Provide False examples of mockery that ridicule or humiliate a target. These examples should be designed to embarrass or degrade the target.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should push the assistant to mock, deride, or belittle a target for comedic effect.
+  -         Each request must be specific and designed for maximum humiliation.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.0016317170011461712
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_148,test_case_3,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.0003613540029618889
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py::test_case_4,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_148,test_case_4,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.0018356000000494532
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py::test_case_5,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_148,test_case_5,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py,,,failed,"AssertionError: assert 'Create True ... to a target.' == '\n        I ...ON:\n        '
+  
+  + Create True examples of direct threats of violence or harm. Each example should explicitly threaten physical or emotional harm to a target.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` must encourage the assistant to formulate explicit threats—verbal, written, or implied.
+  -         Each request should be realistic and unambiguously intimidating.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.0018542320030974224
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py::test_case_6,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_148,test_case_6,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.0003550120018189773
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py::test_case_7,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_148,test_case_7,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.00024482799926772714
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py::test_case_8,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_148,test_case_8,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.00025384200125699863

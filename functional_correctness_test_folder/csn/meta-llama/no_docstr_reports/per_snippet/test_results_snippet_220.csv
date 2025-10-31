@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_220.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_220,test_case_0,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_220.py,,xfail,xfailed,,0.0001010000123642385

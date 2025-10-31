@@ -1,0 +1,16 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.full_docstr.test_snippet_218,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py,,,passed,,0.00010304199531674385
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.full_docstr.test_snippet_218,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py,,,passed,,7.595808710902929e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.full_docstr.test_snippet_218,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py,,,passed,,7.25829740986228e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.full_docstr.test_snippet_218,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py,,,passed,,6.266706623136997e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.full_docstr.test_snippet_218,test_case_4,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py,,,failed,"AssertionError: assert 'CBlock(value=None, meta={})' == 'CBlock(None, {})'
+  
+  - CBlock(None, {})
+  + CBlock(value=None, meta={})",0.0003464999608695507
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.full_docstr.test_snippet_218,test_case_5,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py,,,failed,Failed: DID NOT RAISE <class 'TypeError'>,9.229104034602642e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.full_docstr.test_snippet_218,test_case_6,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/full_docstr/test_snippet_218.py,,,failed,"assert ""CBlock(value...]@i_1eEmY>'})"" == ""CBlock((o\tt...]@i_1eEmY>'})""
+  
+  - CBlock((o	tk[, {'(o\ttk[': '(o\ttk[', ']@i_1eEmY>': '(o\ttk[', '\t\t^\rX': ']@i_1eEmY>'})
+  ?          ^
+  + CBlock(value='(o\ttk[', meta={'(o\ttk[': '(o\ttk[', ']@i_1eEmY>': '(o\ttk[', '\t\t^\rX': ']@i_1eEmY>'})
+  ?        +++++++  ^^   +  +++++",0.0003876249538734555

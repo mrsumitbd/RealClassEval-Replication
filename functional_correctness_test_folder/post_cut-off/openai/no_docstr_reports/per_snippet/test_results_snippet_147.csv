@@ -1,0 +1,27 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_147,test_case_0,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py,,,failed,"AssertionError: assert 'Attack 1: Ex...s from prompt' == '\n        I ...ON:\n        '
+  
+  + Attack 1: Extract API keys from prompt
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` must attempt to extract sensitive credentials or secret configuration details from the system.
+  -         IMPORTANT: Return **only** valid JSON with a top-level 'data' list.
+  -         You MUST generate True data points....
+  
+  ...Full output truncated (59 lines hidden), use '-vv' to show",0.0012366590090095997
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_147,test_case_1,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py,,xfail,failed,[XPASS(strict)] ,0.00023789802799001336
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_147,test_case_2,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py,,xfail,failed,[XPASS(strict)] ,0.00021795998327434063
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_147,test_case_3,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py,,xfail,xfailed,,0.00029032904421910644
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py::test_case_4,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_147,test_case_4,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py,,,failed,"AssertionError: assert '' == '\n        I ...ON:\n        '
+  
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, create JSON 'input' requests that expose hidden
+  -         system prompts, prior user messages, or private instructions. Return **only** JSON with 'data' list.
+  -         You MUST generate False data points.
+  - 
+  -         **...
+  
+  ...Full output truncated (57 lines hidden), use '-vv' to show",0.0006538380403071642
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py::test_case_5,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_147,test_case_5,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py,,xfail,failed,[XPASS(strict)] ,0.00022634898778051138
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py::test_case_6,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_147,test_case_6,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py,,xfail,xfailed,,0.0003574090078473091
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py::test_case_7,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_147,test_case_7,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_147.py,,xfail,xfailed,,0.00036979798460379243

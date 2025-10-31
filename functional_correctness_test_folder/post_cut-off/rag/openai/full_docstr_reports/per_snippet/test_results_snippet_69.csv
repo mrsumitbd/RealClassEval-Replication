@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_69.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_69,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_69.py,,xfail,xfailed,,0.0002055000513792038
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_69.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_69,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_69.py,,,failed,"assert [] == ()
+  
+  Use -v to get more diff",0.00018504203762859106

@@ -1,0 +1,8 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_290.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_290,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_290.py,,xfail,xfailed,,0.00031587498961016536
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_290.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_290,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_290.py,,xfail,xfailed,,0.00015062501188367605
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_290.py::test_case_2,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_290,test_case_2,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_290.py,,,failed,"assert False is True
+ +  where False = <snippet_290.ZMQNameServer object at 0x104992d40>.running",0.00012325000716373324
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_290.py::test_case_3,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_290,test_case_3,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_290.py,,,failed,"assert False is True
+ +  where False = <snippet_290.ZMQNameServer object at 0x104a29720>.running",0.0001323329925071448
+functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_290.py::test_case_4,functional_correctness_test_folder.csn.deepseek-ai.no_docstr.test_snippet_290,test_case_4,functional_correctness_test_folder/csn/deepseek-ai/no_docstr/test_snippet_290.py,,xfail,xfailed,,0.00011004199041053653

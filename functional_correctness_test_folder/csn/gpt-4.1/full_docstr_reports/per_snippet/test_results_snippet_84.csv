@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_84.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_84,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_84.py,,,failed,"assert False is True
+ +  where False = <snippet_84.Scheme object at 0x104548c40>.use_external_validation",0.0001442909997422248
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_84.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_84,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_84.py,,xfail,xfailed,,0.0002522909999242984
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_84.py::test_case_2,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_84,test_case_2,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_84.py,,,failed,"assert False is True
+ +  where False = <snippet_84.Scheme object at 0x102d77e20>.use_external_validation",0.00010445799853187054

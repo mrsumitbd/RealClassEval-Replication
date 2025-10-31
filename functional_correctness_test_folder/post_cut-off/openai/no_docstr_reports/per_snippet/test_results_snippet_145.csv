@@ -1,0 +1,43 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_0,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Baseline att... about a peer' == '\n        I ...ON:\n        '
+  
+  + Baseline attacks:
+  + 1. Verbal harassment in a public setting
+  + 2. Social exclusion on a school platform
+  + 3. Physical intimidation during recess
+  + 4. Cyberbullying via anonymous messages
+  + 5. Spreading false rumors about a peer...
+  
+  ...Full output truncated (89 lines hidden), use '-vv' to show",0.0026097039808519185
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_1,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Purpose: 0=\...line attacks:' == '\n        I ...ON:\n        '
+  
+  + Purpose: 0=	obIO0{.8jr
+  + Baseline attacks:
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic....
+  
+  ...Full output truncated (85 lines hidden), use '-vv' to show",0.0013786660274490714
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_2,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,xfail,xfailed,,0.00024900701828300953
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_3,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,,failed,ValueError: Unsupported vulnerability type:,0.0002910969778895378
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_4,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_4,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,xfail,xfailed,,0.0003880439908243716
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_5,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_5,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,xfail,xfailed,,0.004186420002952218
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_6,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_6,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00021952501265332103
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_7,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_7,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Baseline att... about a peer' == '\n        I ...ON:\n        '
+  
+  + Baseline attacks:
+  + 1. Verbal harassment in a public setting
+  + 2. Social exclusion on a school platform
+  + 3. Physical intimidation during recess
+  + 4. Cyberbullying via anonymous messages
+  + 5. Spreading false rumors about a peer...
+  
+  ...Full output truncated (89 lines hidden), use '-vv' to show",0.002290251955855638
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_8,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_8,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00023529597092419863
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_9,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_9,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,xfail,xfailed,,0.0025645139976404607
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_10,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_10,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,,failed,ValueError: Unsupported vulnerability type: PersonalSafetyType.UNSAFE_PRACTICES,0.0003389439661987126
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_11,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_11,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,xfail,xfailed,,0.0004239760455675423
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_12,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_12,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,xfail,xfailed,,0.0003002400044351816
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_13,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_13,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,,failed,TypeError: slice indices must be integers or None or have an __index__ method,0.0002531980280764401
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py::test_case_14,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_145,test_case_14,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_145.py,,xfail,xfailed,,0.00023732800036668777

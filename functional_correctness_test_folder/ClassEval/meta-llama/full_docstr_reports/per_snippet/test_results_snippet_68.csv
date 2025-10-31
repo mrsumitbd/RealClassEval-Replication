@@ -1,0 +1,58 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_1,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_add_dish_1,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,passed,,0.00010545802069827914
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_2,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_add_dish_2,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,passed,,0.01908825000282377
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_3,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_add_dish_3,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,passed,,9.537499863654375e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_4,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_add_dish_4,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,passed,,0.00016150000737980008
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_5,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_add_dish_5,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,passed,,0.00014608300989493728
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestAddDish::test_add_dish_6,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_add_dish_6,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,failed,AssertionError: False is not true,0.0002971249632537365
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_1,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_calculate_total_1,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,passed,,9.391701314598322e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_2,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_calculate_total_2,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,passed,,7.162499241530895e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_3,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_calculate_total_3,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,passed,,7.412501145154238e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_4,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_calculate_total_4,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,passed,,9.362498531118035e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestCalculateTotal::test_calculate_total_5,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_calculate_total_5,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,passed,,8.020800305530429e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_1,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_checkout_1,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'price': 10, 'count': 2[41 chars]: 2}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'price': 10, 'count': 2}
+
+- []
++ [{'count': 2, 'dish': 'dish1', 'price': 10},
++  {'count': 2, 'dish': 'dish3', 'price': 20}]",0.00022041599731892347
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_2,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_checkout_2,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,passed,,7.587502477690578e-05
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_3,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_checkout_3,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'price': 10, 'count': 1[41 chars]: 1}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'price': 10, 'count': 1}
+
+- []
++ [{'count': 1, 'dish': 'dish1', 'price': 10},
++  {'count': 1, 'dish': 'dish3', 'price': 20}]",0.00018324999837204814
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_4,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_checkout_4,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'price': 10, 'count': 3[41 chars]: 3}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'price': 10, 'count': 3}
+
+- []
++ [{'count': 3, 'dish': 'dish1', 'price': 10},
++  {'count': 3, 'dish': 'dish3', 'price': 20}]",0.0002411670284345746
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTestCheckout::test_checkout_5,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_checkout_5,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'price': 10, 'count': 5[41 chars]: 5}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'price': 10, 'count': 5}
+
+- []
++ [{'count': 5, 'dish': 'dish1', 'price': 10},
++  {'count': 5, 'dish': 'dish3', 'price': 20}]",0.00022549997083842754
+functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py::OrderTest::test_order,functional_correctness_test_folder.ClassEval.meta-llama.full_docstr.test_snippet_68,test_order,functional_correctness_test_folder/ClassEval/meta-llama/full_docstr/test_snippet_68.py,,,failed,"AssertionError: Lists differ: [] != [{'dish': 'dish1', 'price': 10, 'count': 2[41 chars]: 2}]
+
+Second list contains 2 additional elements.
+First extra element 0:
+{'dish': 'dish1', 'price': 10, 'count': 2}
+
+- []
++ [{'count': 2, 'dish': 'dish1', 'price': 10},
++  {'count': 2, 'dish': 'dish3', 'price': 20}]",0.00020829198183491826

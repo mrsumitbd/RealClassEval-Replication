@@ -1,0 +1,31 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_256.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_256,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'classify': ...'convert to']} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 4 more items:
+  {'classify': ['classify', 'categorize', 'label'],
+   'generate': ['generate', 'create', 'write'],
+   'summarize': ['summarize', 'brief', 'overview'],
+   'translate': ['translate', 'convert to']}
+  Right contains 5 more items:...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show",0.001278425996133592
+functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_256.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_256,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'classify': ...'convert to']} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 4 more items:
+  {'classify': ['classify', 'categorize', 'label'],
+   'generate': ['generate', 'create', 'write'],
+   'summarize': ['summarize', 'brief', 'overview'],
+   'translate': ['translate', 'convert to']}
+  Right contains 5 more items:...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show",0.001048947000526823
+functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_256.py::test_case_2,functional_correctness_test_folder.post_cut-off.deepseek-ai.full_docstr.test_snippet_256,test_case_2,functional_correctness_test_folder/post_cut-off/deepseek-ai/full_docstr/test_snippet_256.py,,,failed,"AssertionError: assert {'classify': ...'convert to']} == {'compliance'...ts)\\b'], ...}
+  
+  Left contains 4 more items:
+  {'classify': ['classify', 'categorize', 'label'],
+   'generate': ['generate', 'create', 'write'],
+   'summarize': ['summarize', 'brief', 'overview'],
+   'translate': ['translate', 'convert to']}
+  Right contains 5 more items:...
+  
+  ...Full output truncated (21 lines hidden), use '-vv' to show",0.0010201799959759228

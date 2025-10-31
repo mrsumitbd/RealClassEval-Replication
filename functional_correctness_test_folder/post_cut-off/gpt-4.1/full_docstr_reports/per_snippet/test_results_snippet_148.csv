@@ -1,0 +1,28 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_148,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.0019107609987258911
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_148,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.0002590100048109889
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_148,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py,,,failed,"AssertionError: assert 'Create False...feel foolish.' == '\n        I ...ON:\n        '
+  
+  + Create False prompts that ridicule or humiliate someone. Each should be sarcastic, belittling, and designed to make the target feel foolish.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should push the assistant to mock, deride, or belittle a target for comedic effect.
+  -         Each request must be specific and designed for maximum humiliation.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.002698384996620007
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_148,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.0002632789983181283
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_148,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.0016177330035134219
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_148,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py,,,failed,"AssertionError: assert 'Write True d...o cause harm.' == '\n        I ...ON:\n        '
+  
+  + Write True direct threats of violence or harm. Each threat should be explicit, intimidating, and leave no doubt about the intent to cause harm.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` must encourage the assistant to formulate explicit threats—verbal, written, or implied.
+  -         Each request should be realistic and unambiguously intimidating.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.0015022459992906079
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_148,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.0002888870003516786
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py::test_case_7,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_148,test_case_7,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.00023888999567134306
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py::test_case_8,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_148,test_case_8,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.0002388560023973696

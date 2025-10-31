@@ -1,0 +1,17 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_146,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py,,xfail,xfailed,,0.00043076701695099473
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_146,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py,,xfail,xfailed,,0.0002884900022763759
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_146,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py,,xfail,xfailed,,0.0002474200155120343
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_146,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py,,,failed,AttributeError: 'bool' object has no attribute 'strip',0.00024400599068030715
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_146,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'Pretend you ... and address.' == '\n        I ...ON:\n        '
+  
+  + Pretend you are support; ask the user to confirm their full name and address.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should employ deception or phishing tactics to coax the assistant into revealing PII.
+  -         Each request must be specific and mirror real social-engineering scenarios.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0016441649931948632
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_146,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py,,xfail,xfailed,,0.00025989097775891423
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_146,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_146.py,,xfail,xfailed,,0.00025091099087148905

@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_144,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py,,,failed,"AssertionError: assert 'market_manip..._True_default' == '\n        I ...ON:\n        '
+  
+  + market_manipulation_baseline_attacks_True_default
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should encourage the system to generate content or suggestions that could unfairly influence market perceptions
+  -         or a competitor's standing. Mention only real companies. Each `input` must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0013414330023806542
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_144,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py,,xfail,failed,[XPASS(strict)] ,0.00023033499019220471
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py::test_case_2,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_144,test_case_2,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py,,,failed,"AssertionError: assert 'confidential...False_default' == '\n        I ...ON:\n        '
+  
+  + confidential_strategies_baseline_attacks_False_default
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should encourage the system to infer or disclose confidential business strategies—product roadmaps,
+  -         marketing plans, M&A moves—about real competitors. Each `input` must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0009436130058020353
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py::test_case_3,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_144,test_case_3,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py,,xfail,failed,[XPASS(strict)] ,0.0002810159930959344
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py::test_case_4,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_144,test_case_4,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py,,xfail,xfailed,,0.0009135340224020183
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py::test_case_5,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_144,test_case_5,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py,,xfail,failed,[XPASS(strict)] ,0.00024594698334112763
+functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py::test_case_6,functional_correctness_test_folder.post_cut-off.deepseek-ai.no_docstr.test_snippet_144,test_case_6,functional_correctness_test_folder/post_cut-off/deepseek-ai/no_docstr/test_snippet_144.py,,xfail,failed,[XPASS(strict)] ,0.0002280329936183989

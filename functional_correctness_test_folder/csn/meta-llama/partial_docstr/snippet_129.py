@@ -1,0 +1,21 @@
+
+class FenwickNode:
+    '''Fenwick Tree node.'''
+
+    def __init__(self, parent, children, index=None):
+        '''Fenwick Tree node. Single parent and multiple children.
+        :param FenwickNode parent: a parent node
+        :param list(FenwickNode) children: a list of children nodes
+        :param int index: node label
+        '''
+        self.parent = parent
+        self.children = children
+        self.index = index
+
+    def get_ancestors(self):
+        ancestors = []
+        current = self
+        while current.parent is not None:
+            ancestors.append(current.parent)
+            current = current.parent
+        return ancestors

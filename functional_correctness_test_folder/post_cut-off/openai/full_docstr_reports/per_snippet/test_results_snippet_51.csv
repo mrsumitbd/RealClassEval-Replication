@@ -1,0 +1,14 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_51.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_51,test_case_0,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_51.py,,xfail,xfailed,,0.0004296379993320443
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_51.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_51,test_case_1,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_51.py,,,passed,,0.00022265900042839348
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_51.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_51,test_case_2,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_51.py,,,passed,,0.0002125249957316555
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_51.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_51,test_case_3,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_51.py,,,failed,"AssertionError: assert {'/Users/musf...ons.abc', ...} == {}
+  
+  Left contains 3770 more items:
+  {'/Users/musfiqurrahman/Documents/PhD/Replication_Packages_Backup/OpenClassGen/functional_correctness_test_folder/post_cut-off/openai/full_docstr/snippet_51.py': 'snippet_51',
+   '/Users/musfiqurrahman/Documents/PhD/Replication_Packages_Backup/OpenClassGen/functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_51.py': 'test_snippet_51',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/__future__.py': '__future__',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_collections_abc.py': 'collections.abc',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_compat_pickle.py': '_compat_pickle',...
+  
+  ...Full output truncated (3766 lines hidden), use '-vv' to show",0.08661116599978413

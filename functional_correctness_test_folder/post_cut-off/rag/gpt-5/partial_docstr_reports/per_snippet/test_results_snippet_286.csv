@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_286.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_286,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_286.py,,,passed,,0.0002317080507054925
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_286.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_286,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_286.py,,,failed,"assert ""NavigationAc...Crq(\\r^Nh>')"" == 'NavigationAc...8ICrq(\r^Nh>)'
+  
+  - NavigationAction(target_uri=!	bF8GB8ICrq(
+  ?                              ^           ^
+  + NavigationAction(target_uri='!\tbF8GB8ICrq(\r^Nh>')
+  ?                             + ^^           ^^^^^^^^
+  - ^Nh>)",0.0003248340217396617

@@ -1,0 +1,8 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_290.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_290,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_290.py,,xfail,xfailed,,0.0004695420211646706
+functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_290.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_290,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_290.py,,xfail,xfailed,,0.00020191699150018394
+functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_290.py::test_case_2,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_290,test_case_2,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_290.py,,,failed,"assert False is True
+ +  where False = <snippet_290.ZMQNameServer object at 0x106c12b90>.running",0.00014391701552085578
+functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_290.py::test_case_3,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_290,test_case_3,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_290.py,,,failed,"assert False is True
+ +  where False = <snippet_290.ZMQNameServer object at 0x106cd5330>.running",0.00013354100519791245
+functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_290.py::test_case_4,functional_correctness_test_folder.csn.gpt-4.1.partial_docstr.test_snippet_290,test_case_4,functional_correctness_test_folder/csn/gpt-4.1/partial_docstr/test_snippet_290.py,,xfail,xfailed,,0.00012737500946968794

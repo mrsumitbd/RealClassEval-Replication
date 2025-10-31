@@ -1,0 +1,15 @@
+
+from dataclasses import dataclass
+from typing import Dict, Any
+
+
+@dataclass
+class UpdateRuleDeployment:
+    '''Model for updating rule deployment.'''
+
+    def __post_init__(self):
+        pass
+
+    def to_dict(self) -> Dict[str, Any]:
+        '''Convert to dictionary for JSON serialization.'''
+        return self.__dict__

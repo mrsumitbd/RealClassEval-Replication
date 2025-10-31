@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_38.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_38,test_case_0,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_38.py,,,failed,"AssertionError: assert 'ellipsis' == 'visible'
+  
+  - visible
+  + ellipsis",0.0010362580069340765
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_38.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_38,test_case_1,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_38.py,,,failed,"AssertionError: assert 'ellipsis' == 'visible'
+  
+  - visible
+  + ellipsis",0.0006823230069130659
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_38.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_38,test_case_2,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_38.py,,,passed,,0.00029680499574169517

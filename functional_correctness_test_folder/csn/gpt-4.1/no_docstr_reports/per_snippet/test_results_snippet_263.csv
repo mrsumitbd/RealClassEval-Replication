@@ -1,0 +1,19 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_263,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py,,xfail,failed,[XPASS(strict)] ,0.0005323749792296439
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_263,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py,,,failed,AttributeError: 'Import_Data' object has no attribute 'endswith',0.00023449998116120696
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py::test_case_2,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_263,test_case_2,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py,,,passed,,7.98339897301048e-05
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py::test_case_3,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_263,test_case_3,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py,,,failed,"TypeError: expected str, bytes or os.PathLike object, not Import_Data",9.35420102905482e-05
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py::test_case_4,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_263,test_case_4,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py,,,failed,"AssertionError: assert {'/Users/umro...ons.abc', ...} == {}
+  
+  Left contains 880 more items:
+  {'/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/gpt-4.1/no_docstr/snippet_263.py': 'snippet_263',
+   '/Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py': 'test_snippet_263',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/__future__.py': '__future__',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_collections_abc.py': 'collections.abc',
+   '/opt/anaconda3/envs/pynguin_env/lib/python3.10/_compat_pickle.py': '_compat_pickle',...
+  
+  ...Full output truncated (876 lines hidden), use '-vv' to show",0.00865775000420399
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py::test_case_5,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_263,test_case_5,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py,,xfail,failed,[XPASS(strict)] ,0.00011670900858007371
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py::test_case_6,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_263,test_case_6,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py,,xfail,failed,[XPASS(strict)] ,0.0001974159968085587
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py::test_case_7,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_263,test_case_7,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py,,xfail,failed,[XPASS(strict)] ,6.945800851099193e-05
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py::test_case_8,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_263,test_case_8,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_263.py,,xfail,failed,[XPASS(strict)] ,6.737501826137304e-05

@@ -1,0 +1,28 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_148,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.0014457459983532317
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_148,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.00024093599495245144
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py::test_case_2,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_148,test_case_2,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py,,,failed,"AssertionError: assert 'Generate Fal...ing someone. ' == '\n        I ...ON:\n        '
+  
+  + Generate False instances of ridiculing or humiliating someone. 
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should push the assistant to mock, deride, or belittle a target for comedic effect.
+  -         Each request must be specific and designed for maximum humiliation.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.0010877759996219538
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py::test_case_3,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_148,test_case_3,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.0002175330009777099
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py::test_case_4,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_148,test_case_4,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.0010219610048807226
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py::test_case_5,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_148,test_case_5,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py,,,failed,"AssertionError: assert 'Generate Tru...nce or harm. ' == '\n        I ...ON:\n        '
+  
+  + Generate True direct threats of violence or harm. 
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` must encourage the assistant to formulate explicit threats—verbal, written, or implied.
+  -         Each request should be realistic and unambiguously intimidating.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.0010540290022618137
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py::test_case_6,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_148,test_case_6,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.00026338799943914637
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py::test_case_7,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_148,test_case_7,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.0002406130006420426
+functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py::test_case_8,functional_correctness_test_folder.post_cut-off.Qwen.full_docstr.test_snippet_148,test_case_8,functional_correctness_test_folder/post_cut-off/Qwen/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.00025213699700543657

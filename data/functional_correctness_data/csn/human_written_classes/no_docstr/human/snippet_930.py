@@ -1,0 +1,69 @@
+class PropertyDescriptor:
+
+    def __init__(self, **kwargs):
+        self.concept_uri = kwargs.pop('concept_uri', kwargs.pop('conceptURI', None))
+        formats = kwargs.pop('conditional_formats', kwargs.pop('conditionalFormats', []))
+        format_instances = []
+        for f in formats:
+            format_instances.append(ConditionalFormat(**f))
+        self.conditional_formats = format_instances
+        self.container = kwargs.pop('container', None)
+        self.default_display_value = kwargs.pop('default_display_value', kwargs.pop('defaultDisplayValue', None))
+        self.default_scale = kwargs.pop('default_scale', kwargs.pop('defaultScale', None))
+        self.default_value = kwargs.pop('default_value', kwargs.pop('defaultValue', None))
+        self.default_value_type = kwargs.pop('default_value_type', kwargs.pop('defaultValueType', None))
+        self.derivation_data_scope = kwargs.pop('derivation_data_scope', kwargs.pop('derivationDataScope', None))
+        self.description = kwargs.pop('description', None)
+        self.dimension = kwargs.pop('dimension', None)
+        self.disable_editing = kwargs.pop('disable_editing', kwargs.pop('disableEditing', None))
+        self.exclude_from_shifting = kwargs.pop('exclude_from_shifting', kwargs.pop('excludeFromShifting', None))
+        self.faceting_behavior_type = kwargs.pop('faceting_behavior_type', kwargs.pop('facetingBehaviorType', None))
+        self.format = kwargs.pop('format', None)
+        self.hidden = kwargs.pop('hidden', None)
+        self.import_aliases = kwargs.pop('import_aliases', kwargs.pop('importAliases', None))
+        self.label = kwargs.pop('label', None)
+        self.lookup_container = kwargs.pop('lookup_container', kwargs.pop('lookupContainer', None))
+        self.lookup_description = kwargs.pop('lookup_description', kwargs.pop('lookupDescription', None))
+        self.lookup_query = kwargs.pop('lookup_query', kwargs.pop('lookupQuery', None))
+        self.lookup_schema = kwargs.pop('lookup_schema', kwargs.pop('lookupSchema', None))
+        self.measure = kwargs.pop('measure', None)
+        self.mv_enabled = kwargs.pop('mv_enabled', kwargs.pop('mvEnabled', None))
+        self.name = kwargs.pop('name', None)
+        self.ontology_uri = kwargs.pop('ontology_uri', kwargs.pop('ontologyURI', None))
+        self.phi = kwargs.pop('phi', None)
+        self.prevent_reordering = kwargs.pop('prevent_reordering', kwargs.pop('preventReordering', None))
+        self.property_id = kwargs.pop('property_id', kwargs.pop('propertyId', None))
+        self.property_uri = kwargs.pop('property_uri', kwargs.pop('propertyURI', None))
+        validators = kwargs.pop('property_validators', kwargs.pop('propertyValidators', []))
+        validator_instances = []
+        for v in validators:
+            validator_instances.append(PropertyValidator(**v))
+        self.property_validators = validator_instances
+        self.range_uri = kwargs.pop('range_uri', kwargs.pop('rangeURI', None))
+        self.recommended_variable = kwargs.pop('recommended_variable', kwargs.pop('recommendedVariable', None))
+        self.redacted_text = kwargs.pop('redacted_text', kwargs.pop('redactedText', None))
+        self.required = kwargs.pop('required', None)
+        self.scale = kwargs.pop('scale', None)
+        self.search_terms = kwargs.pop('search_terms', kwargs.pop('searchTerms', None))
+        self.semantic_type = kwargs.pop('semantic_type', kwargs.pop('semanticType', None))
+        self.set_dimension = kwargs.pop('set_dimension', kwargs.pop('setDimension', None))
+        self.set_exclude_from_shifting = kwargs.pop('set_exclude_from_shifting', kwargs.pop('setExcludeFromShifting', None))
+        self.set_measure = kwargs.pop('set_measure', kwargs.pop('setMeasure', None))
+        self.shown_in_details_view = kwargs.pop('shown_in_details_view', kwargs.pop('shownInDetailsView', None))
+        self.shown_in_insert_view = kwargs.pop('shown_in_insert_view', kwargs.pop('shownInInsertView', None))
+        self.shown_in_update_view = kwargs.pop('shown_in_update_view', kwargs.pop('shownInUpdateView', None))
+        self.type_editable = kwargs.pop('type_editable', kwargs.pop('typeEditable', None))
+        self.url = kwargs.pop('url', None)
+        self.value_expression = kwargs.pop('value_expression', kwargs.pop('valueExpression', None))
+
+    def to_json(self, strip_none=True):
+        data = {'conceptURI': self.concept_uri, 'container': self.container, 'defaultDisplayValue': self.default_display_value, 'defaultScale': self.default_scale, 'defaultValue': self.default_value, 'defaultValueType': self.default_value_type, 'derivationDataScope': self.derivation_data_scope, 'description': self.description, 'dimension': self.dimension, 'disableEditing': self.disable_editing, 'excludeFromShifting': self.exclude_from_shifting, 'facetingBehaviorType': self.faceting_behavior_type, 'format': self.format, 'hidden': self.hidden, 'importAliases': self.import_aliases, 'label': self.label, 'lookupContainer': self.lookup_container, 'lookupDescription': self.lookup_description, 'lookupQuery': self.lookup_query, 'lookupSchema': self.lookup_schema, 'measure': self.measure, 'mvEnabled': self.mv_enabled, 'name': self.name, 'ontologyURI': self.ontology_uri, 'phi': self.phi, 'preventReordering': self.prevent_reordering, 'propertyId': self.property_id, 'propertyURI': self.property_uri, 'rangeURI': self.range_uri, 'recommendedVariable': self.recommended_variable, 'redactedText': self.redacted_text, 'required': self.required, 'scale': self.scale, 'searchTerms': self.search_terms, 'semanticType': self.semantic_type, 'setDimension': self.set_dimension, 'setExcludeFromShifting': self.set_exclude_from_shifting, 'setMeasure': self.set_measure, 'shownInDetailsView': self.shown_in_details_view, 'shownInInsertView': self.shown_in_insert_view, 'shownInUpdateView': self.shown_in_update_view, 'typeEditable': self.type_editable, 'url': self.url, 'valueExpression': self.value_expression}
+        json_formats = []
+        for f in self.conditional_formats:
+            json_formats.append(f.to_json())
+        data['conditionalFormats'] = json_formats
+        json_validators = []
+        for p in self.property_validators:
+            json_validators.append(p.to_json())
+        data['propertyValidators'] = json_validators
+        return strip_none_values(data, strip_none)

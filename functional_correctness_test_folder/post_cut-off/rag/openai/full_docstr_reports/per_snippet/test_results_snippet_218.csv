@@ -1,0 +1,16 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_218,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py,,,passed,,8.079200051724911e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_218,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py,,,passed,,6.454205140471458e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_218,test_case_2,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py,,,passed,,5.904096178710461e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_218,test_case_3,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py,,,passed,,6.0959020629525185e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_218,test_case_4,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py,,,failed,"AssertionError: assert 'CBlock(value=None, meta={})' == 'CBlock(None, {})'
+  
+  - CBlock(None, {})
+  + CBlock(value=None, meta={})",0.0002535000676289201
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_218,test_case_5,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py,,,failed,Failed: DID NOT RAISE <class 'TypeError'>,8.79999715834856e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_218,test_case_6,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_218.py,,,failed,"assert ""CBlock(value...]@i_1eEmY>'})"" == ""CBlock((o\tt...]@i_1eEmY>'})""
+  
+  - CBlock((o	tk[, {'(o\ttk[': '(o\ttk[', ']@i_1eEmY>': '(o\ttk[', '\t\t^\rX': ']@i_1eEmY>'})
+  ?          ^
+  + CBlock(value='(o\ttk[', meta={'(o\ttk[': '(o\ttk[', ']@i_1eEmY>': '(o\ttk[', '\t\t^\rX': ']@i_1eEmY>'})
+  ?        +++++++  ^^   +  +++++",0.0004301250446587801

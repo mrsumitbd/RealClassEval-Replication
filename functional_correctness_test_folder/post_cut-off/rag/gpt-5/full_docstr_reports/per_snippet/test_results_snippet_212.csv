@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_212.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_212,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_212.py,,xfail,xfailed,,0.0003131249686703086
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_212.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_212,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_212.py,,xfail,xfailed,,8.133298251777887e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_212.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_212,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_212.py,,,failed,"AssertionError: assert '/Users/umroo...assGen/src/Ql' == 'Ql'
+  
+  - Ql
+  + /Users/umroot/Documents/PhD_works/PhD-Core-Contents/OpenClassGen/src/Ql",0.0007486250251531601
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_212.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_212,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_212.py,,xfail,xfailed,,0.0003938340814784169
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_212.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_212,test_case_4,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_212.py,,xfail,xfailed,,0.0004149159649387002

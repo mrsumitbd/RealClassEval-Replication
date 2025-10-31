@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_132.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.partial_docstr.test_snippet_132,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_132.py,,,failed,"assert 1 == 0
+ +  where 1 = <snippet_132.Text_background object at 0x119b47280>.style",0.0005108480108901858
+functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_132.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.partial_docstr.test_snippet_132,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/partial_docstr/test_snippet_132.py,,,failed,"assert 1 == 0
+ +  where 1 = <snippet_132.Text_background object at 0x119b6f550>.style",0.0003829380148090422

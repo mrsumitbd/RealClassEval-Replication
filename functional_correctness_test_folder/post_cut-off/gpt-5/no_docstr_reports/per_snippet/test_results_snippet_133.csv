@@ -1,0 +1,11 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_133.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_133,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_133.py,,,failed,"assert 1136.19 == 2.27238 ± 2.3e-02
+  
+  comparison failed
+  Obtained: 1136.19
+  Expected: 2.27238 ± 2.3e-02",0.001048515987349674
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_133.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_133,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_133.py,,,failed,"assert 1.0 == 0.08000000000000002 ± 1.0e-02
+  
+  comparison failed
+  Obtained: 1.0
+  Expected: 0.08000000000000002 ± 1.0e-02",0.0005334089801181108

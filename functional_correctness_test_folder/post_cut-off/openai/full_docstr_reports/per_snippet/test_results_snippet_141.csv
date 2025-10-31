@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Consider the...r objectives.' == '\n        CO...ts.\n        '
+  
+  + Consider the following action as a potential improvement: j5g. This may align with broader objectives.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0016855350040714256
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Izn:^VmBJqm7%(h' == '\n        PR...ss.\n        '
+  
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY
+  -         Operational Scope: ALL_VULNERABILITY_DOMAINS...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show",0.0009385520024807192
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_141.py,,,failed,"assert 'Consider the...r objectives.' == '\n        CO...ts.\n        '
+  
+  + Consider the following action as a potential improvement: [fG\i""U. This may align with broader objectives.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0012230350039317273
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Y\x0cx#a@z5\...or processes.' == '\n        CO...ol.\n        '
+  
+  + Y
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH
+  -         Value Maximization: COMPREHENSIVE_DELIVERY...
+  
+  ...Full output truncated (11 lines hidden), use '-vv' to show",0.0006821549977757968

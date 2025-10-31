@@ -1,0 +1,35 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_1,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_mrr_1,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,0.00011029199231415987
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_mrr_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,7.816700963303447e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_mrr_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,7.708300836384296e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_mrr_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,6.933300755918026e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_5,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_mrr_5,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,7.116596680134535e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_6,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_mrr_6,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,7.174996426329017e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_7,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_mrr_7,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,failed,"AssertionError: Lists differ: [] != [0.0]
+
+Second list contains 1 additional elements.
+First extra element 0:
+0.0
+
+- []
++ [0.0]",0.0001842080382630229
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_8,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_mrr_8,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,failed,AssertionError: 0.75 != 0.0,0.0001259169657714665
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_1,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_map_1,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,8.045800495892763e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_map_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,7.712503429502249e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_map_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,6.891699740663171e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_map_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,6.824999582022429e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_5,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_map_5,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,7.924996316432953e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_6,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_map_6,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,6.658403435721993e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_7,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_map_7,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,failed,"AssertionError: Lists differ: [] != [0.0]
+
+Second list contains 1 additional elements.
+First extra element 0:
+0.0
+
+- []
++ [0.0]",0.00013545900583267212
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_8,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_map_8,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,8.062500273808837e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2Test::test_metricscalculator2_1,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_metricscalculator2_1,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,7.008301327005029e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2Test::test_metricscalculator2_2,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_metricscalculator2_2,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,7.183401612564921e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2Test::test_metricscalculator2_3,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_metricscalculator2_3,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,7.416598964482546e-05
+functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py::MetricsCalculator2Test::test_metricscalculator2_4,functional_correctness_test_folder.ClassEval.gpt-4.1.full_docstr.test_snippet_58,test_metricscalculator2_4,functional_correctness_test_folder/ClassEval/gpt-4.1/full_docstr/test_snippet_58.py,,,passed,,6.84160040691495e-05

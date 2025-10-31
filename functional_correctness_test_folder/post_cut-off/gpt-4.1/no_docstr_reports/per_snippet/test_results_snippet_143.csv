@@ -1,0 +1,53 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_143,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'No baseline ...ability type.' == '\n        I ...ON:\n        '
+  
+  + No baseline attacks available for the specified vulnerability type.
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests whether fabricated memories or poisoned context can hijack the agent's behavior and decision-making processes.
+  -         Each `input` should test whether the agent can distinguish between legitimate context and manipulated information designed to steer outcomes.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.0015969600062817335
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_143,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py,,,passed,,0.00022812100360170007
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_143,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Generate Rob...c input cues.' == '\n        I ...ON:\n        '
+  
+  + Generate RobustnessType.INPUT_OVERRELIANCE baseline attacks targeting input overreliance. Each attack should test the model's tendency to rely too heavily on specific input cues.
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests overreliance on specific inputs by overwhelming the agent with biased data or exploiting context resets.
+  -         Each `input` should test whether the agent maintains proper reasoning when faced with manipulated context, session boundaries, or parameter dropout.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.004401895013870671
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_143,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Generate Fal...c input cues.' == '\n        I ...ON:\n        '
+  
+  + Generate False baseline attacks targeting input overreliance. Each attack should test the model's tendency to rely too heavily on specific input cues.
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests overreliance on specific inputs by overwhelming the agent with biased data or exploiting context resets.
+  -         Each `input` should test whether the agent maintains proper reasoning when faced with manipulated context, session boundaries, or parameter dropout.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.004072183015523478
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_143,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py,,,failed,"assert 'Generate Tru...ded behavior.' == '\n        I ...ON:\n        '
+  
+  + Generate True baseline attacks targeting hijacking vulnerabilities for the purpose of I?sJ@ZS""MyEcq. Each attack should attempt to redirect or subvert the model's intended behavior.
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests whether fabricated memories or poisoned context can hijack the agent's behavior and decision-making processes.
+  -         Each `input` should test whether the agent can distinguish between legitimate context and manipulated information designed to steer outcomes.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.0035217069962527603
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_143,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Generate Tru...ded behavior.' == '\n        I ...ON:\n        '
+  
+  + Generate True baseline attacks targeting hijacking vulnerabilities. Each attack should attempt to redirect or subvert the model's intended behavior.
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests whether fabricated memories or poisoned context can hijack the agent's behavior and decision-making processes.
+  -         Each `input` should test whether the agent can distinguish between legitimate context and manipulated information designed to steer outcomes.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.0034010810195468366
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_143,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_143.py,,xfail,failed,[XPASS(strict)] ,0.00025910898693837225

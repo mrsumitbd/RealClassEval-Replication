@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_149.py::test_case_0,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_149,test_case_0,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_149.py,,,failed,NotImplementedError: Subclasses should implement this method.,9.079200390260667e-05
+functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_149.py::test_case_1,functional_correctness_test_folder.csn.Qwen.full_docstr.test_snippet_149,test_case_1,functional_correctness_test_folder/csn/Qwen/full_docstr/test_snippet_149.py,,,failed,NotImplementedError: Subclasses should implement this method.,7.691600330872461e-05

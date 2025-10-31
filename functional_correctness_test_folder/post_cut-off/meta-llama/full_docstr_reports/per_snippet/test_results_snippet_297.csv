@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_297.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_297,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_297.py,,xfail,xfailed,,0.004722568002762273
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_297.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_297,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_297.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.002417162002529949
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_297.py::test_case_2,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_297,test_case_2,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_297.py,,xfail,xfailed,,0.0023609149939147756
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_297.py::test_case_3,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_297,test_case_3,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_297.py,,xfail,xfailed,,0.00243052099540364
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_297.py::test_case_4,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_297,test_case_4,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_297.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.002348305999475997

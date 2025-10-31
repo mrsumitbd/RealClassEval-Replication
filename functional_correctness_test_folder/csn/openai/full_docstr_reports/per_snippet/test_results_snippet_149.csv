@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_149.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_149,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_149.py,,,passed,,0.00016562500240979716
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_149.py::test_case_1,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_149,test_case_1,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_149.py,,,failed,"ValueError: Invalid type for '(865-3827.936j)': expected str, got dict",8.770800195634365e-05

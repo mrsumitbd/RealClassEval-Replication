@@ -1,0 +1,6 @@
+import pytest
+import snippet_242 as module_0
+
+@pytest.mark.xfail(strict=True)
+def test_case_0():
+    module_0.AWSIdentityCheck()

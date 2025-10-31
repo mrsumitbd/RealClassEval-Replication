@@ -1,0 +1,71 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_0,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.00029500998789444566
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_1,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,RecursionError: maximum recursion depth exceeded,0.0037075349828228354
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_2,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '' == '$0.0'
+  
+  - $0.0",0.0004949289723299444
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_3,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '' == '$0.0'
+  
+  - $0.0",0.00042925099842250347
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_4,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_4,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,passed,,0.0002424099948257208
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_5,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_5,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '1327.0000' == '$1327.0'
+  
+  - $1327.0
+  ? -
+  + 1327.0000
+  ?       +++",0.000513773993588984
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_6,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_6,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '' == 'N/A'
+  
+  - N/A",0.00042111100628972054
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_7,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_7,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '<snippet_226... 0x11079b580>' == 'N/A'
+  
+  - N/A
+  + <snippet_226.PriceFormatter object at 0x11079b580>",0.0005460099782794714
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_8,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_8,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.0002553440281189978
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_9,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_9,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '[Y!CrxTp%/#*' == '0.0 [Y!CrxTp%/#*'
+  
+  - 0.0 [Y!CrxTp%/#*
+  ? ----
+  + [Y!CrxTp%/#*",0.0005182219902053475
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_10,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_10,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-2136.00%' == '-213600.00%'
+  
+  - -213600.00%
+  ?      --
+  + -2136.00%",0.0005328200059011579
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_11,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_11,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,RecursionError: maximum recursion depth exceeded,0.002141674980521202
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_12,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_12,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-2354.0400' == '$-2354.039999999999964'
+  
+  - $-2354.039999999999964
+  + -2354.0400",0.00047427602112293243
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_13,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_13,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert 'USD 1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + USD 1,566.73",0.00047788600204512477
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_14,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_14,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"assert ""(b'%\\xe57R\...\\xba\\x97',)"" == 'N/A'
+  
+  - N/A
+  + (b'%\xe57R\xaf""6\xf1\xc3\x8a\xbdRt\x80];t\xba\x97',)",0.00048060499830171466
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_15,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_15,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.00025792501401156187
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_16,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_16,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert 'USD 1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + USD 1,566.73",0.0004647460300475359
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_17,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_17,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '1327.0000' == '$1327.0'
+  
+  - $1327.0
+  ? -
+  + 1327.0000
+  ?       +++",0.0005106140160933137
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_18,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_18,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert 'USD 1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + USD 1,566.73",0.00047870195703580976
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_19,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_19,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '824 824.00' == '824.0 824'
+  
+  - 824.0 824
+  + 824 824.00",0.0005043360288254917
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_20,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_20,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,RecursionError: maximum recursion depth exceeded,0.0020299659809097648
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_21,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_21,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '' == 'N/A'
+  
+  - N/A",0.0005289629916660488
+functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py::test_case_22,functional_correctness_test_folder.post_cut-off.openai.no_docstr.test_snippet_226,test_case_22,functional_correctness_test_folder/post_cut-off/openai/no_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.0002467720187269151

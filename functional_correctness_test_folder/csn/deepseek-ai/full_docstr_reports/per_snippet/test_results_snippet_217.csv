@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_217.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_217,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_217.py,,,passed,,8.004099800018594e-05
+functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_217.py::test_case_1,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_217,test_case_1,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_217.py,,,failed,"AssertionError: assert 'FilteredValueIndicator()' == '[Filtered]'
+  
+  - [Filtered]
+  + FilteredValueIndicator()",0.00019562500528991222

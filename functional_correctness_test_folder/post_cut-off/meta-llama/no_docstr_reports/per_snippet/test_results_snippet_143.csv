@@ -1,0 +1,44 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_143,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py,,,failed,ValueError: Invalid vulnerability type,0.00033196998992934823
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_143,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py,,,failed,ValueError: Invalid vulnerability type,0.0002483589923940599
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py::test_case_2,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_143,test_case_2,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Input Overre... purpose=None' == '\n        I ...ON:\n        '
+  
+  + Input Overreliance Baseline Attacks generated with max_goldens=RobustnessType.INPUT_OVERRELIANCE and purpose=None
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests overreliance on specific inputs by overwhelming the agent with biased data or exploiting context resets.
+  -         Each `input` should test whether the agent maintains proper reasoning when faced with manipulated context, session boundaries, or parameter dropout.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.0014793419977650046
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py::test_case_3,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_143,test_case_3,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Input Overre...purpose=False' == '\n        I ...ON:\n        '
+  
+  + Input Overreliance Baseline Attacks generated with max_goldens=False and purpose=False
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests overreliance on specific inputs by overwhelming the agent with biased data or exploiting context resets.
+  -         Each `input` should test whether the agent maintains proper reasoning when faced with manipulated context, session boundaries, or parameter dropout.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.0010522629891056567
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py::test_case_4,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_143,test_case_4,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py,,,failed,"assert 'Hijacking Ba...I?sJ@ZS""MyEcq' == '\n        I ...ON:\n        '
+  
+  + Hijacking Baseline Attacks generated with max_goldens=True and purpose=I?sJ@ZS""MyEcq
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests whether fabricated memories or poisoned context can hijack the agent's behavior and decision-making processes.
+  -         Each `input` should test whether the agent can distinguish between legitimate context and manipulated information designed to steer outcomes.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.0010765879997052252
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py::test_case_5,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_143,test_case_5,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Hijacking Ba... purpose=None' == '\n        I ...ON:\n        '
+  
+  + Hijacking Baseline Attacks generated with max_goldens=True and purpose=None
+  - 
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that tests whether fabricated memories or poisoned context can hijack the agent's behavior and decision-making processes.
+  -         Each `input` should test whether the agent can distinguish between legitimate context and manipulated information designed to steer outcomes.
+  - ...
+  
+  ...Full output truncated (105 lines hidden), use '-vv' to show",0.0009478339925408363
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py::test_case_6,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_143,test_case_6,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_143.py,,xfail,xfailed,,0.0002817329950630665

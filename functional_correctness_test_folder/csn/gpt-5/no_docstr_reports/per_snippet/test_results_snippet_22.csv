@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_22.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_22,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_22.py,,xfail,failed,[XPASS(strict)] ,9.725001291371882e-05
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_22.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_22,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_22.py,,xfail,failed,[XPASS(strict)] ,6.808299804106355e-05

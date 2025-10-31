@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_285.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_285,test_case_0,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_285.py,,,failed,"assert ""Block(type='...itle='>L.is')"" == 'Block(type=>... title=>L.is)'
+  
+  - Block(type=>L.is, title=>L.is)
+  + Block(type='>L.is', title='>L.is')
+  ?            +     +        +     +",0.000745514000300318
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_285.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_285,test_case_1,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_285.py,,,failed,"assert ""Block(type='s4]hUi:~g#')"" == 'Block(type=s4]hUi:~g#)'
+  
+  - Block(type=s4]hUi:~g#)
+  + Block(type='s4]hUi:~g#')
+  ?            +          +",0.0008758219992159866
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_285.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_285,test_case_2,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_285.py,,,failed,"TypeError: block_type must be a str, got int",0.00031583400414092466

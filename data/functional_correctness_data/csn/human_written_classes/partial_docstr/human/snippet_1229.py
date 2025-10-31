@@ -1,0 +1,61 @@
+import os
+
+class Engine:
+    """
+    Base class for all MC engines
+    """
+    collect_script = os.path.join('data', 'collect.sh')
+
+    @property
+    def output_wildcard(self):
+        raise NotImplementedError
+
+    def __init__(self, input_path, mc_run_script, collect_method, mc_engine_options):
+        """
+        :param input_path: Path to the input file(s): to the directory or to a single file
+        :param mc_run_script:  Path to the binary file with Monte-Carlo code executable
+        :param collect_method:  String denoting result collection method (i.e. 'mv', 'cp', 'image')
+        :param mc_engine_options: String which may be either list of MC engine options, enclosed in square brackets
+        or path to the file with options (in case of very long text)
+        """
+        self.input_path = input_path
+        self.run_script_path = mc_run_script
+        self.collect_method = collect_method
+        self.engine_options = mc_engine_options
+        if not mc_engine_options:
+            self.engine_options = ''
+            logger.debug('No engine options')
+        elif os.path.exists(mc_engine_options):
+            opt_fd = open(mc_engine_options, 'r')
+            options_file_content = opt_fd.read()
+            opt_fd.close()
+            self.engine_options = options_file_content
+            logger.debug('Engine options file contents: ' + options_file_content)
+        else:
+            self.engine_options = mc_engine_options[1:-1]
+            logger.debug('Engine options arguments: ' + self.engine_options)
+    _collect_action = {'mv': 'TRANSPORT_COMMAND=mv\nfor INPUT_FILE in $INPUT_WILDCARD; do\n  $TRANSPORT_COMMAND $INPUT_FILE $OUTPUT_DIRECTORY\ndone', 'cp': 'TRANSPORT_COMMAND=cp\nfor INPUT_FILE in $INPUT_WILDCARD; do\n  $TRANSPORT_COMMAND $INPUT_FILE $OUTPUT_DIRECTORY\ndone', 'image': 'convertmc image --many "$INPUT_WILDCARD" $OUTPUT_DIRECTORY -q', 'plotdata': 'convertmc plotdata --many "$INPUT_WILDCARD" $OUTPUT_DIRECTORY -q'}
+
+    def write_collect_script(self, output_dir):
+        output_dir_abs_path = os.path.abspath(output_dir)
+        collect_action = self._collect_action.get(self.collect_method, '')
+        if 'custom' in self.collect_method:
+            env_var_name = 'CUSTOM_COLLECT'
+            if env_var_name not in os.environ:
+                logger.error('Expected environmental variable {:s} to be set, but it is missing'.format(env_var_name))
+                return
+            if not os.path.exists(os.environ[env_var_name]):
+                logger.error("File {:s} doesn't exists".format(os.environ[env_var_name]))
+            with open(os.environ[env_var_name]) as f:
+                collect_action = os.linesep.join(f.readlines())
+        contents = self.collect_script_content.format(output_dir=output_dir_abs_path, collect_action=collect_action, wildcard=self.output_wildcard)
+        out_file_name = 'collect.sh'
+        out_file_path = os.path.join(output_dir, out_file_name)
+        out_fd = open(out_file_path, 'w')
+        out_fd.write(contents)
+        out_fd.close()
+        os.chmod(out_file_path, 488)
+
+    def find_external_files(self, run_input_dir):
+        """Returns paths to found external files"""
+        raise NotImplementedError()

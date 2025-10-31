@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_16.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_16,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_16.py,,xfail,failed,[XPASS(strict)] ,0.00023783399956300855

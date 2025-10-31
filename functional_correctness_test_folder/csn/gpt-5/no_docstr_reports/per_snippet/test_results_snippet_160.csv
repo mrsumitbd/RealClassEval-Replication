@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_160.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_160,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_160.py,,,failed,ValueError: Invalid SBV timecode format for start/end,0.00011562500731088221

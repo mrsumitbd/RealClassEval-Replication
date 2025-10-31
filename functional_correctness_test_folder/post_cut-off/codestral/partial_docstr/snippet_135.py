@@ -1,0 +1,25 @@
+
+import torch
+from contextlib import contextmanager
+from typing import List, Dict, Optional, Generator
+
+
+class GPUManager:
+
+    def __init__(self, gpu_indices: Optional[List[int]] = None) -> None:
+        '''Initialize the GPUManager.'''
+        self.gpu_indices = gpu_indices if gpu_indices is not None else list(
+            range(torch.cuda.device_count()))
+
+    @contextmanager
+    def manage_resources(self) -> Generator[None, None, None]:
+        try:
+            yield
+        finally:
+            torch.cuda.empty_cache()
+
+    def get_memory_usage(self) -> Dict[int, int]:
+        memory_usage = {}
+        for gpu_index in self.gpu_indices:
+            memory_usage[gpu_index] = torch.cuda.memory_allocated(gpu_index)
+        return memory_usage

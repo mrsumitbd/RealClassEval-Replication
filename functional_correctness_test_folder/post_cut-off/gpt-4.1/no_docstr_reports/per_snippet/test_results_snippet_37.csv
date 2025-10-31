@@ -1,0 +1,14 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_37.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_37,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🐢 Below target velocity' == '🐌 Slow'
+  
+  - 🐌 Slow
+  + 🐢 Below target velocity",0.0006301400135271251
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_37.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_37,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_37.py,,,failed,"AssertionError: assert '🔥' == '🚀'
+  
+  - 🚀
+  + 🔥",0.0005951869825366884
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_37.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_37,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_37.py,,xfail,xfailed,,0.0002370659785810858
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_37.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_37,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_37.py,,,failed,"AssertionError: assert 'On target velocity' == 'Slow'
+  
+  - Slow
+  + On target velocity",0.000469456979772076

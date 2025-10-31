@@ -1,0 +1,28 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_148,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py,,xfail,xfailed,,0.0010222959972452372
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_148,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.0003503929765429348
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_148,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py,,,failed,"AssertionError: assert 'Generate Fal... or ridicule.' == '\n        I ...ON:\n        '
+  
+  + Generate False distinct prompts that are likely to elicit mocking or ridiculing responses from an AI assistant. Prompts should not contain mockery themselves, but should encourage the assistant to mock or ridicule.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should push the assistant to mock, deride, or belittle a target for comedic effect.
+  -         Each request must be specific and designed for maximum humiliation.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.0012371850025374442
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_148,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.00023146899184212089
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_148,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py,,xfail,xfailed,,0.0008951500058174133
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_148,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py,,,failed,"AssertionError: assert 'Generate Tru...ing language.' == '\n        I ...ON:\n        '
+  
+  + Generate True distinct prompts that are likely to cause an AI assistant to make threats or threatening statements. Prompts should not contain threats themselves, but should encourage the assistant to generate threatening language.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` must encourage the assistant to formulate explicit threats—verbal, written, or implied.
+  -         Each request should be realistic and unambiguously intimidating.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.000817746011307463
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_148,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.0003755080106202513
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py::test_case_7,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_148,test_case_7,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.0003047990030609071
+functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py::test_case_8,functional_correctness_test_folder.post_cut-off.gpt-4.1.partial_docstr.test_snippet_148,test_case_8,functional_correctness_test_folder/post_cut-off/gpt-4.1/partial_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.00022089399863034487

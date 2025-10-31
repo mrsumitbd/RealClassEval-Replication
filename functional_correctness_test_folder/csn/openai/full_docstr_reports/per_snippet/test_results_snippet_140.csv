@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_140.py::test_case_0,functional_correctness_test_folder.csn.openai.full_docstr.test_snippet_140,test_case_0,functional_correctness_test_folder/csn/openai/full_docstr/test_snippet_140.py,,,failed,"TypeError: can only concatenate str (not ""AbstractHtmlConverter"") to str",0.00012275000335648656

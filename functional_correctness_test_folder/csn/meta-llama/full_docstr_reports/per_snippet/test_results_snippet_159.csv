@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_159.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_159,test_case_0,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_159.py,,,failed,AttributeError: 'Style' object has no attribute 'lines',8.724999497644603e-05
+functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_159.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.full_docstr.test_snippet_159,test_case_1,functional_correctness_test_folder/csn/meta-llama/full_docstr/test_snippet_159.py,,,failed,TypeError: text must be a string or a list of strings,7.43750060792081e-05

@@ -1,0 +1,21 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_83.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_83,test_case_0,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'string' == 'STRING'
+  
+  - STRING
+  + string",0.00017979199765250087
+functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_83.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_83,test_case_1,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'string' == 'STRING'
+  
+  - STRING
+  + string",0.00032441600342281163
+functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_83.py::test_case_2,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_83,test_case_2,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'string' == 'STRING'
+  
+  - STRING
+  + string",0.0001345000055152923
+functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_83.py::test_case_3,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_83,test_case_3,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'string' == 'STRING'
+  
+  - STRING
+  + string",0.00013858301099389791
+functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_83.py::test_case_4,functional_correctness_test_folder.csn.meta-llama.partial_docstr.test_snippet_83,test_case_4,functional_correctness_test_folder/csn/meta-llama/partial_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'boolean' == 'BOOLEAN'
+  
+  - BOOLEAN
+  + boolean",0.00013033399591222405

@@ -1,0 +1,11 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_133.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_133,test_case_0,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_133.py,,,failed,"assert 1136.19 == 2.27238 ± 0.0227238
+  
+  comparison failed
+  Obtained: 1136.19
+  Expected: 2.27238 ± 0.0227238",0.0021564170019701123
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_133.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.meta-llama.partial_docstr.test_snippet_133,test_case_1,functional_correctness_test_folder/post_cut-off/rag/meta-llama/partial_docstr/test_snippet_133.py,,,failed,"assert 40.0 == 0.08000000000000002 ± 0.01
+  
+  comparison failed
+  Obtained: 40.0
+  Expected: 0.08000000000000002 ± 0.01",0.0005159580614417791

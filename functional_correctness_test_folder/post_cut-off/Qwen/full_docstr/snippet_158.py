@@ -1,0 +1,65 @@
+
+from typing import List, Dict, Any
+import importlib
+import pkgutil
+import diagrams.aws
+
+
+class AWSComponentRegistry:
+    '''
+    Class responsible for discovering and managing AWS components from the diagrams package.
+    Encapsulates the component discovery, caching and lookup functionality.
+    '''
+
+    def __init__(self):
+        '''Initialize the registry with discovered components and aliases'''
+        self.categories = self._discover_categories()
+        self.components = self._discover_components()
+        self.aliases = self._build_aliases()
+        self.cache = {}
+
+    def _discover_categories(self) -> List[str]:
+        '''Dynamically discover all AWS categories from the diagrams package'''
+        return [name for _, name, _ in pkgutil.iter_modules(diagrams.aws.__path__)]
+
+    def _discover_components(self) -> Dict[str, List[str]]:
+        '''Dynamically discover all available AWS components by category'''
+        components = {}
+        for category in self.categories:
+            category_module = importlib.import_module(
+                f'diagrams.aws.{category}')
+            components[category] = [
+                name for name, obj in category_module.__dict__.items() if isinstance(obj, type)]
+        return components
+
+    def _build_aliases(self) -> Dict[str, str]:
+        '''Build aliases dictionary by analyzing available components'''
+        aliases = {}
+        for category, component_list in self.components.items():
+            for component in component_list:
+                aliases[component.lower(
+                )] = f'diagrams.aws.{category}.{component}'
+        return aliases
+
+    def get_node(self, node_type: str) -> Any:
+        '''Get AWS component class using dynamic discovery with caching'''
+        node_type_lower = node_type.lower()
+        if node_type_lower in self.cache:
+            return self.cache[node_type_lower]
+        if node_type_lower in self.aliases:
+            component_path = self.aliases[node_type_lower]
+            module_path, class_name = component_path.rsplit('.', 1)
+            module = importlib.import_module(module_path)
+            component_class = getattr(module, class_name)
+            self.cache[node_type_lower] = component_class
+            return component_class
+        raise ValueError(f"Component type '{node_type}' not found")
+
+    def list_available_components(self, category: str = None) -> Dict[str, List[str]]:
+        '''List all available AWS components and their aliases'''
+        if category:
+            if category in self.components:
+                return {category: self.components[category]}
+            else:
+                raise ValueError(f"Category '{category}' not found")
+        return self.components

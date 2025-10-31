@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_256.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_256,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_256.py,,,failed,"AssertionError: assert [{'confidence...regex': None}] == {'compliance'...ts)\\b'], ...}
+  
+  Use -v to get more diff",0.0016240110053331591
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_256.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_256,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_256.py,,,failed,"AssertionError: assert [{'confidence...regex': None}] == {'compliance'...ts)\\b'], ...}
+  
+  Use -v to get more diff",0.0007632170018041506
+functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_256.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.full_docstr.test_snippet_256,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/full_docstr/test_snippet_256.py,,,failed,"AssertionError: assert [{'confidence...regex': None}] == {'compliance'...ts)\\b'], ...}
+  
+  Use -v to get more diff",0.0007361050011240877

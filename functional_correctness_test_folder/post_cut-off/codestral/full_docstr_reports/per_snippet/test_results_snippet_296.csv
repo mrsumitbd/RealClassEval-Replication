@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_296.py::test_case_0,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_296,test_case_0,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_296.py,,xfail,failed,[XPASS(strict)] ,0.0003527979934005998
+functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_296.py::test_case_1,functional_correctness_test_folder.post_cut-off.codestral.full_docstr.test_snippet_296,test_case_1,functional_correctness_test_folder/post_cut-off/codestral/full_docstr/test_snippet_296.py,,xfail,xfailed,,0.00027477200637804344

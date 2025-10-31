@@ -1,0 +1,16 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_27.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_27,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_27.py,,,passed,,0.004336650017648935
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_27.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_27,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_27.py,,,failed,"AssertionError: assert 'builtins.NoneType' == 'claude_monit...mezoneHandler'
+  
+  - claude_monitor.utils.time_utils.TimezoneHandler
+  + builtins.NoneType",0.001091187004931271
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_27.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_27,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_27.py,,,failed,"AssertionError: assert 'builtins.NoneType' == 'claude_monit...mezoneHandler'
+  
+  - claude_monitor.utils.time_utils.TimezoneHandler
+  + builtins.NoneType",0.0005930089973844588
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_27.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_27,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_27.py,,,failed,AttributeError: 'float' object has no attribute 'localize',0.0009932460088748485
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_27.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_27,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_27.py,,,failed,AttributeError: 'tuple' object has no attribute 'localize',0.0002495110093150288
+functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_27.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-4.1.no_docstr.test_snippet_27,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-4.1/no_docstr/test_snippet_27.py,,,failed,"AssertionError: assert 'builtins.NoneType' == 'claude_monit...mezoneHandler'
+  
+  - claude_monitor.utils.time_utils.TimezoneHandler
+  + builtins.NoneType",0.000448122009402141

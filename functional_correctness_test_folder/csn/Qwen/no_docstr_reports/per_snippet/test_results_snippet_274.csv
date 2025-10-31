@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_274.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_274,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_274.py,,,failed,AttributeError: type object 'BasePermission' has no attribute 'message',7.754200487397611e-05
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_274.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_274,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_274.py,,,failed,AttributeError: type object 'BasePermission' has no attribute 'message',6.991700502112508e-05

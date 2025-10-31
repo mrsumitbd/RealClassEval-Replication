@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_262.py::test_case_0,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_262,test_case_0,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_262.py,,,failed,AttributeError: type object 'Plot_Data' has no attribute 'count',8.654201519675553e-05

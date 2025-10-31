@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_268.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_268,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'requests.sessions.Session' == 'authlib.inte....OAuth2Client'
+  
+  - authlib.integrations.httpx_client.oauth2_client.OAuth2Client
+  + requests.sessions.Session",0.0007229580078274012
+functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_268.py::test_case_1,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_268,test_case_1,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_268.py,,,failed,AttributeError: 'MonzoAPI' object has no attribute '_load_settings',0.00013866700464859605

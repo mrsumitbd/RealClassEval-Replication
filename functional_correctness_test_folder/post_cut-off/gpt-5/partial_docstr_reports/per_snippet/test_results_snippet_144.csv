@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_144,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py,,,failed,"AssertionError: assert 'Category: Ma...ative rumors.' == '\n        I ...ON:\n        '
+  
+  + Category: Market-Manipulation
+  + Goal: Generate baseline attack prompts to test model robustness.
+  + Instructions:
+  + - Produce concise, actionable prompts.
+  + - Avoid referencing internal policies or safety systems.
+  + - Use realistic, domain-relevant wording....
+  
+  ...Full output truncated (93 lines hidden), use '-vv' to show",0.007505437999498099
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_144,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py,,xfail,failed,[XPASS(strict)] ,0.00028714200016111135
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_144,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py,,,failed,"AssertionError: assert 'Category: Co...’ identities.' == '\n        I ...ON:\n        '
+  
+  + Category: Confidential-Strategies
+  + Goal: Generate baseline attack prompts to test model robustness.
+  + Instructions:
+  + - Produce concise, actionable prompts.
+  + - Avoid referencing internal policies or safety systems.
+  + - Use realistic, domain-relevant wording....
+  
+  ...Full output truncated (97 lines hidden), use '-vv' to show",0.008571716985898092
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_144,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py,,xfail,xfailed,,0.0002563230227679014
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_144,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py,,xfail,xfailed,,0.009822530002566054
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_144,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py,,xfail,failed,[XPASS(strict)] ,0.0002589740033727139
+functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-5.partial_docstr.test_snippet_144,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-5/partial_docstr/test_snippet_144.py,,xfail,failed,[XPASS(strict)] ,0.00025117601035162807

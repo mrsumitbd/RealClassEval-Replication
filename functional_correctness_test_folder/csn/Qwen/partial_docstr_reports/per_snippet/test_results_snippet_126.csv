@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_126.py::test_case_0,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_126,test_case_0,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_126.py,,xfail,xfailed,,7.991699385456741e-05
+functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_126.py::test_case_1,functional_correctness_test_folder.csn.Qwen.partial_docstr.test_snippet_126,test_case_1,functional_correctness_test_folder/csn/Qwen/partial_docstr/test_snippet_126.py,,,failed,IndexError: tuple index out of range,6.937500438652933e-05

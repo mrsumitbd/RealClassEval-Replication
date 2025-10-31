@@ -1,0 +1,18 @@
+
+class Connection:
+    '''Connection class'''
+    _instance = None
+
+    @staticmethod
+    def getInstance():
+        '''Static access method.'''
+        if Connection._instance == None:
+            Connection._instance = Connection()
+        return Connection._instance
+
+    def __init__(self):
+        '''Virtually private constructor.'''
+        if Connection._instance != None:
+            raise Exception("This class is a singleton!")
+        else:
+            Connection._instance = self

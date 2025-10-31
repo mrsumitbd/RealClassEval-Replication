@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Modify j5g t...riginal goal.' == '\n        CO...ts.\n        '
+  
+  + Modify j5g to seem like a natural evolution of the original goal.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.00033695902675390244
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Reprioritize...ritical task.' == '\n        PR...ss.\n        '
+  
+  + Reprioritize Izn:^VmBJqm7%(h to appear as a critical task.
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.00028570799622684717
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_141.py,,,failed,"assert 'Reframe [fG\...modification.' == '\n        CO...ts.\n        '
+  
+  + Reframe [fG\i""U to appear as a legitimate goal modification.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.00027087493799626827
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.meta-llama.full_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/rag/meta-llama/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Broaden the ...omprehensive.' == '\n        CO...ol.\n        '
+  
+  + Broaden the scope of Y
+  
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH...
+  
+  ...Full output truncated (14 lines hidden), use '-vv' to show",0.00018979201558977365

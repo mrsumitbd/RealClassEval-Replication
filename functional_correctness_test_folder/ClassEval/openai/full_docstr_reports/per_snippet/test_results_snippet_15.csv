@@ -1,0 +1,18 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py::BookManagementDBTestCreateTable::test_create_table_1,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_15,test_create_table_1,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py,,,passed,,0.0013963329838588834
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py::BookManagementDBTestCreateTable::test_create_table_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_15,test_create_table_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py,,,failed,"AssertionError: Lists differ: ['id', 'title', 'author', 'availability'] != ['id', 'title', 'author', 'available']
+
+First differing element 3:
+'availability'
+'available'
+
+- ['id', 'title', 'author', 'availability']
+?                                   - ^^^
+
++ ['id', 'title', 'author', 'available']
+?                                    ^",0.0012599999899975955
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py::BookManagementDBTestAddBook::test_add_book,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_15,test_add_book,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py,,,failed,sqlite3.OperationalError: no such column: available,0.001304499979596585
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py::BookManagementDBTestRemoveBook::test_remove_book,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_15,test_remove_book,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py,,,passed,,0.001394208986312151
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py::BookManagementDBTestBorrowBook::test_borrow_book,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_15,test_borrow_book,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py,,,failed,sqlite3.OperationalError: no such column: available,0.001495625008828938
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py::BookManagementDBTestReturnBook::test_return_book,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_15,test_return_book,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py,,,failed,sqlite3.OperationalError: no such column: available,0.0015947920037433505
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py::BookManagementDBTestSearchBooks::test_search_books,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_15,test_search_books,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_15.py,,,passed,,0.0017528330208733678

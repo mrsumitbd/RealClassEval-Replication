@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_313.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_313,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_313.py,,xfail,xfailed,,0.0003591270069591701
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_313.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_313,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_313.py,,xfail,xfailed,,0.00027688598493114114

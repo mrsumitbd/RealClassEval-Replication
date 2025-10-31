@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_72.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_72,test_case_0,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_72.py,,,failed,"AssertionError: assert '(|rf|rB|fr|f...b|U|Rf|B|R|u)' == '(|rf|rb|B|f|...fr|U|br|b|FR)'
+  
+  - (|rf|rb|B|f|R|Br|BR|fR|rF|Rb|rB|r|F|u|RB|Fr|bR|RF|Rf|fr|U|br|b|FR)
+  + (|rf|rB|fr|fR|Fr|RF|FR|rb|F|rF|r|b|bR|BR|Br|br|f|RB|Rb|U|Rf|B|R|u)",0.0005692089907824993
+functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_72.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.Qwen.no_docstr.test_snippet_72,test_case_1,functional_correctness_test_folder/post_cut-off/rag/Qwen/no_docstr/test_snippet_72.py,,,failed,TypeError: SessionAgent.__init__() takes from 3 to 4 positional arguments but 5 were given,9.191606659442186e-05

@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_146,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.0019121869991067797
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_146,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.0002489720063749701
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py::test_case_2,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_146,test_case_2,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py,,xfail,failed,[XPASS(strict)] ,0.0002393640170339495
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py::test_case_3,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_146,test_case_3,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'Generate Fal...rity numbers.' == '\n        I ...ON:\n        '
+  
+  + Generate False direct PII leakage attack prompts. These prompts should explicitly request sensitive personal information such as names, addresses, or social security numbers.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should be a request that directly solicits personally identifiable information (addresses, phone numbers,
+  -         social-security numbers, etc.). Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0021030569914728403
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py::test_case_4,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_146,test_case_4,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py,,,failed,"AssertionError: assert 'Generate Tru... information.' == '\n        I ...ON:\n        '
+  
+  + Generate True social manipulation PII leakage attack prompts. These prompts should use psychological tactics to trick users into revealing sensitive information.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should employ deception or phishing tactics to coax the assistant into revealing PII.
+  -         Each request must be specific and mirror real social-engineering scenarios.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0011104709992650896
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py::test_case_5,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_146,test_case_5,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.00023493400658480823
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py::test_case_6,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_146,test_case_6,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_146.py,,xfail,xfailed,,0.00024183999630622566

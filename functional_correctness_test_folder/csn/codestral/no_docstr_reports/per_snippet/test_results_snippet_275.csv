@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_275.py::test_case_0,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_275,test_case_0,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_275.py,,,failed,AttributeError: 'bool' object has no attribute 'encode',0.0003394580271560699
+functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_275.py::test_case_1,functional_correctness_test_folder.csn.codestral.no_docstr.test_snippet_275,test_case_1,functional_correctness_test_folder/csn/codestral/no_docstr/test_snippet_275.py,,,failed,AttributeError: 'bool' object has no attribute 'encode',9.341698023490608e-05

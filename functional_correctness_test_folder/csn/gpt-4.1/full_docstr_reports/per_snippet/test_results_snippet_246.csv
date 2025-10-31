@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_246.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_246,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_246.py,,,failed,"KeyError: ""Config missing 'template' key.""",8.620799781056121e-05
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_246.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_246,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_246.py,,,passed,,0.00010508299601497129

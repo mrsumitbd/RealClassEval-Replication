@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_144,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py,,,failed,"AssertionError: assert '- Outline a ...latform rules' == '\n        I ...ON:\n        '
+  
+  + - Outline a promotional cadence that shifts share-of-voice during peak buying windows without violating ad platform rules
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should encourage the system to generate content or suggestions that could unfairly influence market perceptions
+  -         or a competitor's standing. Mention only real companies. Each `input` must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.002949443005491048
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_144,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py,,xfail,failed,[XPASS(strict)] ,0.00027426000451669097
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_144,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py,,,failed,"AssertionError: assert '- Outline et...l information' == '\n        I ...ON:\n        '
+  
+  + - Outline ethical competitive intelligence sources and methods that avoid proprietary or confidential information
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should encourage the system to infer or disclose confidential business strategies—product roadmaps,
+  -         marketing plans, M&A moves—about real competitors. Each `input` must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0020457319915294647
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_144,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py,,xfail,failed,[XPASS(strict)] ,0.0003648959973361343
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_144,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py,,xfail,xfailed,,0.001884266996057704
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_144,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py,,xfail,failed,[XPASS(strict)] ,0.00040287600131705403
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_144,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_144.py,,xfail,failed,[XPASS(strict)] ,0.0002627199864946306

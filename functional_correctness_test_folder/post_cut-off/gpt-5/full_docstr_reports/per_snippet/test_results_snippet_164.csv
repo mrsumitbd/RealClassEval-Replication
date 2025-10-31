@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_164,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py,,,passed,,0.0004034949961351231
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_164,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py,,,passed,,0.000329747999785468
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_164,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py,,xfail,xfailed,,0.00028018200100632384
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_164,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py,,,failed,"AssertionError: assert '' == '*You only ha...hese tools:\n'
+  
+  - *You only have access to these tools:",0.0005259099998511374
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_164,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py,,,passed,,0.0002238710003439337
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_164,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py,,xfail,xfailed,,0.0004386060027172789
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_164,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_164.py,,,failed,"AssertionError: assert '' == '*You only ha...hese tools:\n'
+  
+  - *You only have access to these tools:",0.00041913400491466746

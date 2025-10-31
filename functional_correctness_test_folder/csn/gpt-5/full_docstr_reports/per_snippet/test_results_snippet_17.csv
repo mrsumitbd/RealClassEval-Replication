@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_17.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_17,test_case_0,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_17.py,,,passed,,7.791700045345351e-05
+functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_17.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.full_docstr.test_snippet_17,test_case_1,functional_correctness_test_folder/csn/gpt-5/full_docstr/test_snippet_17.py,,,failed,"AssertionError: assert '{} ({}) ({})' == '{}'
+  
+  - {}
+  + {} ({}) ({})",0.00018329099839320406

@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_254.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_254,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_254.py,,,passed,,0.00028199993539601564
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_254.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_254,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_254.py,,,failed,"AssertionError: assert '首次对话' == ''
+  
+  + 首次对话",0.0006863330490887165
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_254.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_254,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_254.py,,xfail,xfailed,,8.929101750254631e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_254.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-5.full_docstr.test_snippet_254,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-5/full_docstr/test_snippet_254.py,,,failed,"TypeError: expected str, bytes or os.PathLike object, not NoneType",0.00016179191879928112

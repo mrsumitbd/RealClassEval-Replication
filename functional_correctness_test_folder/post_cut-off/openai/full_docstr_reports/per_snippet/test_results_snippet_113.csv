@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_113.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_113,test_case_0,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_113.py,,,failed,"AssertionError: assert 'gpt-3.5-turbo' == 'claude-sonnet-4-20250514'
+  
+  - claude-sonnet-4-20250514
+  + gpt-3.5-turbo",0.0006067579961381853
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_113.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_113,test_case_1,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_113.py,,,failed,TypeError: BiomniConfig.__init__() got an unexpected keyword argument 'base_url',0.0004170539978076704

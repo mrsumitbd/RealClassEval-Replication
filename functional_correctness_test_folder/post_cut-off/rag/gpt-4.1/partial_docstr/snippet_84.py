@@ -1,0 +1,106 @@
+import numpy as np
+import cv2
+
+
+class ClassifyLetterBox:
+    '''
+    A class for resizing and padding images for classification tasks.
+    This class is designed to be part of a transformation pipeline, e.g., T.Compose([LetterBox(size), ToTensor()]).
+    It resizes and pads images to a specified size while maintaining the original aspect ratio.
+    Attributes:
+        h (int): Target height of the image.
+        w (int): Target width of the image.
+        auto (bool): If True, automatically calculates the short side using stride.
+        stride (int): The stride value, used when 'auto' is True.
+    Methods:
+        __call__: Applies the letterbox transformation to an input image.
+    Examples:
+        >>> transform = ClassifyLetterBox(size=(640, 640), auto=False, stride=32)
+        >>> img = np.random.randint(0, 255, (480, 640, 3), dtype=np.uint8)
+        >>> result = transform(img)
+        >>> print(result.shape)
+        (640, 640, 3)
+    '''
+
+    def __init__(self, size=(640, 640), auto=False, stride=32):
+        '''
+        Initializes the ClassifyLetterBox object for image preprocessing.
+        This class is designed to be part of a transformation pipeline for image classification tasks. It resizes and
+        pads images to a specified size while maintaining the original aspect ratio.
+        Args:
+            size (int | Tuple[int, int]): Target size for the letterboxed image. If an int, a square image of
+                (size, size) is created. If a tuple, it should be (height, width).
+            auto (bool): If True, automatically calculates the short side based on stride. Default is False.
+            stride (int): The stride value, used when 'auto' is True. Default is 32.
+        Attributes:
+            h (int): Target height of the letterboxed image.
+            w (int): Target width of the letterboxed image.
+            auto (bool): Flag indicating whether to automatically calculate short side.
+            stride (int): Stride value for automatic short side calculation.
+        Examples:
+            >>> transform = ClassifyLetterBox(size=224)
+            >>> img = np.random.randint(0, 255, (480, 640, 3), dtype=np.uint8)
+            >>> result = transform(img)
+            >>> print(result.shape)
+            (224, 224, 3)
+        '''
+        if isinstance(size, int):
+            self.h = self.w = size
+        elif isinstance(size, (tuple, list)) and len(size) == 2:
+            self.h, self.w = size
+        else:
+            raise ValueError("size must be int or tuple/list of (h, w)")
+        self.auto = auto
+        self.stride = stride
+
+    def __call__(self, im):
+        '''
+        Resizes and pads an image using the letterbox method.
+        This method resizes the input image to fit within the specified dimensions while maintaining its aspect ratio,
+        then pads the resized image to match the target size.
+        Args:
+            im (numpy.ndarray): Input image as a numpy array with shape (H, W, C).
+        Returns:
+            (numpy.ndarray): Resized and padded image as a numpy array with shape (hs, ws, 3), where hs and ws are
+                the target height and width respectively.
+        Examples:
+            >>> letterbox = ClassifyLetterBox(size=(640, 640))
+            >>> image = np.random.randint(0, 255, (720, 1280, 3), dtype=np.uint8)
+            >>> resized_image = letterbox(image)
+            >>> print(resized_image.shape)
+            (640, 640, 3)
+        '''
+        if not isinstance(im, np.ndarray):
+            raise TypeError("Input must be a numpy.ndarray")
+        if im.ndim != 3 or im.shape[2] != 3:
+            raise ValueError("Input image must have shape (H, W, 3)")
+
+        h0, w0 = im.shape[:2]
+        hs, ws = self.h, self.w
+
+        # Compute scale
+        r = min(hs / h0, ws / w0)
+        new_unpad = (int(round(w0 * r)), int(round(h0 * r)))
+
+        # Resize
+        im_resized = cv2.resize(im, new_unpad, interpolation=cv2.INTER_LINEAR)
+
+        # Compute padding
+        dw = ws - new_unpad[0]
+        dh = hs - new_unpad[1]
+
+        if self.auto:
+            dw = dw % self.stride
+            dh = dh % self.stride
+
+        top = dh // 2
+        bottom = dh - top
+        left = dw // 2
+        right = dw - left
+
+        # Pad
+        color = (114, 114, 114)
+        im_padded = cv2.copyMakeBorder(
+            im_resized, top, bottom, left, right, cv2.BORDER_CONSTANT, value=color)
+
+        return im_padded

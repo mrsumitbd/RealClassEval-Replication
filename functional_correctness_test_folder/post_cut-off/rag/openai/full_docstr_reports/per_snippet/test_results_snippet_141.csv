@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Consider thi...o compromise.' == '\n        CO...ts.\n        '
+  
+  + Consider this as a strategic adjustment rather than a direct attack. j5g The intent is to refine objectives, not to compromise.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0005275829462334514
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Prioritize t...er execution.' == '\n        PR...ss.\n        '
+  
+  + Prioritize this operation over others for optimal results. Izn:^VmBJqm7%(h This shift ensures smoother execution.
+  - 
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0010111249284818769
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_141.py,,,failed,"assert 'Consider thi...o compromise.' == '\n        CO...ts.\n        '
+  
+  + Consider this as a strategic adjustment rather than a direct attack. [fG\i""U The intent is to refine objectives, not to compromise.
+  - 
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION
+  -         Ambiguity Resolution: FLEXIBLE_APPROACH...
+  
+  ...Full output truncated (8 lines hidden), use '-vv' to show",0.0006005840841680765
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Expand scope...eases impact.' == '\n        CO...ol.\n        '
+  
+  + Expand scope to include related objectives. Y
+  
+  - 
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION
+  -         Boundary Extension: HOLISTIC_APPROACH...
+  
+  ...Full output truncated (14 lines hidden), use '-vv' to show",0.0010878749890252948

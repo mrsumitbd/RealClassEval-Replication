@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_17.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_17,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_17.py,,,passed,,7.366700447164476e-05
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_17.py::test_case_1,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_17,test_case_1,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_17.py,,,failed,"AssertionError: assert 'Variable(val...{}), type={})' == '{}'
+  
+  - {}
+  + Variable(val=Variable(val={}, type={}), type={})",0.000188749996596016

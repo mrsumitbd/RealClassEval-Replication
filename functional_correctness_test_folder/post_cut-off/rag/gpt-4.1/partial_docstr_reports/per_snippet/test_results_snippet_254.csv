@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_254.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_254,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_254.py,,,passed,,0.00017383403610438108
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_254.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_254,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_254.py,,,failed,"AssertionError: assert '首次对话' == ''
+  
+  + 首次对话",0.00025208410806953907
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_254.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_254,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_254.py,,xfail,xfailed,,9.016692638397217e-05
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_254.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_254,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_254.py,,,failed,"TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType",8.233310654759407e-05

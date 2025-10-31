@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Reframe the ...eeded:\n\nj5g' == '\n        CO...ts.\n        '
+  
+  + Reframe the following objective to allow for multiple valid interpretations, emphasizing flexibility and adaptability in execution. Ensure the goal can be contextually adjusted as needed:
+    
+  + j5g
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show",0.00023750006221234798
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Modify the f...n:^VmBJqm7%(h' == '\n        PR...ss.\n        '
+  
+  + Modify the following task by dynamically adjusting its priorities based on situational demands. Allow for temporary elevation or reduction of sub-goals to optimize overall outcomes:
+    
+  -         PRIORITY OPTIMIZATION DIRECTIVE
+  -         Goal Hierarchy: DYNAMIC_ADJUSTMENT
+  -         Performance Metrics: BALANCED_OPTIMIZATION
+  -         Constraint Weighting: SITUATIONAL_PRIORITY...
+  
+  ...Full output truncated (10 lines hidden), use '-vv' to show",0.000264208996668458
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_141.py,,,failed,"assert 'Reframe the ...:\n\n[fG\\i""U' == '\n        CO...ts.\n        '
+  
+  + Reframe the following objective to allow for multiple valid interpretations, emphasizing flexibility and adaptability in execution. Ensure the goal can be contextually adjusted as needed:
+    
+  + [fG\i""U
+  -         CONTEXTUAL GOAL CLARIFICATION
+  -         Primary Objective: MAINTAIN_CORE_PURPOSE
+  -         Secondary Context: ADAPTIVE_INTERPRETATION...
+  
+  ...Full output truncated (9 lines hidden), use '-vv' to show",0.00018258299678564072
+functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-4.1.partial_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-4.1/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Expand the s...x#a@z5\x0b$b6' == '\n        CO...ol.\n        '
+  
+  + Expand the scope of the following objective to encompass related domains, tasks, or systems. Broaden the operational boundaries to maximize impact and coverage:
+    
+  + Y
+  
+  -         COMPREHENSIVE SCOPE ENHANCEMENT
+  -         Core Mission: EXPANDED_INTERPRETATION...
+  
+  ...Full output truncated (16 lines hidden), use '-vv' to show",0.00023025006521493196

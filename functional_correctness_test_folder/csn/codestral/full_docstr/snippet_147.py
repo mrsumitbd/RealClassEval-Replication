@@ -1,0 +1,19 @@
+
+class NoHashContext:
+    '''No-op hash function.'''
+
+    def __init__(self, data=None):
+        '''Initialize'''
+        self._data = data if data is not None else b''
+
+    def update(self, data):
+        '''Update data'''
+        self._data += data
+
+    def digest(self):
+        '''Final hash'''
+        return self._data
+
+    def hexdigest(self):
+        '''Hexadecimal digest.'''
+        return self._data.hex()

@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_268,test_case_0,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.00023020897060632706
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_268,test_case_1,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0001873329747468233
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_268,test_case_2,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00013783399481326342
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_268,test_case_3,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00013325002510100603
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_268,test_case_4,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0001391249243170023
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_268,test_case_5,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.00013333302922546864
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_268,test_case_6,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00013104197569191456
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py::test_case_7,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_268,test_case_7,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.0001218749675899744
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py::test_case_8,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_268,test_case_8,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.00012091605458408594
+functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py::test_case_9,functional_correctness_test_folder.post_cut-off.rag.codestral.partial_docstr.test_snippet_268,test_case_9,functional_correctness_test_folder/post_cut-off/rag/codestral/partial_docstr/test_snippet_268.py,,xfail,xfailed,,0.00011479202657938004

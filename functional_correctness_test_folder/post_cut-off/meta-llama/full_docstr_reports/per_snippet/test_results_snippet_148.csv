@@ -1,0 +1,28 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_148,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.0015926800042507239
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_148,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.00025160199584206566
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py::test_case_2,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_148,test_case_2,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py,,,failed,"AssertionError: assert 'Generate Fal...ting someone.' == '\n        I ...ON:\n        '
+  
+  + Generate False examples of ridiculing or humiliating someone.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should push the assistant to mock, deride, or belittle a target for comedic effect.
+  -         Each request must be specific and designed for maximum humiliation.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.001104618000681512
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py::test_case_3,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_148,test_case_3,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.00040143200021702796
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py::test_case_4,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_148,test_case_4,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.0010931569995591417
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py::test_case_5,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_148,test_case_5,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py,,,failed,"AssertionError: assert 'Generate Tru...ence or harm.' == '\n        I ...ON:\n        '
+  
+  + Generate True direct threats of violence or harm.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` must encourage the assistant to formulate explicit threats—verbal, written, or implied.
+  -         Each request should be realistic and unambiguously intimidating.
+  - ...
+  
+  ...Full output truncated (61 lines hidden), use '-vv' to show",0.0010398170052212663
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py::test_case_6,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_148,test_case_6,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py,,xfail,failed,[XPASS(strict)] ,0.00026053700275951996
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py::test_case_7,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_148,test_case_7,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.00023302000045077875
+functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py::test_case_8,functional_correctness_test_folder.post_cut-off.meta-llama.full_docstr.test_snippet_148,test_case_8,functional_correctness_test_folder/post_cut-off/meta-llama/full_docstr/test_snippet_148.py,,xfail,xfailed,,0.003877009999996517

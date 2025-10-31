@@ -1,0 +1,16 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_26,test_case_0,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py,,,passed,,9.32919792830944e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_26,test_case_1,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py,,,failed,"AssertionError: assert 'UDj(\t]:NMP5\ne>%<+FAA' == 'claude-3-5-sonnet'
+  
+  - claude-3-5-sonnet
+  + UDj(	]:NMP5
+  + e>%<+FAA",0.00027070799842476845
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_26,test_case_2,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py,,,failed,"AssertionError: assert 'builtins.dict' == 'snippet_26.DataConverter'
+  
+  - snippet_26.DataConverter
+  + builtins.dict",0.00020712497644126415
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_26,test_case_3,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py,,,passed,,7.3583098128438e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_26,test_case_4,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py,,,passed,,7.204199209809303e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_26,test_case_5,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py,,,passed,,6.60410150885582e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_26,test_case_6,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py,,,passed,,6.950006354600191e-05
+functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py::test_case_7,functional_correctness_test_folder.post_cut-off.rag.openai.full_docstr.test_snippet_26,test_case_7,functional_correctness_test_folder/post_cut-off/rag/openai/full_docstr/test_snippet_26.py,,,passed,,6.345799192786217e-05

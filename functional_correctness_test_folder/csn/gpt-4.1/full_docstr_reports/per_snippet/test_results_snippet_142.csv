@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_142.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.full_docstr.test_snippet_142,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/full_docstr/test_snippet_142.py,,,passed,,8.658399747218937e-05

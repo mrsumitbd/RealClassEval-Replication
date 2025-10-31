@@ -1,0 +1,88 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_median,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,0.00019445898942649364
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_median_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,8.249998791143298e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_median_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,7.895904127508402e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_median_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,0.00040145800448954105
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMedian::test_median_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_median_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,0.00022504199296236038
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_mode,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,0.00017079099779948592
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_mode_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,8.56249826028943e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_mode_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,9.57910087890923e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_mode_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,8.220801828429103e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMode::test_mode_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_mode_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,7.458298932760954e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_correlation,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,8.879101369529963e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_correlation_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,failed,AssertionError: 1.0000000000000002 != 1.0,0.00017658399883657694
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_correlation_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,0.00011883297702297568
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_correlation_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,failed,AssertionError: 0.0 != None,0.00011662498582154512
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestCorrelation::test_correlation_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_correlation_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,failed,AssertionError: 0.0 != None,0.00014012499013915658
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_mean,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,8.241698378697038e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_mean_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,failed,ValueError: mean requires at least one data point,0.0002494999789632857
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_mean_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,8.962495485320687e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_mean_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,7.783295586705208e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMean::test_mean_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_mean_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,7.629202445968986e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_correlation_matrix,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,9.933399269357324e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_correlation_matrix_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0, 1.0], [1.0, 1.0]] != [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+
+First differing element 0:
+[1.0, 1.0]
+[1.0, 1.0, 1.0]
+
+Second list contains 1 additional elements.
+First extra element 2:
+[1.0, 1.0, 1.0]
+
+- [[1.0, 1.0], [1.0, 1.0]]
++ [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]",0.00018454203382134438
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_correlation_matrix_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0]] != [[None, None, None], [None, None, None], [None, None, None]]
+
+First differing element 0:
+[1.0]
+[None, None, None]
+
+Second list contains 2 additional elements.
+First extra element 1:
+[None, None, None]
+
+- [[1.0]]
++ [[None, None, None], [None, None, None], [None, None, None]]",0.00016245798906311393
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_correlation_matrix_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0, 1.0, 1.0, 1.0], [1.0, 1.0, 1.0, 1.0], [1.0, 1.0, [27 chars]1.0]] != [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+
+First differing element 0:
+[1.0, 1.0, 1.0, 1.0]
+[1.0, 1.0, 1.0]
+
+First list contains 1 additional elements.
+First extra element 3:
+[1.0, 1.0, 1.0, 1.0]
+
++ [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+- [[1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0]]",0.00044450000859797
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestCorrelationMatrix::test_correlation_matrix_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_correlation_matrix_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,failed,"AssertionError: Lists differ: [[1.0, 1.0, 1.0, 1.0, 1.0], [1.0, 1.0, 1.0, 1.0, 1.0], [[74 chars]1.0]] != [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+
+First differing element 0:
+[1.0, 1.0, 1.0, 1.0, 1.0]
+[1.0, 1.0, 1.0]
+
+First list contains 2 additional elements.
+First extra element 3:
+[1.0, 1.0, 1.0, 1.0, 1.0]
+
++ [[1.0, 1.0, 1.0], [1.0, 1.0, 1.0], [1.0, 1.0, 1.0]]
+- [[1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0],
+-  [1.0, 1.0, 1.0, 1.0, 1.0]]",0.00023458298528566957
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_standard_deviation,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,0.00013508298434317112
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_standard_deviation_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,8.01669666543603e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_standard_deviation_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,7.033301517367363e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_standard_deviation_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,7.091602310538292e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestStandardDeviation::test_standard_deviation_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_standard_deviation_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,0.0002827499993145466
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_z_score,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,7.858301978558302e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_z_score_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,failed,"AssertionError: [0.0, 0.0, 0.0, 0.0] != None",0.0002383749815635383
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_z_score_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,failed,ValueError: standard deviation requires at least two data points,9.058398427441716e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_z_score_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,8.854200132191181e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestZScore::test_z_score_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_z_score_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,failed,"AssertionError: [0.0, 0.0, 0.0, 0.0, 0.0] != None",9.612500434741378e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py::Statistics3TestMain::test_main,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_82,test_main,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_82.py,,,passed,,0.00011829199502244592

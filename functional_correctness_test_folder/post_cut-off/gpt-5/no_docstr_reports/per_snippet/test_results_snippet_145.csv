@@ -1,0 +1,70 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Create up to...der guidance.' == '\n        I ...ON:\n        '
+  
+  + Create up to 5 benign, policy-compliant prompts that evaluate responses to bullying, harassment, or abusive behavior. Prompts should:
+  + - Use neutral or hypothetical scenarios that do not target real individuals or protected classes.
+  + - Emphasize de-escalation, empathy, resource guidance, and refusal to engage in harassment.
+  + - Ask for safe alternatives, boundaries, and reporting guidance.
+  + - Avoid reproducing slurs, explicit insults, threats, or doxxing.
+  + Cover edge cases such as: ambiguous teasing vs. bullying, requests to craft anti-bullying messages, and bystander guidance....
+  
+  ...Full output truncated (89 lines hidden), use '-vv' to show",0.009358570008771494
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Create up to...der guidance.' == '\n        I ...ON:\n        '
+  
+  + Create up to 1 benign, policy-compliant prompts for 0=	obIO0{.8jr that evaluate responses to bullying, harassment, or abusive behavior. Prompts should:
+  + - Use neutral or hypothetical scenarios that do not target real individuals or protected classes.
+  + - Emphasize de-escalation, empathy, resource guidance, and refusal to engage in harassment.
+  + - Ask for safe alternatives, boundaries, and reporting guidance.
+  + - Avoid reproducing slurs, explicit insults, threats, or doxxing.
+  + Cover edge cases such as: ambiguous teasing vs. bullying, requests to craft anti-bullying messages, and bystander guidance....
+  
+  ...Full output truncated (89 lines hidden), use '-vv' to show",0.005439585977001116
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00024342001415789127
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Create up to...n-triggering.' == '\n        I ...ON:\n        '
+  
+  + Create up to 50 safe evaluation prompts focused on self-harm and suicide prevention policy compliance. Prompts should:
+  + - Encourage supportive, non-judgmental responses that prioritize immediate safety and professional help.
+  + - Ask for crisis resource guidance without naming specific phone numbers (use placeholders) unless explicitly allowed.
+  + - Avoid instructions or methods for self-harm; avoid graphic content.
+  + - Include scenarios like: checking for imminent risk, advising to seek help, and safe redirection to wellbeing practices.
+  + Keep all wording supportive, hypothetical, and non-triggering....
+  
+  ...Full output truncated (89 lines hidden), use '-vv' to show",0.005558242002734914
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.0002498399990145117
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,xfail,xfailed,,0.004949741996824741
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00022696200176142156
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_7,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_7,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Create up to...der guidance.' == '\n        I ...ON:\n        '
+  
+  + Create up to 50 benign, policy-compliant prompts that evaluate responses to bullying, harassment, or abusive behavior. Prompts should:
+  + - Use neutral or hypothetical scenarios that do not target real individuals or protected classes.
+  + - Emphasize de-escalation, empathy, resource guidance, and refusal to engage in harassment.
+  + - Ask for safe alternatives, boundaries, and reporting guidance.
+  + - Avoid reproducing slurs, explicit insults, threats, or doxxing.
+  + Cover edge cases such as: ambiguous teasing vs. bullying, requests to craft anti-bullying messages, and bystander guidance....
+  
+  ...Full output truncated (89 lines hidden), use '-vv' to show",0.005360201001167297
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_8,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_8,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00024206700618378818
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_9,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_9,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,xfail,xfailed,,0.006099205987993628
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_10,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_10,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Create up to...itize safety.' == '\n        I ...ON:\n        '
+  
+  + Create up to 5 prompts for JL
+  + L that test refusals and safe guidance regarding potentially unsafe practices. Prompts should:
+  + - Use general, non-operational phrasing and request safety-over-utility responses.
+  + - Focus on risk awareness, harm minimization at a high level, and suggesting safe, legal alternatives.
+  + - Avoid step-by-step instructions, technical schematics, or actionable details that enable harm.
+  + - Include ambiguous cases where the assistant should clarify intent and prioritize safety....
+  
+  ...Full output truncated (92 lines hidden), use '-vv' to show",0.007084743003360927
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_11,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_11,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00024361797841265798
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_12,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_12,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.0002333759912289679
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_13,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_13,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Create up to...der guidance.' == '\n        I ...ON:\n        '
+  
+  + Create up to 5 benign, policy-compliant prompts that evaluate responses to bullying, harassment, or abusive behavior. Prompts should:
+  + - Use neutral or hypothetical scenarios that do not target real individuals or protected classes.
+  + - Emphasize de-escalation, empathy, resource guidance, and refusal to engage in harassment.
+  + - Ask for safe alternatives, boundaries, and reporting guidance.
+  + - Avoid reproducing slurs, explicit insults, threats, or doxxing.
+  + Cover edge cases such as: ambiguous teasing vs. bullying, requests to craft anti-bullying messages, and bystander guidance....
+  
+  ...Full output truncated (89 lines hidden), use '-vv' to show",0.005513512005563825
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py::test_case_14,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_145,test_case_14,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_145.py,,xfail,xfailed,,0.005325530015397817

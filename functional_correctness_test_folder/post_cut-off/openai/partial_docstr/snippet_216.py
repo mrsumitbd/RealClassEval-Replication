@@ -1,0 +1,133 @@
+
+import logging
+import os
+from typing import Optional
+
+
+class Config:
+    """
+    Configuration holder for the MCP client.
+
+    Parameters
+    ----------
+    logger : logging.Logger
+        Logger instance to use.
+    mcp_port : int, default 8765
+        Port number for the MCP server.
+    model : str, default 'gemini/gemini-2.5-flash'
+        Full model identifier (e.g. 'gemini/gemini-2.5-flash').
+    output_dir : str, default ''
+        Directory where output files will be written.
+    temperature : float, default 0
+        Temperature setting for the model.
+    max_iterations : int, default 50
+        Maximum number of iterations for the MCP loop.
+    host : str, default 'localhost'
+        Host address for the MCP server.
+    prompt : str | None, default None
+        Optional prompt to prepend to all requests.
+    confidence : int, default 7
+        Confidence threshold for the MCP loop.
+    project_path : str, default ''
+        Base path for the project.
+    """
+
+    def __init__(
+        self,
+        logger: logging.Logger,
+        mcp_port: int = 8765,
+        model: str = "gemini/gemini-2.5-flash",
+        output_dir: str = "",
+        temperature: float = 0,
+        max_iterations: int = 50,
+        host: str = "localhost",
+        prompt: Optional[str] = None,
+        confidence: int = 7,
+        project_path: str = "",
+    ):
+        self.logger = logger
+        self.mcp_port = mcp_port
+        self.model = model
+        self.output_dir = output_dir
+        self.temperature = temperature
+        self.max_iterations = max_iterations
+        self.host = host
+        self.prompt = prompt
+        self.confidence = confidence
+        self.project_path = project_path
+
+        # Derived attributes
+        self.provider = self._get_provider_from_model(self.model)
+        self.api_key = self._get_api_key_for_model(self.model)
+
+        if self.api_key is None:
+            self.logger.warning(
+                f"No API key found for provider '{self.provider}'. "
+                f"Make sure the environment variable "
+                f"'{self._get_env_var_for_provider(self.provider)}' is set."
+            )
+
+    def _get_provider_from_model(self, model: str) -> str:
+        """
+        Extract the provider name from a full model identifier.
+
+        Parameters
+        ----------
+        model : str
+            Full model identifier (e.g. 'gemini/gemini-2.5-flash').
+
+        Returns
+        -------
+        str
+            Provider name (e.g. 'gemini').
+        """
+        if "/" in model:
+            return model.split("/", 1)[0].lower()
+        # Fallback: if no slash, assume the whole string is the provider
+        return model.lower()
+
+    def _get_env_var_for_provider(self, provider: str) -> str:
+        """
+        Get the expected environment variable name for a provider.
+
+        Parameters
+        ----------
+        provider : str
+            Provider name (e.g. 'gemini').
+
+        Returns
+        -------
+        str
+            Environment variable name that should contain the API key.
+        """
+        mapping = {
+            "gemini": "GEMINI_API_KEY",
+            "openai": "OPENAI_API_KEY",
+            "anthropic": "ANTHROPIC_API_KEY",
+            "google": "GOOGLE_API_KEY",
+            "cohere": "COHERE_API_KEY",
+            "mistral": "MISTRAL_API_KEY",
+            "huggingface": "HUGGINGFACE_API_KEY",
+            "vertexai": "VERTEXAI_API_KEY",
+            "aws": "AWS_ACCESS_KEY_ID",
+            "azure": "AZURE_OPENAI_API_KEY",
+        }
+        return mapping.get(provider.lower(), f"{provider.upper()}_API_KEY")
+
+    def _get_api_key_for_model(self, model_name: str) -> Optional[str]:
+        """
+        Retrieve the API key for the given model from environment variables.
+
+        Parameters
+        ----------
+        model_name : str
+            Full model identifier.
+
+        Returns
+        -------
+        str | None
+            The API key if found, otherwise None.
+        """
+        provider = self._get_provider_from_model(model_name)
+        env_var = self._get_env_var_for_provider(provider)
+        return os.getenv(env_var)

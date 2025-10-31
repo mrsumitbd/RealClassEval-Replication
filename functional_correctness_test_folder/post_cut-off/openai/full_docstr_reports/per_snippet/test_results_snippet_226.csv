@@ -1,0 +1,66 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_0,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_0,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.00031346899777418
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_1,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_1,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-1,939.00' == '$-1939.0'
+  
+  - $-1939.0
+  ? -
+  + -1,939.00
+  ?   +     +",0.0006115069991210476
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_2,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_2,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert 'N/A' == '$0.0'
+  
+  - $0.0
+  + N/A",0.00045087699982104823
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_3,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_3,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to bytes.__format__,0.00043814100354211405
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_4,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_4,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-2,354.04' == '-2354.04'
+  
+  - -2354.04
+  + -2,354.04
+  ?   +",0.0005136200052220374
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_5,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_5,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,327.0000' == '$1327.0'
+  
+  - $1327.0
+  + $1,327.0000
+  ?   +     +++",0.0005187899951124564
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_6,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_6,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to bytes.__format__,0.0002413749971310608
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_7,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_7,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'is_integer',0.0003520739992382005
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_8,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_8,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.00023915500059956685
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_9,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_9,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert 'N/A' == '0.0 [Y!CrxTp%/#*'
+  
+  - 0.0 [Y!CrxTp%/#*
+  + N/A",0.0004507320045377128
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_10,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_10,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-213,600.00%' == '-213600.00%'
+  
+  - -213600.00%
+  + -213,600.00%
+  ?     +",0.0005461059990921058
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_11,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_11,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,TypeError: unsupported format string passed to bytes.__format__,0.0002477609959896654
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_12,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_12,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$-2,354.0400' == '$-2354.039999999999964'
+  
+  - $-2354.039999999999964
+  + $-2,354.0400",0.0004913290031254292
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_13,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_13,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + $1,566.73",0.0006992710041231476
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_14,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_14,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,AttributeError: 'tuple' object has no attribute 'is_integer',0.0003425429968046956
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_15,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_15,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.00024505100009264424
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_16,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_16,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + $1,566.73",0.00046629599819425493
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_17,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_17,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,327.0000' == '$1327.0'
+  
+  - $1327.0
+  + $1,327.0000
+  ?   +     +++",0.000504720002936665
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_18,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_18,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '$1,566.73' == '$1566.7264'
+  
+  - $1566.7264
+  + $1,566.73",0.00046534599823644385
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_19,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_19,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,AttributeError: 'int' object has no attribute 'upper',0.00024389499594690278
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_20,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_20,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,"AssertionError: assert '-1,063.31' == '$-1063.307999999999993'
+  
+  - $-1063.307999999999993
+  + -1,063.31",0.0004458109979168512
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_21,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_21,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,TypeError: unsupported operand type(s) for *: 'dict' and 'int',0.0002446899961796589
+functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py::test_case_22,functional_correctness_test_folder.post_cut-off.openai.full_docstr.test_snippet_226,test_case_22,functional_correctness_test_folder/post_cut-off/openai/full_docstr/test_snippet_226.py,,,failed,AttributeError: 'PriceFormatter' object has no attribute 'format_price',0.0002364230022067204

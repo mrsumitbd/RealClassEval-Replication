@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_269.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_269,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_269.py,,,failed,TypeError: _TaskConfig.__init__() missing 2 required positional arguments: 'name' and 'priority',8.858297951519489e-05

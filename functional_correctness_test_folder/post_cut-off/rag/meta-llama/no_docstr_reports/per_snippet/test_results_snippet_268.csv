@@ -1,0 +1,26 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_268,test_case_0,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py,,xfail,xfailed,,0.0002647920046001673
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_268,test_case_1,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.000206290977075696
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_268,test_case_2,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00015295890625566244
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_268,test_case_3,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.0005435000639408827
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_268,test_case_4,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00017391692381352186
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py::test_case_5,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_268,test_case_5,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py,,xfail,xfailed,,0.0001716669648885727
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py::test_case_6,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_268,test_case_6,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py,,,failed,"AssertionError: assert 'builtins.dict' == 'collections.defaultdict'
+  
+  - collections.defaultdict
+  + builtins.dict",0.00046791695058345795
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py::test_case_7,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_268,test_case_7,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py,,xfail,xfailed,,0.00020545802544802427
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py::test_case_8,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_268,test_case_8,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py,,xfail,xfailed,,0.00015341700054705143
+functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py::test_case_9,functional_correctness_test_folder.post_cut-off.rag.meta-llama.no_docstr.test_snippet_268,test_case_9,functional_correctness_test_folder/post_cut-off/rag/meta-llama/no_docstr/test_snippet_268.py,,xfail,xfailed,,0.00016208307351917028

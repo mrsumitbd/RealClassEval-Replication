@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_54.py::test_case_0,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_54,test_case_0,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_54.py,,,failed,AttributeError: 'Enum' object has no attribute 'val_map',8.387499838136137e-05
+functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_54.py::test_case_1,functional_correctness_test_folder.csn.codestral.partial_docstr.test_snippet_54,test_case_1,functional_correctness_test_folder/csn/codestral/partial_docstr/test_snippet_54.py,,,failed,AttributeError: 'Enum' object has no attribute 'val_map',7.279199780896306e-05

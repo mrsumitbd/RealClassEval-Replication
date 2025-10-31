@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_84.py::test_case_0,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_84,test_case_0,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_84.py,,,failed,ValueError: title cannot be None,0.00010529201244935393
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_84.py::test_case_1,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_84,test_case_1,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_84.py,,xfail,xfailed,,8.324999362230301e-05
+functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_84.py::test_case_2,functional_correctness_test_folder.csn.gpt-5.no_docstr.test_snippet_84,test_case_2,functional_correctness_test_folder/csn/gpt-5/no_docstr/test_snippet_84.py,,,failed,ValueError: title cannot be None,6.741701508872211e-05

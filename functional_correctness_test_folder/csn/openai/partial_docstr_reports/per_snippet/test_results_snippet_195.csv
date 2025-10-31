@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_195.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_195,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_195.py,,xfail,xfailed,,8.733299910090864e-05

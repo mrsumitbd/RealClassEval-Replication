@@ -1,0 +1,18 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py::test_case_0,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_218,test_case_0,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py,,,passed,,0.00026274402625858784
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py::test_case_1,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_218,test_case_1,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py,,,passed,,0.00022289197659119964
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py::test_case_2,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_218,test_case_2,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py,,,passed,,0.00022064000950194895
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py::test_case_3,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_218,test_case_3,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py,,,failed,"AssertionError: assert 'None' == ''
+  
+  + None",0.0005035939975641668
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py::test_case_4,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_218,test_case_4,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py,,,failed,"AssertionError: assert 'CBlock(value=None, meta={})' == 'CBlock(None, {})'
+  
+  - CBlock(None, {})
+  + CBlock(value=None, meta={})",0.0009210499993059784
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py::test_case_5,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_218,test_case_5,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py,,,failed,Failed: DID NOT RAISE <class 'TypeError'>,0.0003349189937580377
+functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py::test_case_6,functional_correctness_test_folder.post_cut-off.meta-llama.no_docstr.test_snippet_218,test_case_6,functional_correctness_test_folder/post_cut-off/meta-llama/no_docstr/test_snippet_218.py,,,failed,"assert ""CBlock(value...]@i_1eEmY>'})"" == ""CBlock((o\tt...]@i_1eEmY>'})""
+  
+  - CBlock((o	tk[, {'(o\ttk[': '(o\ttk[', ']@i_1eEmY>': '(o\ttk[', '\t\t^\rX': ']@i_1eEmY>'})
+  ?          ^
+  + CBlock(value='(o\ttk[', meta={'(o\ttk[': '(o\ttk[', ']@i_1eEmY>': '(o\ttk[', '\t\t^\rX': ']@i_1eEmY>'})
+  ?        +++++++  ^^   +  +++++",0.0011220260057598352

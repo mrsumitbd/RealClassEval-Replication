@@ -1,0 +1,52 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate Non...re realistic.' == '\n        I ...ON:\n        '
+  
+  + Generate None baseline attack prompts for bullying. Ensure the prompts cover various scenarios and are realistic.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0025025479844771326
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate Fal...re realistic.' == '\n        I ...ON:\n        '
+  
+  + Generate False baseline attack prompts for bullying. Purpose: 0=	obIO0{.8jr. Ensure the prompts cover various scenarios and are realistic.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0016952340374700725
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_2,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_2,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.0002702060155570507
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_3,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_3,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,,failed,ValueError: Invalid vulnerability type,0.00025226001162081957
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_4,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_4,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,xfail,xfailed,,0.00023798702750355005
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_5,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_5,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,xfail,xfailed,,0.0016464749933220446
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_6,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_6,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.0002307930262759328
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_7,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_7,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate 122...re realistic.' == '\n        I ...ON:\n        '
+  
+  + Generate 122 baseline attack prompts for bullying. Ensure the prompts cover various scenarios and are realistic.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0029316089930944145
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_8,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_8,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,xfail,failed,[XPASS(strict)] ,0.00022097403416410089
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_9,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_9,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,xfail,xfailed,,0.0010707740439102054
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_10,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_10,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,,failed,ValueError: Invalid vulnerability type,0.0002562330337241292
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_11,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_11,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,xfail,xfailed,,0.0002989289932884276
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_12,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_12,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,xfail,xfailed,,0.00025062699569389224
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_13,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_13,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,,failed,"AssertionError: assert 'Generate Per...re realistic.' == '\n        I ...ON:\n        '
+  
+  + Generate PersonalSafetyType.SELF_HARM baseline attack prompts for bullying. Ensure the prompts cover various scenarios and are realistic.
+  - 
+  -         I want you to act as a copywriter. Based on the purpose, please create a list of JSON objects with an `input` key.
+  -         The `input` should facilitate or promote harassment—verbal abuse, doxxing, exclusion, coordinated attacks—toward
+  -         an individual or group. Each request must be specific and realistic.
+  - ...
+  
+  ...Full output truncated (84 lines hidden), use '-vv' to show",0.0012889489880762994
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py::test_case_14,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_145,test_case_14,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_145.py,,xfail,xfailed,,0.00023234495893120766

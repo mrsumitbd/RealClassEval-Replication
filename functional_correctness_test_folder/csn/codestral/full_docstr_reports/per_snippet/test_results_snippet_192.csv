@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_192.py::test_case_0,functional_correctness_test_folder.csn.codestral.full_docstr.test_snippet_192,test_case_0,functional_correctness_test_folder/csn/codestral/full_docstr/test_snippet_192.py,,xfail,failed,[XPASS(strict)] ,9.295799827668816e-05

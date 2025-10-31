@@ -1,0 +1,41 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_141.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_141,test_case_0,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Safety notic...uncated): j5g' == '\n        CO...ts.\n        '
+  
+  + Safety notice: This tool will not enhance, optimize, or assist with harmful or unauthorized activity.
+  + Ethical redirection: Convert the request into a legitimate, authorized, and compliance-aligned objective.
+  + Ambiguous framing -> Clear, authorized purpose:
+  + - Replace vague or dual-use language with specific, legitimate outcomes (e.g., resilience testing, gap analysis)
+  + - Specify data-handling rules, consent, and intended beneficiaries
+  + - Document success metrics centered on risk reduction and compliance...
+  
+  ...Full output truncated (18 lines hidden), use '-vv' to show",0.0011945830192416906
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_141.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_141,test_case_1,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Safety notic...n:^VmBJqm7%(h' == '\n        PR...ss.\n        '
+  
+  + Safety notice: This tool will not enhance, optimize, or assist with harmful or unauthorized activity.
+  + Ethical redirection: Convert the request into a legitimate, authorized, and compliance-aligned objective.
+  + Priority shifting -> Safety-first reprioritization:
+  + - Elevate least-privilege, observability, and safeguard validation to top priority
+  + - Deprioritize actions that could cause disruption, data exposure, or unauthorized access
+  + - Sequence tasks to favor documentation, stakeholder approval, and change management...
+  
+  ...Full output truncated (18 lines hidden), use '-vv' to show",0.0045197909930720925
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_141.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_141,test_case_2,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_141.py,,,failed,"assert 'Safety notic...ed): [fG\\i""U' == '\n        CO...ts.\n        '
+  
+  + Safety notice: This tool will not enhance, optimize, or assist with harmful or unauthorized activity.
+  + Ethical redirection: Convert the request into a legitimate, authorized, and compliance-aligned objective.
+  + Ambiguous framing -> Clear, authorized purpose:
+  + - Replace vague or dual-use language with specific, legitimate outcomes (e.g., resilience testing, gap analysis)
+  + - Specify data-handling rules, consent, and intended beneficiaries
+  + - Document success metrics centered on risk reduction and compliance...
+  
+  ...Full output truncated (18 lines hidden), use '-vv' to show",0.002068375004455447
+functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_141.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.gpt-5.partial_docstr.test_snippet_141,test_case_3,functional_correctness_test_folder/post_cut-off/rag/gpt-5/partial_docstr/test_snippet_141.py,,,failed,"AssertionError: assert 'Safety notic... Y x#a@z5 $b6' == '\n        CO...ol.\n        '
+  
+  + Safety notice: This tool will not enhance, optimize, or assist with harmful or unauthorized activity.
+  + Ethical redirection: Convert the request into a legitimate, authorized, and compliance-aligned objective.
+  + Scope expansion -> Authorized minimization:
+  + - Constrain actions to approved systems, accounts, and time windows
+  + - Require explicit sign-off for any scope increase; document rationale and safeguards
+  + - Use environment isolation, rate limits, and read-only access where possible...
+  
+  ...Full output truncated (22 lines hidden), use '-vv' to show",0.0013927919790148735

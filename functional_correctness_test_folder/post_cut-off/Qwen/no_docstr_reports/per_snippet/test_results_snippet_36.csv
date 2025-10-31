@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_36.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_36,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_36.py,,,failed,"AssertionError: assert 'builtins.str' == 'rich.console.Group'
+  
+  - rich.console.Group
+  + builtins.str",0.044443910010159016
+functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_36.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.no_docstr.test_snippet_36,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/no_docstr/test_snippet_36.py,,,failed,"AssertionError: assert 'builtins.str' == 'rich.console.Group'
+  
+  - rich.console.Group
+  + builtins.str",0.0007807830115780234

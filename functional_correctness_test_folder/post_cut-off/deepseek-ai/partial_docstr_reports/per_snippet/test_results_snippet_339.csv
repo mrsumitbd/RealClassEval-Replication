@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_339.py::test_case_0,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_339,test_case_0,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_339.py,,xfail,failed,[XPASS(strict)] ,0.00025510601699352264
+functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_339.py::test_case_1,functional_correctness_test_folder.post_cut-off.deepseek-ai.partial_docstr.test_snippet_339,test_case_1,functional_correctness_test_folder/post_cut-off/deepseek-ai/partial_docstr/test_snippet_339.py,,,failed,"AssertionError: assert '/Users/musfi...nClassGen/src' == '/Users/musfi.../pynguin_expt'
+  
+  - /Users/musfiqurrahman/Documents/MISC/pynguin_expt
+  + /Users/musfiqurrahman/Documents/PhD/Replication_Packages_Backup/OpenClassGen/src",0.0009695820044726133

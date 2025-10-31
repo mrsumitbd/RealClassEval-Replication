@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_297.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.partial_docstr.test_snippet_297,test_case_0,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_297.py,,xfail,xfailed,,0.0003043330507352948
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_297.py::test_case_1,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.partial_docstr.test_snippet_297,test_case_1,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_297.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.00045974995009601116
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_297.py::test_case_2,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.partial_docstr.test_snippet_297,test_case_2,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_297.py,,xfail,xfailed,,0.00021908397320657969
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_297.py::test_case_3,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.partial_docstr.test_snippet_297,test_case_3,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_297.py,,xfail,xfailed,,0.0005349580897018313
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_297.py::test_case_4,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.partial_docstr.test_snippet_297,test_case_4,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/partial_docstr/test_snippet_297.py,,,failed,"AssertionError: assert 'builtins.str' == 'pathlib.PosixPath'
+  
+  - pathlib.PosixPath
+  + builtins.str",0.0005580000579357147

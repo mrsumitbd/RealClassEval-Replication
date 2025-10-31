@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_164.py::test_case_0,functional_correctness_test_folder.csn.deepseek-ai.full_docstr.test_snippet_164,test_case_0,functional_correctness_test_folder/csn/deepseek-ai/full_docstr/test_snippet_164.py,,,failed,"assert 0 is None
+ +  where 0 = <snippet_164.patch_obj object at 0x1079a2f20>.start1",0.0001800419995561242

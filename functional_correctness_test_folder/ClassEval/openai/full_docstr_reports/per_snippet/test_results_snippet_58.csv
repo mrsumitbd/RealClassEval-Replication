@@ -1,0 +1,35 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_1,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_mrr_1,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,9.941699681803584e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_mrr_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,0.0063009579898789525
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_mrr_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,0.00010274996748194098
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_mrr_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,0.0006171250133775175
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_mrr_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,0.0003534169518388808
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_6,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_mrr_6,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,0.00017391599249094725
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_7,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_mrr_7,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,failed,"AssertionError: Lists differ: [] != [0.0]
+
+Second list contains 1 additional elements.
+First extra element 0:
+0.0
+
+- []
++ [0.0]",0.00030033302027732134
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMrr::test_mrr_8,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_mrr_8,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,failed,AssertionError: 0.75 != 0.0,0.00013558304635807872
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_1,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_map_1,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,0.00018400000408291817
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_map_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,0.00029804097721353173
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_map_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,0.00032533297780901194
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_map_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,0.00022437499137595296
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_map_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,0.0010030000121332705
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_6,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_map_6,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,0.00031658296938985586
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_7,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_map_7,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,failed,"AssertionError: Lists differ: [] != [0.0]
+
+Second list contains 1 additional elements.
+First extra element 0:
+0.0
+
+- []
++ [0.0]",0.0001984999980777502
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2TestMap::test_map_8,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_map_8,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,9.02090105228126e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2Test::test_metricscalculator2_1,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_metricscalculator2_1,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,0.00011504202848300338
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2Test::test_metricscalculator2_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_metricscalculator2_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,8.033402264118195e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2Test::test_metricscalculator2_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_metricscalculator2_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,7.71670020185411e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py::MetricsCalculator2Test::test_metricscalculator2_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_58,test_metricscalculator2_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_58.py,,,passed,,7.324997568503022e-05

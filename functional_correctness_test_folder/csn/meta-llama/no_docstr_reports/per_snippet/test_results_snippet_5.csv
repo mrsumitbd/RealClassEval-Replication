@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_5.py::test_case_0,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_5,test_case_0,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_5.py,,xfail,xfailed,,8.537498069927096e-05
+functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_5.py::test_case_1,functional_correctness_test_folder.csn.meta-llama.no_docstr.test_snippet_5,test_case_1,functional_correctness_test_folder/csn/meta-llama/no_docstr/test_snippet_5.py,,xfail,failed,[XPASS(strict)] ,7.087501580826938e-05

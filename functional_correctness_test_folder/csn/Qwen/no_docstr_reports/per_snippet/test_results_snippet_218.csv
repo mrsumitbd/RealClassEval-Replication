@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_218.py::test_case_0,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_218,test_case_0,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_218.py,,,passed,,9.733400656841695e-05
+functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_218.py::test_case_1,functional_correctness_test_folder.csn.Qwen.no_docstr.test_snippet_218,test_case_1,functional_correctness_test_folder/csn/Qwen/no_docstr/test_snippet_218.py,,,failed,"assert ""RepeatValueI...Crq(\\r^Nh>')"" == ""<same as pri...Crq(\\r^Nh>'>""
+  
+  - <same as prior '!\tbF8GB8ICrq(\r^Nh>'>
+  + RepeatValueIndicator(key='!\tbF8GB8ICrq(\r^Nh>')",0.00023108301684260368

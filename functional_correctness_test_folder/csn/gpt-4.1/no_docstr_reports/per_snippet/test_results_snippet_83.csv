@@ -1,0 +1,21 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_83.py::test_case_0,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_83,test_case_0,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'string' == 'STRING'
+  
+  - STRING
+  + string",0.0001857499883044511
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_83.py::test_case_1,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_83,test_case_1,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'string' == 'STRING'
+  
+  - STRING
+  + string",0.00038312500691972673
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_83.py::test_case_2,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_83,test_case_2,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'string' == 'STRING'
+  
+  - STRING
+  + string",0.00017099999240599573
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_83.py::test_case_3,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_83,test_case_3,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'string' == 'STRING'
+  
+  - STRING
+  + string",0.00016862500342540443
+functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_83.py::test_case_4,functional_correctness_test_folder.csn.gpt-4.1.no_docstr.test_snippet_83,test_case_4,functional_correctness_test_folder/csn/gpt-4.1/no_docstr/test_snippet_83.py,,,failed,"AssertionError: assert 'boolean' == 'BOOLEAN'
+  
+  - BOOLEAN
+  + boolean",0.00018274999456480145

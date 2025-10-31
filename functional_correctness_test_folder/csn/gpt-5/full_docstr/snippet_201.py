@@ -1,0 +1,93 @@
+import os
+import numpy as np
+
+
+class DigitalFilter:
+    '''Simple Class for Digital Linear Filters.
+
+    Parameters
+    ----------
+    name : str
+        Name of the DFL.
+    savename = str
+        Name with which the filter is saved. If None (default) it is set to the
+        same value as `name`.
+    filter_coeff = list of str
+        By default, the following filter coefficients are checked:
+            ``filter_coeff = ['j0', 'j1', 'sin', 'cos']``
+        This accounts for the standard Hankel and Fourier DLF in CSEM
+        modelling. However, additional coefficient names can be provided via
+        this parameter (in list format).
+    '''
+
+    def __init__(self, name, savename=None, filter_coeff=None):
+        '''Add filter name.'''
+        self.name = str(name)
+        self.savename = str(savename) if savename is not None else self.name
+        self.filter_coeff = list(filter_coeff) if filter_coeff is not None else [
+            'j0', 'j1', 'sin', 'cos']
+
+        self.base = None
+        for coeff in self.filter_coeff:
+            setattr(self, coeff, None)
+
+    def tofile(self, path='filters'):
+        '''Save filter values to ASCII-files.
+        Store the filter base and the filter coefficients in separate files
+        in the directory `path`; `path` can be a relative or absolute path.
+        Examples
+        --------
+        >>> import empymod
+        >>> # Load a filter
+        >>> filt = empymod.filters.Hankel().wer_201_2018
+        >>> # Save it to pure ASCII-files
+        >>> filt.tofile()
+        >>> # This will save the following three files:
+        >>> #    ./filters/wer_201_2018_base.txt
+        >>> #    ./filters/wer_201_2018_j0.txt
+        >>> #    ./filters/wer_201_2018_j1.txt
+        '''
+        # Ensure directory exists
+        os.makedirs(path, exist_ok=True)
+
+        if self.base is None:
+            raise ValueError("Filter 'base' is not set; cannot save to file.")
+
+        basefile = os.path.join(path, f"{self.savename}_base.txt")
+        np.savetxt(basefile, np.asarray(self.base), fmt="%.18e")
+
+        for coeff in self.filter_coeff:
+            if hasattr(self, coeff):
+                data = getattr(self, coeff)
+                if data is not None:
+                    coeffile = os.path.join(
+                        path, f"{self.savename}_{coeff}.txt")
+                    np.savetxt(coeffile, np.asarray(data), fmt="%.18e")
+
+    def fromfile(self, path='filters'):
+        '''Load filter values from ASCII-files.
+        Load filter base and filter coefficients from ASCII files in the
+        directory `path`; `path` can be a relative or absolute path.
+        Examples
+        --------
+        >>> import empymod
+        >>> # Create an empty filter;
+        >>> # Name has to be the base of the text files
+        >>> filt = empymod.filters.DigitalFilter('my-filter')
+        >>> # Load the ASCII-files
+        >>> filt.fromfile()
+        >>> # This will load the following three files:
+        >>> #    ./filters/my-filter_base.txt
+        >>> #    ./filters/my-filter_j0.txt
+        >>> #    ./filters/my-filter_j1.txt
+        >>> # and store them in filt.base, filt.j0, and filt.j1.
+        '''
+        basefile = os.path.join(path, f"{self.savename}_base.txt")
+        if not os.path.isfile(basefile):
+            raise FileNotFoundError(f"Base file not found: {basefile}")
+        self.base = np.loadtxt(basefile)
+
+        for coeff in self.filter_coeff:
+            coeffile = os.path.join(path, f"{self.savename}_{coeff}.txt")
+            if os.path.isfile(coeffile):
+                setattr(self, coeff, np.loadtxt(coeffile))

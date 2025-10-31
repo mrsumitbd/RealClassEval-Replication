@@ -1,0 +1,25 @@
+
+import hashlib
+
+
+class Reader:
+    '''
+    The reader provides integration with cache.
+    @ivar options: An options object.
+    @type options: I{Options}
+    '''
+
+    def __init__(self, options):
+        '''
+        @param options: An options object.
+        @type options: I{Options}
+        '''
+        self.options = options
+
+    def mangle(self, name, x):
+        '''
+        Mangle the name by hashing the I{name} and appending I{x}.
+        @return: the mangled name.
+        '''
+        name_hash = hashlib.sha256(name.encode('utf-8')).hexdigest()
+        return f"{name_hash}_{x}"

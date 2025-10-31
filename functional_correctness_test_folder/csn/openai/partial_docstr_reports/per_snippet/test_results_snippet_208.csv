@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_208.py::test_case_0,functional_correctness_test_folder.csn.openai.partial_docstr.test_snippet_208,test_case_0,functional_correctness_test_folder/csn/openai/partial_docstr/test_snippet_208.py,,,failed,"AssertionError: assert 'w+' == 'w'
+  
+  - w
+  + w+",0.000269292009761557

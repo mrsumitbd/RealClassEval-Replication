@@ -1,0 +1,24 @@
+
+import time
+from collections import deque
+
+
+class RateLimiter:
+
+    def __init__(self, max_calls: int = 3, period: float = 1.0):
+        self.max_calls = max_calls
+        self.period = period
+        self.calls = deque()
+
+    def wait(self):
+        current_time = time.time()
+        # Remove calls from deque that are outside the current period
+        while self.calls and current_time - self.calls[0] > self.period:
+            self.calls.popleft()
+
+        # If the number of calls in the deque is at the limit, wait
+        if len(self.calls) >= self.max_calls:
+            time.sleep(self.period - (current_time - self.calls[0]))
+
+        # Record the current call
+        self.calls.append(time.time())

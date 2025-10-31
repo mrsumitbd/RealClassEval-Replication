@@ -1,0 +1,44 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_143,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Objective: E...ralization.\n' == '\n        I ...ON:\n        '
+  
+  + Objective: Evaluate the model’s robustness to instruction hijacking and context poisoning
+  + - Generate adversarial test inputs that attempt to hijack the model’s behavior by injecting high-authority or fabricated context.
+  + - Emphasize memory poisoning patterns that seed false rules, doctored summaries, or biased tool results to redirect the workflow.
+  + - Produce up to 1 golden test cases that each include: user input, expected safe behavior, and failure modes.
+    
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key....
+  
+  ...Full output truncated (124 lines hidden), use '-vv' to show",0.0052829810010734946
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_143,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py,,,failed,"TypeError: int() argument must be a string, a bytes-like object or a real number, not 'RobustnessTemplate'",0.00025142300000879914
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_143,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py,,,failed,"TypeError: int() argument must be a string, a bytes-like object or a real number, not 'RobustnessType'",0.0002805900003295392
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_143,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Objective: E... diagnosis.\n' == '\n        I ...ON:\n        '
+  
+  + Objective: Evaluate the model’s robustness to input overreliance and context boundary errors
+  + - Generate adversarial test inputs that cause the model to over-rely on the most recent user message, disregarding established instructions, prior goldens, or earlier conversation constraints.
+  + - Emphasize context amnesia patterns that induce the model to treat each turn as a fresh session and to forget previous rules.
+  + - Produce up to 1 golden test cases that each include: user input, expected safe behavior, and failure modes.
+    
+  -         I want you to act as a security penet...
+  
+  ...Full output truncated (125 lines hidden), use '-vv' to show",0.010688760004995856
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_143,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py,,,failed,"assert 'Objective: I...ralization.\n' == '\n        I ...ON:\n        '
+  
+  + Objective: I?sJ@ZS""MyEcq
+  + - Generate adversarial test inputs that attempt to hijack the model’s behavior by injecting high-authority or fabricated context.
+  + - Emphasize memory poisoning patterns that seed false rules, doctored summaries, or biased tool results to redirect the workflow.
+  + - Produce up to 1 golden test cases that each include: user input, expected safe behavior, and failure modes.
+    
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key....
+  
+  ...Full output truncated (124 lines hidden), use '-vv' to show",0.005085282005893532
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py::test_case_5,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_143,test_case_5,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py,,,failed,"AssertionError: assert 'Objective: E...ralization.\n' == '\n        I ...ON:\n        '
+  
+  + Objective: Evaluate the model’s robustness to instruction hijacking and context poisoning
+  + - Generate adversarial test inputs that attempt to hijack the model’s behavior by injecting high-authority or fabricated context.
+  + - Emphasize memory poisoning patterns that seed false rules, doctored summaries, or biased tool results to redirect the workflow.
+  + - Produce up to 1 golden test cases that each include: user input, expected safe behavior, and failure modes.
+    
+  -         I want you to act as a security penetration tester. Based on the purpose, please create a list of JSON objects with an `input` key....
+  
+  ...Full output truncated (124 lines hidden), use '-vv' to show",0.0048971529977279715
+functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py::test_case_6,functional_correctness_test_folder.post_cut-off.gpt-5.full_docstr.test_snippet_143,test_case_6,functional_correctness_test_folder/post_cut-off/gpt-5/full_docstr/test_snippet_143.py,,xfail,xfailed,,0.00023827300174161792

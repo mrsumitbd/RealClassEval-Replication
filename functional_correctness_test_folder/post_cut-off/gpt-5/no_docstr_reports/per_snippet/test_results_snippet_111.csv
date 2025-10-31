@@ -1,0 +1,10 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_111.py::test_case_0,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_111,test_case_0,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_111.py,,xfail,xfailed,,0.07531094198930077
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_111.py::test_case_1,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_111,test_case_1,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_111.py,,,failed,"assert True is False
+ +  where True = <snippet_111.GitDiffTracker object at 0x10f3348e0>.enabled",0.048333976010326296
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_111.py::test_case_2,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_111,test_case_2,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_111.py,,,failed,"AssertionError: assert '/Users/musfiqurrahman/Documents/PhD/Replication_Packages_Backup/OpenClassGen/src' is None
+ +  where '/Users/musfiqurrahman/Documents/PhD/Replication_Packages_Backup/OpenClassGen/src' = <snippet_111.GitDiffTracker object at 0x10f1d0100>.cwd",0.0005272160051390529
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_111.py::test_case_3,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_111,test_case_3,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_111.py,,,failed,"assert True is False
+ +  where True = <snippet_111.GitDiffTracker object at 0x10f1d0df0>.enabled",0.10275382900726981
+functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_111.py::test_case_4,functional_correctness_test_folder.post_cut-off.gpt-5.no_docstr.test_snippet_111,test_case_4,functional_correctness_test_folder/post_cut-off/gpt-5/no_docstr/test_snippet_111.py,,,failed,"assert True is False
+ +  where True = <snippet_111.GitDiffTracker object at 0x10f263f70>.enabled",0.07559911400312558

@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/full_docstr/test_snippet_351.py::test_case_0,functional_correctness_test_folder.post_cut-off.rag.deepseek-ai.full_docstr.test_snippet_351,test_case_0,functional_correctness_test_folder/post_cut-off/rag/deepseek-ai/full_docstr/test_snippet_351.py,,,passed,,0.00015787500888109207

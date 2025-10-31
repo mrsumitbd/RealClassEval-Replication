@@ -1,0 +1,50 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestAddUser::test_add_user,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_add_user,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,0.00011441699462011456
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestAddUser::test_add_user_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_add_user_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,8.149998029693961e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestAddUser::test_add_user_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_add_user_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,7.94590450823307e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestAddUser::test_add_user_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_add_user_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,7.129204459488392e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestAddUser::test_add_user_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_add_user_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,6.975000724196434e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestRemoveUser::test_remove_user,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_remove_user,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,9.720900561660528e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestRemoveUser::test_remove_user_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_remove_user_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,7.879099575802684e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestRemoveUser::test_remove_user_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_remove_user_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,7.104204269126058e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestRemoveUser::test_remove_user_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_remove_user_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,7.5958960223943e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestRemoveUser::test_remove_user_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_remove_user_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,7.604202255606651e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestSendMessage::test_send_message,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_send_message,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,failed,"AssertionError: {'John': [], 'Mary': [{'sender': 'John', 'receiver'[62 chars]7'}]} != {'John': [{'sender': 'John', 'receiver': 'Mary', 'm[156 chars]7'}]}
+- {'John': [],
++ {'John': [{'message': 'Hello',
++            'receiver': 'Mary',
++            'sender': 'John',
++            'timestamp': '2025-10-10 23:55:27'}],
+   'Mary': [{'message': 'Hello',
+             'receiver': 'Mary',
+             'sender': 'John',
+             'timestamp': '2025-10-10 23:55:27'}]}",0.00045654195128008723
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestSendMessage::test_send_message_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_send_message_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,0.00010012497659772635
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestSendMessage::test_send_message_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_send_message_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,8.445902494713664e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestSendMessage::test_send_message_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_send_message_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,8.016702486202121e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestSendMessage::test_send_message_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_send_message_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,6.854103412479162e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestGetMessages::test_get_messages,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_get_messages,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,9.641604265198112e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestGetMessages::test_get_messages_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_get_messages_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,0.00011162500595673919
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestGetMessages::test_get_messages_3,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_get_messages_3,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,6.583298090845346e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestGetMessages::test_get_messages_4,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_get_messages_4,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,7.945898687466979e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestGetMessages::test_get_messages_5,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_get_messages_5,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,passed,,7.604202255606651e-05
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestMain::test_main,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_main,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,failed,"AssertionError: {'John': [], 'Mary': [{'sender': 'John', 'receiver'[62 chars]7'}]} != {'John': [{'sender': 'John', 'receiver': 'Mary', 'm[156 chars]7'}]}
+- {'John': [],
++ {'John': [{'message': 'Hello',
++            'receiver': 'Mary',
++            'sender': 'John',
++            'timestamp': '2025-10-10 23:55:27'}],
+   'Mary': [{'message': 'Hello',
+             'receiver': 'Mary',
+             'sender': 'John',
+             'timestamp': '2025-10-10 23:55:27'}]}",0.00044891698053106666
+functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py::ChatTestMain::test_main_2,functional_correctness_test_folder.ClassEval.openai.full_docstr.test_snippet_21,test_main_2,functional_correctness_test_folder/ClassEval/openai/full_docstr/test_snippet_21.py,,,failed,"AssertionError: {'John': [], 'Mary': [{'sender': 'John', 'receiver'[62 chars]7'}]} != {'John': [{'sender': 'John', 'receiver': 'Mary', 'm[156 chars]7'}]}
+- {'John': [],
++ {'John': [{'message': 'Hello',
++            'receiver': 'Mary',
++            'sender': 'John',
++            'timestamp': '2025-10-10 23:55:27'}],
+   'Mary': [{'message': 'Hello',
+             'receiver': 'Mary',
+             'sender': 'John',
+             'timestamp': '2025-10-10 23:55:27'}]}",0.00033658399479463696

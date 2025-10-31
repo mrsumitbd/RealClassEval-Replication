@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_36.py::test_case_0,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_36,test_case_0,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_36.py,,,failed,"AssertionError: assert 'rich.text.Text' == 'rich.console.Group'
+  
+  - rich.console.Group
+  + rich.text.Text",0.04759887797990814
+functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_36.py::test_case_1,functional_correctness_test_folder.post_cut-off.Qwen.partial_docstr.test_snippet_36,test_case_1,functional_correctness_test_folder/post_cut-off/Qwen/partial_docstr/test_snippet_36.py,,,failed,"AssertionError: assert 'rich.text.Text' == 'rich.console.Group'
+  
+  - rich.console.Group
+  + rich.text.Text",0.0009821759886108339
